@@ -10,6 +10,7 @@ class ApiSync {
   constructor() {
     this.syncInterval = null;
     this.isRunning = false;
+
     this.httpClient = axios.create({
       baseURL: config.api.baseUrl,
       timeout: 30000,
@@ -30,7 +31,7 @@ class ApiSync {
     }
 
     console.log(
-      `Starting API sync service - syncing every ${config.api.syncIntervalMs}ms to ${config.api.baseUrl}`,
+      `Starting API sync service - syncing every ${config.api.syncIntervalMs}ms to ${config.api.baseUrl}`
     );
 
     this.isRunning = true;
@@ -48,7 +49,7 @@ class ApiSync {
     try {
       // Get unsent records
       const records = await sqliteHandler.getUnsentRecords(
-        config.api.batchSize,
+        config.api.batchSize
       );
 
       if (records.length > 0) {
@@ -56,13 +57,16 @@ class ApiSync {
 
         // Prepare payload
         const payload = records.map((r) => {
-          // SQLite stores `value` as TEXT, so numbers come back out as
-          // strings (e.g. "123.45"). Convert back using the recorded
-          // value_type so numeric tags reach the server as real numbers.
+          // SQLite stores `value` as TEXT, so numbers/booleans come back
+          // out as strings (e.g. "123.45", "true"). Convert back using the
+          // recorded value_type so these reach the server as real types.
           let value = r.value;
           if (r.value_type === "number" && value !== null && value !== "") {
             const n = Number(value);
             if (!Number.isNaN(n)) value = n;
+          } else if (r.value_type === "boolean") {
+            if (value === "true") value = true;
+            else if (value === "false") value = false;
           }
 
           const data = {
@@ -105,7 +109,7 @@ class ApiSync {
       if (error.response) {
         console.error(
           `API error: ${error.response.status}`,
-          error.response.data,
+          error.response.data
         );
       } else if (error.request) {
         console.error("API request failed - no response received");
@@ -117,7 +121,7 @@ class ApiSync {
     // Schedule next sync
     this.syncInterval = setTimeout(
       () => this.sync(),
-      config.api.syncIntervalMs,
+      config.api.syncIntervalMs
     );
   }
 
