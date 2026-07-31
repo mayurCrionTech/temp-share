@@ -10,7 +10,6 @@ class ApiSync {
   constructor() {
     this.syncInterval = null;
     this.isRunning = false;
-
     this.httpClient = axios.create({
       baseURL: config.api.baseUrl,
       timeout: 30000,
@@ -22,16 +21,24 @@ class ApiSync {
   }
 
   /**
+   * Consistent timestamp prefix for every log line
+   */
+  _ts() {
+    return `[${new Date().toLocaleString()}]`;
+  }
+
+  /**
    * Start the API sync service
    */
   start() {
     if (this.isRunning) {
-      console.warn("API sync service is already running");
+      console.warn(this._ts(), "API sync service is already running");
       return;
     }
 
     console.log(
-      `Starting API sync service - syncing every ${config.api.syncIntervalMs}ms to ${config.api.baseUrl}`
+      this._ts(),
+      `Starting API sync service - syncing every ${config.api.syncIntervalMs}ms to ${config.api.baseUrl}`,
     );
 
     this.isRunning = true;
@@ -49,24 +56,21 @@ class ApiSync {
     try {
       // Get unsent records
       const records = await sqliteHandler.getUnsentRecords(
-        config.api.batchSize
+        config.api.batchSize,
       );
 
       if (records.length > 0) {
-        console.log(`Syncing ${records.length} records to server...`);
+        console.log(this._ts(), `Syncing ${records.length} records to server...`);
 
         // Prepare payload
         const payload = records.map((r) => {
-          // SQLite stores `value` as TEXT, so numbers/booleans come back
-          // out as strings (e.g. "123.45", "true"). Convert back using the
-          // recorded value_type so these reach the server as real types.
+          // SQLite stores `value` as TEXT, so numbers come back out as
+          // strings (e.g. "123.45"). Convert back using the recorded
+          // value_type so numeric tags reach the server as real numbers.
           let value = r.value;
           if (r.value_type === "number" && value !== null && value !== "") {
             const n = Number(value);
             if (!Number.isNaN(n)) value = n;
-          } else if (r.value_type === "boolean") {
-            if (value === "true") value = true;
-            else if (value === "false") value = false;
           }
 
           const data = {
@@ -98,30 +102,31 @@ class ApiSync {
 
         if (response.status >= 200 && response.status < 300) {
           await sqliteHandler.markAsSynced(records);
-          console.log(`Successfully synced ${records.length} records`);
+          console.log(this._ts(), `Successfully synced ${records.length} records`);
         } else {
-          console.warn(`API returned status ${response.status}`);
+          console.warn(this._ts(), `API returned status ${response.status}`);
         }
       } else {
-        console.log("No records to sync");
+        console.log(this._ts(), "No records to sync");
       }
     } catch (error) {
       if (error.response) {
         console.error(
-          `API error: ${error.response.status}`,
-          error.response.data
+          this._ts(),
+          `API error: ${error.response.status} -`,
+          error.response.data,
         );
       } else if (error.request) {
-        console.error("API request failed - no response received");
+        console.error(this._ts(), "API request failed - no response received");
       } else {
-        console.error("API sync error:", error.message);
+        console.error(this._ts(), "API sync error:", error.message);
       }
     }
 
     // Schedule next sync
     this.syncInterval = setTimeout(
       () => this.sync(),
-      config.api.syncIntervalMs
+      config.api.syncIntervalMs,
     );
   }
 
@@ -129,7 +134,7 @@ class ApiSync {
    * Force an immediate sync
    */
   async forceSync() {
-    console.log("Forcing immediate sync...");
+    console.log(this._ts(), "Forcing immediate sync...");
     await this.sync();
   }
 
@@ -137,7 +142,7 @@ class ApiSync {
    * Stop the API sync service
    */
   stop() {
-    console.log("Stopping API sync service...");
+    console.log(this._ts(), "Stopping API sync service...");
 
     this.isRunning = false;
 
@@ -146,7 +151,7 @@ class ApiSync {
       this.syncInterval = null;
     }
 
-    console.log("API sync service stopped");
+    console.log(this._ts(), "API sync service stopped");
   }
 }
 
