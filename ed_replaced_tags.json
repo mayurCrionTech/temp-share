@@ -1,0 +1,806 @@
+[{
+  "_id": {
+    "$oid": "699d79acefe574e9bb79f5d4"
+  },
+  "asset_id": [],
+  "tagname": "P001_TDC_111_ACTUAL_VALUE",
+  "latestValue": 31.0034,
+  "unit": "°C",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 30,
+    "maxValue": 32
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699ef1f343857e02442746a5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79afefe574e9bb7b4755"
+  },
+  "asset_id": [],
+  "tagname": "ED_I2_5",
+  "latestValue": 1.8477,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.6,
+    "maxValue": 2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79b1efe574e9bb7c98d6"
+  },
+  "asset_id": [],
+  "tagname": "ED_I2_4",
+  "latestValue": 1.8085,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.6,
+    "maxValue": 2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79b4efe574e9bb7dea57"
+  },
+  "asset_id": [],
+  "tagname": "ED_I2_3",
+  "latestValue": 1.8285,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.6,
+    "maxValue": 2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79b6efe574e9bb7f3bd8"
+  },
+  "asset_id": [],
+  "tagname": "ED_I2_2",
+  "latestValue": 1.7576,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.6,
+    "maxValue": 2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79b9efe574e9bb808d59"
+  },
+  "asset_id": [],
+  "tagname": "ED_I2_1",
+  "latestValue": 2.0176,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.8,
+    "maxValue": 2.2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79bbefe574e9bb81deda"
+  },
+  "asset_id": [],
+  "tagname": "ED_I2_0",
+  "latestValue": 0.721,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.5,
+    "maxValue": 0.9
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79beefe574e9bb83305b"
+  },
+  "asset_id": [],
+  "tagname": "ED_I1_7",
+  "latestValue": 0.8655,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.8,
+    "maxValue": 1.2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79c0efe574e9bb8481dc"
+  },
+  "asset_id": [],
+  "tagname": "ED_I1_6",
+  "latestValue": 1.0357,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.8,
+    "maxValue": 1.2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79c5efe574e9bb8724de"
+  },
+  "asset_id": [],
+  "tagname": "ED_I1_0_A",
+  "latestValue": 0.3659,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.1,
+    "maxValue": 0.8
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699834981f773e845dc850b0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79c7efe574e9bb88765f"
+  },
+  "asset_id": [],
+  "tagname": "ED_I1_2_A",
+  "latestValue": 0.5233,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.1,
+    "maxValue": 0.8
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699834d41f773e845dc85298"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79caefe574e9bb89c7e0"
+  },
+  "asset_id": [],
+  "tagname": "ED_I1_4_A",
+  "latestValue": 0.1573,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.1,
+    "maxValue": 0.2
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699835201f773e845dc854d8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79cfefe574e9bb8c6ae2"
+  },
+  "asset_id": [],
+  "tagname": "P001_ECC_181.AnalogScaled",
+  "latestValue": 738.0048,
+  "unit": "µS/cm",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 500,
+    "maxValue": 1000
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "6995729ed67b1b79cf7df516"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79d9efe574e9bb91b0e6"
+  },
+  "asset_id": [],
+  "tagname": "ED_I4_4",
+  "latestValue": 3.7231,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 3.3,
+    "maxValue": 4.1
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699837431f773e845dc8627e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79dcefe574e9bb930267"
+  },
+  "asset_id": [],
+  "tagname": "ED_I4_5",
+  "latestValue": 1.6575,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.5,
+    "maxValue": 1.8
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699837431f773e845dc8627e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79e2efe574e9bb95a569"
+  },
+  "asset_id": [],
+  "tagname": "ED_I2_6_A",
+  "latestValue": 0.5166,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.1,
+    "maxValue": 0.8
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "6995729ed67b1b79cf7df516"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79eaefe574e9bb9999ec"
+  },
+  "asset_id": [],
+  "tagname": "ED_I3_2",
+  "latestValue": 0.9721,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.1
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984bc51f773e845dc8dc41"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79edefe574e9bb9aeb6d"
+  },
+  "asset_id": [],
+  "tagname": "ED_I3_3",
+  "latestValue": 1.0391,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.1
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984bc51f773e845dc8dc41"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79f0efe574e9bb9c3cee"
+  },
+  "asset_id": [],
+  "tagname": "ED_I3_4",
+  "latestValue": 0.9453,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.1
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984bc51f773e845dc8dc41"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79f2efe574e9bb9d8e6f"
+  },
+  "asset_id": [],
+  "tagname": "ED_I3_5",
+  "latestValue": 1.5022,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.4,
+    "maxValue": 1.6
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984bc51f773e845dc8dc41"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79f5efe574e9bb9edff0"
+  },
+  "asset_id": [],
+  "tagname": "ED_I3_6",
+  "latestValue": 0.9972,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.1
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984bc51f773e845dc8dc41"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79f7efe574e9bba03171"
+  },
+  "asset_id": [],
+  "tagname": "ED_I3_0_A",
+  "latestValue": 0.3218,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.1,
+    "maxValue": 0.8
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "699ef55843857e0244274b3a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d79ffefe574e9bba425f4"
+  },
+  "asset_id": [],
+  "tagname": "ED_I3_7",
+  "latestValue": 1.4906,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.3,
+    "maxValue": 1.7
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984c7b1f773e845dc8e1c0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d7a01efe574e9bba57775"
+  },
+  "asset_id": [],
+  "tagname": "ED_I4_0",
+  "latestValue": 1.4817,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.3,
+    "maxValue": 1.7
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984c7b1f773e845dc8e1c0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d7a04efe574e9bba6c8f6"
+  },
+  "asset_id": [],
+  "tagname": "ED_I4_1",
+  "latestValue": 1.4829,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1.3,
+    "maxValue": 1.7
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984c7b1f773e845dc8e1c0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "699d7a09efe574e9bba96bf8"
+  },
+  "asset_id": [],
+  "tagname": "ED_I4_3_A",
+  "latestValue": 0.426,
+  "unit": "bar",
+  "datatype": "REAL",
+  "plcName": "ED Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.1,
+    "maxValue": 0.8
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "69984f591f773e845dc8f706"
+    }
+  ]
+}]
