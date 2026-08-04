@@ -1,0 +1,1026 @@
+[{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0507"
+  },
+  "tagname": "PT_I5_0",
+  "datatype": "REAL",
+  "latestValue": 1.0289,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "699449bbbfb07d6db09adb14"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.1
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.621Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a050a"
+  },
+  "tagname": "PT_I5_1",
+  "datatype": "REAL",
+  "latestValue": 0.9294,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "699449bbbfb07d6db09adb14"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.1
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.640Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a050d"
+  },
+  "tagname": "T001_TDC_211_ACTUAL_VALUE",
+  "datatype": "REAL",
+  "latestValue": 53.794,
+  "unit": "Celsius",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "699442ffbfb07d6db09ab184"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 50,
+    "maxValue": 60
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0510"
+  },
+  "tagname": "PT_I4_2_A",
+  "datatype": "REAL",
+  "latestValue": 0.3084,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69944aecbfb07d6db09ae3c4"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 0.7
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.644Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0516"
+  },
+  "tagname": "PT_I4_4_A",
+  "datatype": "REAL",
+  "latestValue": 0.3405,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    {
+      "$oid": "69944c47bfb07d6db09aedbe"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 0.8
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.647Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a051f"
+  },
+  "tagname": "PT_I5_3",
+  "datatype": "REAL",
+  "latestValue": 2.2276,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69944b6abfb07d6db09ae741"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 2,
+    "maxValue": 2.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.652Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0522"
+  },
+  "tagname": "PT_I5_2_A",
+  "datatype": "REAL",
+  "latestValue": 0.4801,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69944b6abfb07d6db09ae741"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 0.8
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.654Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0525"
+  },
+  "tagname": "P101_HZ_TEMP_VALUE_AnalogScaled",
+  "datatype": "REAL",
+  "latestValue": 82.0748,
+  "unit": "Celsius",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69944c9dbfb07d6db09af041"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 80,
+    "maxValue": 85
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.655Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a052b"
+  },
+  "tagname": "P001_TDC_221_ACTUAL_VALUE",
+  "datatype": "REAL",
+  "latestValue": 55.1084,
+  "unit": "Celsius",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69944f54bfb07d6db09b01fb"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 52,
+    "maxValue": 58
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.658Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a052e"
+  },
+  "tagname": "PT_I4_1",
+  "datatype": "REAL",
+  "latestValue": 1.2165,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "6994507abfb07d6db09b09d2"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1,
+    "maxValue": 1.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.659Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0531"
+  },
+  "tagname": "PT_I4_0",
+  "datatype": "REAL",
+  "latestValue": 1.1727,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "6994507abfb07d6db09b09d2"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1,
+    "maxValue": 1.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.660Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a053a"
+  },
+  "tagname": "PT_I3_2_A",
+  "datatype": "REAL",
+  "latestValue": 0.4742,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "699452f3bfb07d6db09b1a8e"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 0.7
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.665Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0540"
+  },
+  "tagname": "PT_I3_4_A",
+  "datatype": "REAL",
+  "latestValue": 0.408,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945261bfb07d6db09b1674"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 0.8
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.667Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a054c"
+  },
+  "tagname": "PT_I3_6_A",
+  "datatype": "REAL",
+  "latestValue": 0.4983,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "6994507abfb07d6db09b09d2"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 0.8
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a054f"
+  },
+  "tagname": "PT_I3_7",
+  "datatype": "REAL",
+  "latestValue": 2.1786,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "6994507abfb07d6db09b09d2"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 2,
+    "maxValue": 2.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.674Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0552"
+  },
+  "tagname": "PT_I5_4",
+  "datatype": "REAL",
+  "latestValue": 2.8287,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "6994507abfb07d6db09b09d2"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 2.6,
+    "maxValue": 3
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.675Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a055b"
+  },
+  "tagname": "PT_I1_3",
+  "datatype": "REAL",
+  "latestValue": 0.9047,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945755bfb07d6db09b384f"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.8,
+    "maxValue": 1
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a055e"
+  },
+  "tagname": "PT_I1_4",
+  "datatype": "REAL",
+  "latestValue": 0.82,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945755bfb07d6db09b384f"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.7,
+    "maxValue": 0.9
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.681Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a056d"
+  },
+  "tagname": "PT_I2_6",
+  "datatype": "REAL",
+  "latestValue": 1.0123,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945a5fbfb07d6db09b4d20"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.8,
+    "maxValue": 1.2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.687Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0570"
+  },
+  "tagname": "PT_I2_5",
+  "datatype": "REAL",
+  "latestValue": 2.0415,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945a5fbfb07d6db09b4d20"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1.8,
+    "maxValue": 2.2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.688Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a057c"
+  },
+  "tagname": "P001_TDC_511_ACTUAL_VALUE",
+  "datatype": "REAL",
+  "latestValue": 41.7746,
+  "unit": "Celsius",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945c42bfb07d6db09b59eb"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 40,
+    "maxValue": 45
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.693Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a057f"
+  },
+  "tagname": "PT_I1_6",
+  "datatype": "REAL",
+  "latestValue": 1.0265,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945df6bfb07d6db09b655a"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1,
+    "maxValue": 1.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.694Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0582"
+  },
+  "tagname": "PT_I1_5",
+  "datatype": "REAL",
+  "latestValue": 1.1077,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945df6bfb07d6db09b655a"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1,
+    "maxValue": 1.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0585"
+  },
+  "tagname": "PT_I1_7",
+  "datatype": "REAL",
+  "latestValue": 1.4671,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945df6bfb07d6db09b655a"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1.2,
+    "maxValue": 1.6
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.697Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0588"
+  },
+  "tagname": "PT_I2_0",
+  "datatype": "REAL",
+  "latestValue": 1.3588,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945df6bfb07d6db09b655a"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1.2,
+    "maxValue": 1.6
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0594"
+  },
+  "tagname": "P001_TDC_551_ACTUAL_VALUE",
+  "datatype": "REAL",
+  "latestValue": 55.1194,
+  "unit": "Celsius",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 45,
+    "maxValue": 65
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.703Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a059a"
+  },
+  "tagname": "PT_I2_2",
+  "datatype": "REAL",
+  "latestValue": 1.5988,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69945df6bfb07d6db09b655a"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1.2,
+    "maxValue": 1.6
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.705Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05a0"
+  },
+  "tagname": "PT_I2_3_A",
+  "datatype": "REAL",
+  "latestValue": 0.272,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "6994608dbfb07d6db09b76af"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 0.8
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.707Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05a6"
+  },
+  "tagname": "PT_I3_0",
+  "datatype": "REAL",
+  "latestValue": 1.0428,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69946223bfb07d6db09b8212"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.709Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05a9"
+  },
+  "tagname": "PT_I3_1",
+  "datatype": "REAL",
+  "latestValue": 1.0139,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "69946223bfb07d6db09b8212"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.711Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05b8"
+  },
+  "tagname": "PT_I1_1",
+  "datatype": "REAL",
+  "latestValue": 1.1346,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "699464abbfb07d6db09b9354"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1,
+    "maxValue": 1.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.716Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05bb"
+  },
+  "tagname": "PT_I1_0",
+  "datatype": "REAL",
+  "latestValue": 1.2254,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "699464abbfb07d6db09b9354"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 1,
+    "maxValue": 1.4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.717Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05c1"
+  },
+  "tagname": "P001_ECC_651.AnalogScaled",
+  "datatype": "REAL",
+  "latestValue": 13.59,
+  "unit": "us/cm",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "6994643dbfb07d6db09b903f"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 30
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.720Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+}]
