@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0507"
+  },
+  "tagname": "PT_I5_0",
+  "datatype": "REAL",
+  "latestValue": 1.0289,
+  "unit": "Bar",
+  "plcName": "PT Production_PLC",
+  "assetId": [
+    {
+      "$oid": "699449bbbfb07d6db09adb14"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.9,
+    "maxValue": 1.1
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.621Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0
+}]
