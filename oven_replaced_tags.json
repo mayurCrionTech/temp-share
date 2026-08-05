@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "699d7a0fefe574e9bbac0efa"
+  },
+  "asset_id": [],
+  "tagname": "P101_TDC_911_CMP.Actual_Value",
+  "latestValue": 119.8875,
+  "unit": "°C",
+  "datatype": "REAL",
+  "plcName": "OVEN Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 113,
+    "maxValue": 127
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d7a11efe574e9bbad607b"
+  },
+  "asset_id": [],
+  "tagname": "P201_TDC_111_CMP.Actual_Value",
+  "latestValue": 188.9993,
+  "unit": "°C",
+  "datatype": "REAL",
+  "plcName": "OVEN Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 183,
+    "maxValue": 197
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d7a14efe574e9bbaeb1fc"
+  },
+  "asset_id": [],
+  "tagname": "P301_TDC_211_CMP.Actual_Value",
+  "latestValue": 196.8566,
+  "unit": "°C",
+  "datatype": "REAL",
+  "plcName": "OVEN Production_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 191,
+    "maxValue": 205
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  }
+}]
