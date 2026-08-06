@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "name": "Tuticorin",
+  "shortName": "TIN",
+  "organization": {
+    "$oid": "6989c2f5b6aeed79af3d3faf"
+  },
+  "usersCount": 6,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:21:06.544Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:21:06.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "name": "Daimler",
+  "shortName": "DI",
+  "organization": {
+    "$oid": "69943bb7bfb07d6db09a827c"
+  },
+  "usersCount": 34,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:00:05.674Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:00:05.674Z"
+  },
+  "__v": 0
+}]
