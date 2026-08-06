@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "6989c2f5b6aeed79af3d3faf"
+  },
+  "name": "Tuticorin Org",
+  "allowedDomains": [],
+  "isDomainRestricted": false,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:20:21.590Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:20:21.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943bb7bfb07d6db09a827c"
+  },
+  "name": "DICV",
+  "allowedDomains": [],
+  "isDomainRestricted": false,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T09:58:15.435Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T09:58:15.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d4c3762553158fd387d794"
+  },
+  "name": "test",
+  "allowedDomains": [],
+  "isDomainRestricted": false,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-07T08:42:30.333Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T08:42:30.333Z"
+  },
+  "__v": 0
+}]
