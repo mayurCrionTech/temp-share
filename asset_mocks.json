@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6978aec231d7bd5e9937dbc5"
+  },
+  "name": "asset01",
+  "code": "ass01",
+  "description": "this is asset 1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-27T12:25:38.428Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T12:25:38.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6978aeda31d7bd5e9937dbc7"
+  },
+  "name": "asset02",
+  "code": "ass02",
+  "description": "this is asset 2",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-27T12:26:02.759Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T12:26:02.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6978aee431d7bd5e9937dbc9"
+  },
+  "name": "asset03",
+  "code": "ass03",
+  "description": "this is asset 3",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-27T12:26:12.665Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T12:26:12.665Z"
+  },
+  "__v": 0
+}]

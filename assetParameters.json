@@ -1,0 +1,5373 @@
+[{
+  "_id": {
+    "$oid": "698b237eab5f6f7b588677b5"
+  },
+  "name": "FQ-816B.1-1",
+  "value": "0.544",
+  "unit": "LPH",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6979e230aa3925bdf0f09c01"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-10T12:24:30.859Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T12:28:57.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698b2432540379a72f38a4cf"
+  },
+  "name": "FQ-816B.1-1",
+  "value": "0.544",
+  "unit": "LPH",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6979e230aa3925bdf0f09c01"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-10T12:27:30.381Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T12:46:08.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698b287bea08b68455ab2497"
+  },
+  "name": "FQ-816B.1-1",
+  "value": "0.544",
+  "unit": "LPH",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6979e230aa3925bdf0f09c01"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-10T12:45:47.163Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:26:04.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698c37bd409046eed2e4df93"
+  },
+  "name": "FQ-816B.1-1",
+  "value": "0.544",
+  "unit": "LPH",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6979e230aa3925bdf0f09c01"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-11T08:03:09.609Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:26:10.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698c385f409046eed2e4e385"
+  },
+  "name": "FQ-816B.1-1",
+  "value": "0.544",
+  "unit": "LPH",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6979e230aa3925bdf0f09c01"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-11T08:05:51.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:26:15.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ef68b3d041700d1558c57"
+  },
+  "name": "FQ-816B.1-1",
+  "value": "0.544",
+  "unit": "LPH",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6979e230aa3925bdf0f09c01"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-13T10:01:47.569Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:26:54.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698f2cd34f19ef0b8b883801"
+  },
+  "name": "Inlet Flow Meter DI Water",
+  "value": "139.441",
+  "unit": "Points",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "698f2105784a6d9e3f8abd11"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-13T13:53:23.911Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:27:41.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992aadff48ded9c4508f9b0"
+  },
+  "name": "Exit Spray Flow DI Water",
+  "value": "142.601",
+  "unit": "Points",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "698f2105784a6d9e3f8abd0b"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T05:27:59.739Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:44:32.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992aaf6f48ded9c4508fa45"
+  },
+  "name": "Header Line Pressure DI Water",
+  "value": "0.011",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "698f2105784a6d9e3f8abd0b"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T05:28:22.331Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:45:18.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992aecacab746761d7f17dd"
+  },
+  "name": "Header Line Pressure DI Water",
+  "value": "0.011",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "698f2105784a6d9e3f8abd0e"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "UnLinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T05:44:42.129Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T09:44:32.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992b14fcab746761d7f26f9"
+  },
+  "name": "Exit Spray Flow DI Water",
+  "value": "142.601",
+  "unit": "Points",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "698f2105784a6d9e3f8abd0b"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T05:55:27.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T05:55:30.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992d6a839b064e1ce9215e3"
+  },
+  "name": "Circulation Pressure Bottom WR5",
+  "value": "1.087",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "698f2106784a6d9e3f8abd29"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T08:34:48.618Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T08:45:07.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992d91aa2b4dd201f1b1fd2"
+  },
+  "name": "Circulation Pressure Bottom WR5",
+  "value": "1.341",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6992d8fca2b4dd201f1b1f0e"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T08:45:14.567Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T09:44:34.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992e6f2116c1f2a3115e3cd"
+  },
+  "name": "Spray Pressure Top DS",
+  "value": "59.367",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c9984587"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T09:44:18.461Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T09:44:36.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992e71a116c1f2a3115e4d8"
+  },
+  "name": "Spray Pressure Top DS",
+  "value": "59.367",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c9984587"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T09:44:58.124Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T10:17:40.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992eeea61ffee7c5ad3309b"
+  },
+  "name": "Spray Pressure Top DS",
+  "value": "59.367",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c9984587"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-16T10:18:18.462Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T11:32:03.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6993018b61ffee7c5ad3a2d5"
+  },
+  "name": "Exit Spray Flow Activation",
+  "value": "59.946",
+  "unit": "Points",
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c99845f3"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Active",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-16T11:37:47.436Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T12:01:40.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699317b9abe7d40f20445793"
+  },
+  "name": "Free Alkali DS",
+  "value": "54.885",
+  "unit": "Points",
+  "asset": {
+    "$oid": "69931796abe7d40f204456af"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c9984599"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-16T13:12:25.170Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T13:12:25.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69931808abe7d40f20445975"
+  },
+  "name": "Bag Filter DeltaP DS",
+  "value": "37.458",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69931796abe7d40f204456af"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c9984596"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-16T13:13:44.922Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T13:13:44.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69931823abe7d40f20445a22"
+  },
+  "name": "Heat Exchanger A DeltaP DS",
+  "value": "36.619",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69931796abe7d40f204456af"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c9984590"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-16T13:14:11.993Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T13:14:11.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699318ec0040f483539a631c"
+  },
+  "name": "Bath Temperature DD",
+  "value": "87.472",
+  "unit": "Celsius",
+  "asset": {
+    "$oid": "69931796abe7d40f204456af"
+  },
+  "tagId": {
+    "$oid": "6992d963cf6f15a1c99845ab"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-16T13:17:32.703Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T13:17:32.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944352bfb07d6db09ab3c7"
+  },
+  "name": "Free Alkali DS",
+  "value": "16.222",
+  "unit": "Points",
+  "asset": {
+    "$oid": "699442ffbfb07d6db09ab184"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0519"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:30:42.216Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:30:42.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944364bfb07d6db09ab47e"
+  },
+  "name": "Bath Temperature DS",
+  "value": "57.176",
+  "unit": "Celsius",
+  "asset": {
+    "$oid": "699442ffbfb07d6db09ab184"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a050d"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:31:00.633Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:34:58.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944a07bfb07d6db09add4a"
+  },
+  "name": "Spray Pressure Bottom DS",
+  "value": "0.946",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "699449bbbfb07d6db09adb14"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a050a"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:59:19.878Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:59:19.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944a16bfb07d6db09addac"
+  },
+  "name": "Spray Pressure Top DS",
+  "value": "0.906",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "699449bbbfb07d6db09adb14"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0507"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:59:34.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:59:34.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944b3abfb07d6db09ae5f6"
+  },
+  "name": "Heat Exchanger A DeltaP DS",
+  "value": "0.248",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69944aecbfb07d6db09ae3c4"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0510"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:04:26.073Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:04:26.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944ba2bfb07d6db09ae8f1"
+  },
+  "name": "Cyclone Inlet Pressure DS",
+  "value": "2.077",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69944b6abfb07d6db09ae741"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a051f"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:06:10.287Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:06:10.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944bb0bfb07d6db09ae950"
+  },
+  "name": "Cyclone DeltaP DS",
+  "value": "0.000",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69944b6abfb07d6db09ae741"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0522"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:06:24.716Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:06:24.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944c1dbfb07d6db09aec5e"
+  },
+  "name": "Bag Filter DeltaP DS",
+  "value": "0.589",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69944be7bfb07d6db09aeab8"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0516"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:08:13.331Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:08:13.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944c6cbfb07d6db09aeefe"
+  },
+  "name": "Bag Filter DeltaP DS",
+  "value": "0.589",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69944c47bfb07d6db09aedbe"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0516"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:09:32.526Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:09:32.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944cc8bfb07d6db09af1a4"
+  },
+  "name": "Oil Separator Temperature DS",
+  "value": "82.762",
+  "unit": "Celsius",
+  "asset": {
+    "$oid": "69944c9dbfb07d6db09af041"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0525"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:11:04.103Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:11:04.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944cd3bfb07d6db09af1f1"
+  },
+  "name": "Oil Separator Flow DS",
+  "value": "11.385",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "69944c9dbfb07d6db09af041"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0528"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:11:15.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:11:15.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944fbcbfb07d6db09b050d"
+  },
+  "name": "Free Alkali DD",
+  "value": "18.346",
+  "unit": "Points",
+  "asset": {
+    "$oid": "69944f54bfb07d6db09b01fb"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0543"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:23:40.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:23:40.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944fd4bfb07d6db09b05a5"
+  },
+  "name": "Bath Temperature DD",
+  "value": "56.371",
+  "unit": "Celsius",
+  "asset": {
+    "$oid": "69944f54bfb07d6db09b01fb"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a052b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:24:04.674Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:24:04.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699450cbbfb07d6db09b0c16"
+  },
+  "name": "Circulation Pressure LH DD",
+  "value": "1.358",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994507abfb07d6db09b09d2"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a052e"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:28:11.316Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:28:11.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699450d0bfb07d6db09b0c43"
+  },
+  "name": "Circulation Pressure RH DD",
+  "value": "1.342",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994507abfb07d6db09b09d2"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0531"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:28:16.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:28:16.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699450e4bfb07d6db09b0cbe"
+  },
+  "name": "Circulation Pressure LH Side Bottom DD",
+  "value": "2.705",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994507abfb07d6db09b09d2"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0552"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:28:36.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:28:36.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699450f2bfb07d6db09b0d21"
+  },
+  "name": "Cyclone Inlet Pressure DD",
+  "value": "2.118",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994507abfb07d6db09b09d2"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a054f"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:28:50.361Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:28:50.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699450f9bfb07d6db09b0d54"
+  },
+  "name": "Cyclone DeltaP DD",
+  "value": "0.026",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994507abfb07d6db09b09d2"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a054c"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:28:57.309Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:28:57.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945234bfb07d6db09b1543"
+  },
+  "name": "Exit Spray Flow DD",
+  "value": "183.570",
+  "unit": "Points",
+  "asset": {
+    "$oid": "699451ffbfb07d6db09b13a2"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0549"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:34:12.647Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:34:12.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945293bfb07d6db09b1804"
+  },
+  "name": "Bag Filter DeltaP DD",
+  "value": "0.532",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945261bfb07d6db09b1674"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0540"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:35:47.432Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:35:47.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945322bfb07d6db09b1c06"
+  },
+  "name": "Heat Exchanger A DeltaP DD",
+  "value": "0.308",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "699452f3bfb07d6db09b1a8e"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a053a"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:38:10.179Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:38:10.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699453d8bfb07d6db09b2112"
+  },
+  "name": "Free Alkali WR1",
+  "value": "0.407",
+  "unit": "Points",
+  "asset": {
+    "$oid": "699453adbfb07d6db09b1fa9"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0564"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:41:12.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:41:12.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945558bfb07d6db09b2acb"
+  },
+  "name": "Spray Bottom Pressure WR1",
+  "value": "0.776",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994551fbfb07d6db09b2912"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0558"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:47:36.779Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:47:36.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945566bfb07d6db09b2b29"
+  },
+  "name": "Spray Top Pressure WR1",
+  "value": "0.807",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994551fbfb07d6db09b2912"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0555"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:47:50.870Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:47:50.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945650bfb07d6db09b314f"
+  },
+  "name": "Water Transfer To Degrease",
+  "value": "14.707",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "69945604bfb07d6db09b2f26"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0567"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:51:44.870Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:51:44.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945713bfb07d6db09b36a0"
+  },
+  "name": "Free Alkali WR2",
+  "value": "0.681",
+  "unit": "Points",
+  "asset": {
+    "$oid": "699456b7bfb07d6db09b33ce"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a056a"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:54:59.394Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:54:59.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994578abfb07d6db09b39ef"
+  },
+  "name": "Spray Bottom Pressure WR2",
+  "value": "0.735",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945755bfb07d6db09b384f"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a055e"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:56:58.096Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:56:58.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945796bfb07d6db09b3a44"
+  },
+  "name": "Spray Top Pressure WR2",
+  "value": "0.916",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945755bfb07d6db09b384f"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a055b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:57:10.596Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:57:10.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699457f7bfb07d6db09b3d11"
+  },
+  "name": "DI Water Spray Flow WR12",
+  "value": "62.650",
+  "unit": "Points",
+  "asset": {
+    "$oid": "699457cfbfb07d6db09b3bbd"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0561"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T11:58:47.657Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T11:58:47.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699459c1bfb07d6db09b48d0"
+  },
+  "name": "Total Concentration Activation",
+  "value": "3.757",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945999bfb07d6db09b4779"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0573"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:06:25.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:06:25.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945a14bfb07d6db09b4b3f"
+  },
+  "name": "PH Activation",
+  "value": "10.335",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "699459e7bfb07d6db09b49d3"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0576"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:07:48.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:07:48.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945a8fbfb07d6db09b4ea5"
+  },
+  "name": "Circulation Pressure Bottom Activation",
+  "value": "2.062",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945a5fbfb07d6db09b4d20"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0570"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:09:51.763Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:09:51.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945ab1bfb07d6db09b4f7b"
+  },
+  "name": "Circulation Pressure LH RH Activation",
+  "value": "0.888",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945a5fbfb07d6db09b4d20"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a056d"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:10:25.235Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:10:25.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945b11bfb07d6db09b524f"
+  },
+  "name": "Exit Spray Flow Activation",
+  "value": "174.871",
+  "unit": "Points",
+  "asset": {
+    "$oid": "69945adfbfb07d6db09b50c1"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0579"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:12:01.582Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:12:01.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945c70bfb07d6db09b5b76"
+  },
+  "name": "Total Acidity Phosphating",
+  "value": "22.138",
+  "unit": "Points",
+  "asset": {
+    "$oid": "69945c42bfb07d6db09b59eb"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a058b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:17:52.888Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:17:52.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945c77bfb07d6db09b5ba8"
+  },
+  "name": "Free Acidity Phosphating",
+  "value": "1.118",
+  "unit": "Points",
+  "asset": {
+    "$oid": "69945c42bfb07d6db09b59eb"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a058e"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:17:59.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:17:59.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945c86bfb07d6db09b5c0d"
+  },
+  "name": "Bath Temperature Phosphating",
+  "value": "44.684",
+  "unit": "Celsius",
+  "asset": {
+    "$oid": "69945c42bfb07d6db09b59eb"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a057c"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:18:14.494Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:18:14.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945d68bfb07d6db09b61e3"
+  },
+  "name": "Hot Water Circuit Temperature Phosphating",
+  "value": "56.310",
+  "unit": "Celsius",
+  "asset": {
+    "$oid": "69945d3cbfb07d6db09b6079"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0594"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:22:00.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:22:00.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945e21bfb07d6db09b66c2"
+  },
+  "name": "Circulation Pressure LH Phosphating",
+  "value": "1.033",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945df6bfb07d6db09b655a"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a057f"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:25:05.435Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:25:05.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945e2dbfb07d6db09b6715"
+  },
+  "name": "Circulation Pressure RH Phosphating",
+  "value": "1.170",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945df6bfb07d6db09b655a"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0582"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:25:17.883Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:25:17.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945e4cbfb07d6db09b67d5"
+  },
+  "name": "Circulation Pressure Bottom 1 Phosphating",
+  "value": "1.375",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945df6bfb07d6db09b655a"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0585"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:25:48.474Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:25:48.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945e57bfb07d6db09b6822"
+  },
+  "name": "Circulation Pressure Bottom 2 Phosphating",
+  "value": "1.583",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945df6bfb07d6db09b655a"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0588"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:25:59.716Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:25:59.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945e63bfb07d6db09b6877"
+  },
+  "name": "Circulation Pressure Hopper Phosphating",
+  "value": "1.502",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69945df6bfb07d6db09b655a"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a059a"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:26:11.706Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:26:11.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69945fe0bfb07d6db09b71e6"
+  },
+  "name": "Accelerator Content Phosphating",
+  "value": "3.122",
+  "unit": "Points",
+  "asset": {
+    "$oid": "69945fbcbfb07d6db09b709c"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a0591"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:32:32.573Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:32:32.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994606bbfb07d6db09b75b7"
+  },
+  "name": "Exit Spray Flow Phosphating",
+  "value": "188.558",
+  "unit": "Points",
+  "asset": {
+    "$oid": "69946031bfb07d6db09b73f5"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a059d"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:34:51.971Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:34:51.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699460d7bfb07d6db09b78d0"
+  },
+  "name": "Heat Exchanger Pressure Loss Phosphating",
+  "value": "0.183",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "6994608dbfb07d6db09b76af"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05a0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:36:39.913Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:36:39.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699461f1bfb07d6db09b80c1"
+  },
+  "name": "Total Acidity WR34",
+  "value": "0.504",
+  "unit": "Points",
+  "asset": {
+    "$oid": "699461c1bfb07d6db09b7f34"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05b5"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:41:21.507Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:41:21.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994626ebfb07d6db09b843f"
+  },
+  "name": "Spray Top Pressure WR3",
+  "value": "1.105",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69946223bfb07d6db09b8212"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05a6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:43:26.072Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:43:26.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994627ebfb07d6db09b84af"
+  },
+  "name": "Spray Bottom Pressure WR3",
+  "value": "1.180",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69946223bfb07d6db09b8212"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05a9"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:43:42.919Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:43:42.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994634ebfb07d6db09b8a42"
+  },
+  "name": "Spray Top Pressure WR4",
+  "value": "0.928",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69946308bfb07d6db09b8832"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05ac"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:47:10.526Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:47:10.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994635abfb07d6db09b8a96"
+  },
+  "name": "Spray Bottom Pressure WR4",
+  "value": "1.000",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69946308bfb07d6db09b8832"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05af"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:47:22.801Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:47:22.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994646bbfb07d6db09b91b4"
+  },
+  "name": "Conductivity WR5",
+  "value": "19.427",
+  "unit": "us/cm",
+  "asset": {
+    "$oid": "6994643dbfb07d6db09b903f"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05c1"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:51:55.143Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:51:55.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699464d1bfb07d6db09b949e"
+  },
+  "name": "Circulation Pressure LH RH WR5",
+  "value": "1.263",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "699464abbfb07d6db09b9354"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05b8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:53:37.549Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:53:37.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699464debfb07d6db09b94f6"
+  },
+  "name": "Circulation Pressure Bottom WR5",
+  "value": "1.346",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "699464abbfb07d6db09b9354"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05bb"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:53:50.203Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:53:50.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994658ebfb07d6db09b99c7"
+  },
+  "name": "Exit Spray Flow WR5",
+  "value": "183.642",
+  "unit": "Points",
+  "asset": {
+    "$oid": "6994655abfb07d6db09b9823"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05be"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:56:46.470Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:56:46.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994661fbfb07d6db09b9dee"
+  },
+  "name": "Conductivity DI Water",
+  "value": "2.629",
+  "unit": "Âµs/cm",
+  "asset": {
+    "$oid": "699465fcbfb07d6db09b9cb4"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05ca"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T12:59:11.485Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T12:59:11.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994666ebfb07d6db09ba056"
+  },
+  "name": "DI Water Spray Flow DI Water",
+  "value": "154.415",
+  "unit": "Bar",
+  "asset": {
+    "$oid": "69946641bfb07d6db09b9ee0"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05cd"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T13:00:30.514Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T13:00:30.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef22f43857e024427471f"
+  },
+  "name": "Solids content ED Bath",
+  "value": "23.0029",
+  "unit": "%",
+  "asset": {
+    "$oid": "699ef1f343857e02442746a5"
+  },
+  "tagId": {
+    "$oid": "699d799befe574e9bb720cce"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T12:59:27.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:59:27.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef23643857e024427472b"
+  },
+  "name": "Ash Content ED Bath",
+  "value": "22.1047",
+  "unit": "-",
+  "asset": {
+    "$oid": "699ef1f343857e02442746a5"
+  },
+  "tagId": {
+    "$oid": "699d799eefe574e9bb735e4f"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T12:59:34.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:59:34.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef24043857e0244274737"
+  },
+  "name": "PH ED Bath",
+  "value": "5.739",
+  "unit": "-",
+  "asset": {
+    "$oid": "699ef1f343857e02442746a5"
+  },
+  "tagId": {
+    "$oid": "699d79a1efe574e9bb74afd0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T12:59:44.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:59:44.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef24f43857e0244274742"
+  },
+  "name": "Conductivity ED Bath",
+  "value": "2099.6724",
+  "unit": "µS/cm",
+  "asset": {
+    "$oid": "699ef1f343857e02442746a5"
+  },
+  "tagId": {
+    "$oid": "699d79a4efe574e9bb760151"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T12:59:59.475Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:59:59.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef25643857e024427480a"
+  },
+  "name": "MEQ ED Bath",
+  "value": "27.3161",
+  "unit": "mmol",
+  "asset": {
+    "$oid": "699ef1f343857e02442746a5"
+  },
+  "tagId": {
+    "$oid": "699d79a7efe574e9bb7752d2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:00:06.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:00:06.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef26f43857e0244274819"
+  },
+  "name": "Bath Level ED Bath",
+  "value": "221.4542",
+  "unit": "cm",
+  "asset": {
+    "$oid": "699ef1f343857e02442746a5"
+  },
+  "tagId": {
+    "$oid": "699d79a9efe574e9bb78a453"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:00:31.439Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:00:31.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef27c43857e0244274825"
+  },
+  "name": "Bath Temperature ED Bath",
+  "value": "31.1117",
+  "unit": "°C",
+  "asset": {
+    "$oid": "699ef1f343857e02442746a5"
+  },
+  "tagId": {
+    "$oid": "699d79acefe574e9bb79f5d4"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:00:44.793Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:00:44.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef2bd43857e0244274860"
+  },
+  "name": "Circulation pressure Bottom 1 ED Bath",
+  "value": "1.7784",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79afefe574e9bb7b4755"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:01:49.487Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:01:49.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef2cb43857e024427486e"
+  },
+  "name": "Circulation pressure Bottom 2 ED Bath",
+  "value": "1.7788",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79b1efe574e9bb7c98d6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:02:03.190Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:02:03.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef2da43857e024427487c"
+  },
+  "name": "Circulation pressure Bottom 3 ED Bath",
+  "value": "1.7859",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79b4efe574e9bb7dea57"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:02:18.192Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:02:18.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef2e443857e024427488a"
+  },
+  "name": "Circulation pressure Bottom 4 ED Bath",
+  "value": "1.7423",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79b6efe574e9bb7f3bd8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:02:28.458Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:02:28.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef2f743857e0244274898"
+  },
+  "name": "Circulation pressure Inlet Wall ED Bath",
+  "value": "1.9879",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79b9efe574e9bb808d59"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:02:47.633Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:02:47.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef30243857e02442748a6"
+  },
+  "name": "Circulation pressure Sub Tank ED Bath",
+  "value": "0.6597",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79bbefe574e9bb81deda"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:02:58.662Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:02:58.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef31743857e02442748b5"
+  },
+  "name": "Circulation pressure RH ED Bath",
+  "value": "0.9549",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79beefe574e9bb83305b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:03:19.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:03:19.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef32543857e02442748c4"
+  },
+  "name": "Circulation pressure LH ED Bath",
+  "value": "1.0162",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699573c8d67b1b79cf7dfcf7"
+  },
+  "tagId": {
+    "$oid": "699d79c0efe574e9bb8481dc"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:03:33.278Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:03:33.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef34d43857e02442748fb"
+  },
+  "name": "Exit Spray Flow ED Bath",
+  "value": "130.0419",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "699834301f773e845dc84dc4"
+  },
+  "tagId": {
+    "$oid": "699d79c2efe574e9bb85d35d"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:04:13.817Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:04:13.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef38143857e024427496a"
+  },
+  "name": "Paint Filter 1 DP ED Bath",
+  "value": "0.6253",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699834981f773e845dc850b0"
+  },
+  "tagId": {
+    "$oid": "699d79c5efe574e9bb8724de"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:05:05.701Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:05:05.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef39243857e02442749a4"
+  },
+  "name": "Paint Filter 2 DP ED Bath",
+  "value": "0.5177",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699834d41f773e845dc85298"
+  },
+  "tagId": {
+    "$oid": "699d79c7efe574e9bb88765f"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:05:22.020Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:05:22.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef3b243857e02442749da"
+  },
+  "name": "Heat Exchanger DP ED Bath",
+  "value": "0.1644",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699835201f773e845dc854d8"
+  },
+  "tagId": {
+    "$oid": "699d79caefe574e9bb89c7e0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:05:54.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:05:54.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef3e543857e0244274a11"
+  },
+  "name": "Flow Total Anolyte",
+  "value": "77.5744",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "699835a11f773e845dc85853"
+  },
+  "tagId": {
+    "$oid": "699d79d1efe574e9bb8dbc63"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:06:45.609Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:06:45.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef3ed43857e0244274a1c"
+  },
+  "name": "Flow Individual Cell Anolyte",
+  "value": "2.7338",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "699835a11f773e845dc85853"
+  },
+  "tagId": {
+    "$oid": "699d79d4efe574e9bb8f0de4"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:06:53.267Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:06:53.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef44543857e0244274a54"
+  },
+  "name": "Inlet Pressure UF System",
+  "value": "3.5527",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699837431f773e845dc8627e"
+  },
+  "tagId": {
+    "$oid": "699d79d9efe574e9bb91b0e6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:08:21.290Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:08:21.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef45943857e0244274a5f"
+  },
+  "name": "Back Pressure UF System",
+  "value": "1.662",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699837431f773e845dc8627e"
+  },
+  "tagId": {
+    "$oid": "699d79dcefe574e9bb930267"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:08:41.655Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:08:41.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef4b743857e0244274acb"
+  },
+  "name": "Spray Pressure Bottom UF Rinse 1",
+  "value": "1.0327",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984bc51f773e845dc8dc41"
+  },
+  "tagId": {
+    "$oid": "699d79eaefe574e9bb9999ec"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:10:15.752Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:10:15.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef4c443857e0244274ad8"
+  },
+  "name": "Spray Pressure Side 1 UF Rinse 1",
+  "value": "1.0164",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984bc51f773e845dc8dc41"
+  },
+  "tagId": {
+    "$oid": "699d79edefe574e9bb9aeb6d"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:10:28.037Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:10:28.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef4d043857e0244274ae5"
+  },
+  "name": "Spray Pressure Side 2 UF Rinse 1",
+  "value": "0.9734",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984bc51f773e845dc8dc41"
+  },
+  "tagId": {
+    "$oid": "699d79f0efe574e9bb9c3cee"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:10:40.484Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:10:40.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef4dc43857e0244274af1"
+  },
+  "name": "Spray Pressure Side 3 UF Rinse 1",
+  "value": "1.4883",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984bc51f773e845dc8dc41"
+  },
+  "tagId": {
+    "$oid": "699d79f2efe574e9bb9d8e6f"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:10:52.933Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:10:52.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef4e743857e0244274afd"
+  },
+  "name": "Spray Pressure Side 4 UF Rinse 1",
+  "value": "1.0008",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984bc51f773e845dc8dc41"
+  },
+  "tagId": {
+    "$oid": "699d79f5efe574e9bb9edff0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:11:03.243Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:11:03.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef5cc43857e0244274bf2"
+  },
+  "name": "Bag Filter DP UF Rinse 1",
+  "value": "0.4743",
+  "unit": "bar",
+  "asset": {
+    "$oid": "699ef55843857e0244274b3a"
+  },
+  "tagId": {
+    "$oid": "699d79f7efe574e9bba03171"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:14:52.027Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:14:52.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef60f43857e0244274c39"
+  },
+  "name": "Solids Content UF Rinse 2",
+  "value": "1.4745",
+  "unit": "%",
+  "asset": {
+    "$oid": "69984c351f773e845dc8df8f"
+  },
+  "tagId": {
+    "$oid": "699d79faefe574e9bba182f2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:15:59.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:15:59.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef61b43857e0244274c45"
+  },
+  "name": "PH UF Rinse 2",
+  "value": "5.5901",
+  "unit": "-",
+  "asset": {
+    "$oid": "69984c351f773e845dc8df8f"
+  },
+  "tagId": {
+    "$oid": "699d79fdefe574e9bba2d473"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:16:11.552Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:16:11.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef6c743857e0244274cf0"
+  },
+  "name": "Circulation Pressure Bottom 1 UF Rinse 2",
+  "value": "1.5303",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984c7b1f773e845dc8e1c0"
+  },
+  "tagId": {
+    "$oid": "699d79ffefe574e9bba425f4"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:19:03.779Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:19:03.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef6d143857e0244274cfc"
+  },
+  "name": "Circulation Pressure Bottom 2 UF Rinse 2",
+  "value": "1.4337",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984c7b1f773e845dc8e1c0"
+  },
+  "tagId": {
+    "$oid": "699d7a01efe574e9bba57775"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:19:13.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:19:13.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef6dd43857e0244274d09"
+  },
+  "name": "Circulation Pressure Bottom 3 UF Rinse 2",
+  "value": "1.4436",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984c7b1f773e845dc8e1c0"
+  },
+  "tagId": {
+    "$oid": "699d7a04efe574e9bba6c8f6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:19:25.073Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:19:25.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef73043857e0244274d51"
+  },
+  "name": "Exit Spray Flow UF Rinse 2",
+  "value": "127.7746",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "69984d551f773e845dc8e759"
+  },
+  "tagId": {
+    "$oid": "699d7a07efe574e9bba81a77"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:20:48.781Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:20:48.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef74943857e0244274d86"
+  },
+  "name": "Bag Filter DP UF Rinse 2",
+  "value": "0.2682",
+  "unit": "bar",
+  "asset": {
+    "$oid": "69984f591f773e845dc8f706"
+  },
+  "tagId": {
+    "$oid": "699d7a09efe574e9bba96bf8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:21:13.282Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:21:13.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef78c43857e0244274dcf"
+  },
+  "name": "RCDI Water Spray Flow",
+  "value": "176.0888",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "69984fa31f773e845dc8f950"
+  },
+  "tagId": {
+    "$oid": "699d7a0cefe574e9bbaabd79"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-25T13:22:20.294Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:22:20.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fe51a5dd07d06e4f1892b"
+  },
+  "name": "PH UF Rinse 1",
+  "value": "5.5529",
+  "unit": "-",
+  "asset": {
+    "$oid": "699572c5d67b1b79cf7df629"
+  },
+  "tagId": {
+    "$oid": "699d79e7efe574e9bb98486b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T06:15:54.357Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:15:54.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fe5245dd07d06e4f18937"
+  },
+  "name": "Solids Content UF Rinse 1",
+  "value": "0.1479",
+  "unit": "%",
+  "asset": {
+    "$oid": "699572c5d67b1b79cf7df629"
+  },
+  "tagId": {
+    "$oid": "699d79e5efe574e9bb96f6ea"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T06:16:04.471Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:16:04.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fe59c5dd07d06e4f18971"
+  },
+  "name": "Conductivity DI Water",
+  "value": "5.2787",
+  "unit": "Âµs/cm",
+  "asset": {
+    "$oid": "69957309d67b1b79cf7df80f"
+  },
+  "tagId": {
+    "$oid": "699426acbfb07d6db09a05ca"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-26T06:18:04.832Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:21:21.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fed215dd07d06e4f18ad2"
+  },
+  "name": "Conductivity Anolyte",
+  "value": "725.8053",
+  "unit": "µS/cm",
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "699d79cfefe574e9bb8c6ae2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T06:50:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:50:09.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fed435dd07d06e4f18add"
+  },
+  "name": "PH UF System",
+  "value": "5.4797",
+  "unit": "-",
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "699d79d7efe574e9bb905f65"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T06:50:43.597Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:50:43.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fedad5dd07d06e4f18af2"
+  },
+  "name": "Permeate Transfer Flow UF System",
+  "value": "7499.607",
+  "unit": "LPH",
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "699d79dfefe574e9bb9453e8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T06:52:29.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:52:29.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fedc45dd07d06e4f18afd"
+  },
+  "name": "Bag Filter DP UF System",
+  "value": "0.4602",
+  "unit": "bar",
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "699d79e2efe574e9bb95a569"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T06:52:52.535Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T06:52:52.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ff5945dd07d06e4f18cbd"
+  },
+  "name": "DI Water Spray Flow After DI Spray",
+  "value": "102.4921",
+  "unit": "LPM",
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "699d79ccefe574e9bb8b1961"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T07:26:12.799Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T07:26:12.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a175ff94256fec281d2ef9"
+  },
+  "name": "Loading_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "699705b40d15df825215748f"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4ab9e"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T10:46:23.752Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T10:46:23.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18a904192943c7ed10283"
+  },
+  "name": "PT_PreDeg_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944271bfb07d6db09aae0c"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba5"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:14:08.338Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:14:08.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18aa24192943c7ed10481"
+  },
+  "name": "PT_PreDeg_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944271bfb07d6db09aae0c"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba4"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:14:26.923Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:14:26.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18aaf4192943c7ed10584"
+  },
+  "name": "PT_PreDeg_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944271bfb07d6db09aae0c"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba7"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:14:39.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:14:39.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18af04192943c7ed10bde"
+  },
+  "name": "PT_PreDeg_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944271bfb07d6db09aae0c"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:15:44.999Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:15:44.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18b234192943c7ed110c5"
+  },
+  "name": "PT_PreDeg_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "69944271bfb07d6db09aae0c"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba3"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:16:35.250Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:16:35.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18b424192943c7ed1145f"
+  },
+  "name": "Loading_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "69a04cfd5dd07d06e4f19d96"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4ab9e"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:17:06.716Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:17:06.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18b494192943c7ed114e6"
+  },
+  "name": "Loading_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04cfd5dd07d06e4f19d96"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:17:13.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:17:13.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18b5f4192943c7ed11765"
+  },
+  "name": "Loading_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04cfd5dd07d06e4f19d96"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-27T12:17:35.772Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:17:43.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18b6f4192943c7ed118ec"
+  },
+  "name": "Loading_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04cfd5dd07d06e4f19d96"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4ab9f"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:17:51.936Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:17:51.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18b794192943c7ed119f0"
+  },
+  "name": "Loading_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04cfd5dd07d06e4f19d96"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba1"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:18:01.759Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:18:01.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18b884192943c7ed11b75"
+  },
+  "name": "Loading_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04cfd5dd07d06e4f19d96"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:18:16.657Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:18:16.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18ba14192943c7ed11e16"
+  },
+  "name": "PT_PreDeg_Mist_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "69a04dde5dd07d06e4f19e4f"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:18:41.605Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:18:41.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18ba94192943c7ed11e9d"
+  },
+  "name": "PT_PreDeg_Mist_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04dde5dd07d06e4f19e4f"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4aba9"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:18:49.115Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:18:49.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18bb04192943c7ed11fa0"
+  },
+  "name": "PT_PreDeg_Mist_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04dde5dd07d06e4f19e4f"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abaa"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:18:56.159Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:18:56.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18bda4192943c7ed1238b"
+  },
+  "name": "PT_PreDeg_Mist_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04dde5dd07d06e4f19e4f"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abab"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:19:38.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:19:38.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18be54192943c7ed1248f"
+  },
+  "name": "PT_PreDeg_Mist_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69a04dde5dd07d06e4f19e4f"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abac"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:19:49.773Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:19:49.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18c234192943c7ed12b29"
+  },
+  "name": "PT_DipDeg_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "69944f85bfb07d6db09b035d"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abad"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:20:51.621Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:20:51.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18c2a4192943c7ed12bb1"
+  },
+  "name": "PT_DipDeg_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944f85bfb07d6db09b035d"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abae"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:20:58.260Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:20:58.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18c304192943c7ed12c39"
+  },
+  "name": "PT_DipDeg_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944f85bfb07d6db09b035d"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abaf"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:21:04.461Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:21:04.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a18f7e4192943c7ed17e2e"
+  },
+  "name": "PT_DipDeg_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944f85bfb07d6db09b035d"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:35:10.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:35:10.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a190274192943c7ed18eb5"
+  },
+  "name": "PT_DipDeg_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69944f85bfb07d6db09b035d"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb1"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:37:59.921Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:37:59.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a190e84192943c7ed1a1df"
+  },
+  "name": "PT_WR12_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "6994535dbfb07d6db09b1d98"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:41:12.830Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:41:12.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a190f24192943c7ed1a2e4"
+  },
+  "name": "PT_WR12_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6994535dbfb07d6db09b1d98"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb3"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:41:22.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:41:22.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a190fa4192943c7ed1a36b"
+  },
+  "name": "PT_WR12_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6994535dbfb07d6db09b1d98"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb4"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:41:30.796Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:41:30.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a191164192943c7ed1a663"
+  },
+  "name": "PT_WR12_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6994535dbfb07d6db09b1d98"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb5"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:41:58.491Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:41:58.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1912f4192943c7ed1a8e0"
+  },
+  "name": "PT_WR12_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6994535dbfb07d6db09b1d98"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:42:23.545Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:42:23.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a191a34192943c7ed1b45b"
+  },
+  "name": "PT_WR34_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "699456f6bfb07d6db09b358a"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc1"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:44:19.717Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:44:19.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a191ab4192943c7ed1b4e3"
+  },
+  "name": "PT_WR34_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699456f6bfb07d6db09b358a"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:44:27.849Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:44:27.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a191b34192943c7ed1b5e7"
+  },
+  "name": "PT_WR34_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699456f6bfb07d6db09b358a"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc3"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:44:35.264Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:44:35.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a191bd4192943c7ed1b6ec"
+  },
+  "name": "PT_WR34_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699456f6bfb07d6db09b358a"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc4"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:44:45.399Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:44:45.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a191c94192943c7ed1b7f2"
+  },
+  "name": "PT_WR34_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699456f6bfb07d6db09b358a"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc5"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:44:57.559Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:44:57.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1923d4192943c7ed1c3d6"
+  },
+  "name": "PT_Activation_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "69945956bfb07d6db09b45bb"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb7"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:46:53.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:46:53.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a192444192943c7ed1c45d"
+  },
+  "name": "PT_Activation_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945956bfb07d6db09b45bb"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:47:00.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:47:00.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1924b4192943c7ed1c4e5"
+  },
+  "name": "PT_Activation_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945956bfb07d6db09b45bb"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abb9"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:47:07.538Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:47:07.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a192524192943c7ed1c5e9"
+  },
+  "name": "PT_Activation_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945956bfb07d6db09b45bb"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abba"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:47:14.731Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:47:14.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1925b4192943c7ed1c6b6"
+  },
+  "name": "PT_Activation_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945956bfb07d6db09b45bb"
+  },
+  "tagId": {
+    "$oid": "69a00014028f2974fee4abbb"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:47:23.206Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:47:23.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a192944192943c7ed1cc7e"
+  },
+  "name": "PT_WR5_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "69945c25bfb07d6db09b5913"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:48:20.950Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:48:20.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1929b4192943c7ed1cd05"
+  },
+  "name": "PT_WR5_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945c25bfb07d6db09b5913"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc7"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:48:27.408Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:48:27.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a192a34192943c7ed1ce0a"
+  },
+  "name": "PT_WR5_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945c25bfb07d6db09b5913"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:48:35.060Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:48:35.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a192ab4192943c7ed1ce94"
+  },
+  "name": "PT_WR5_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945c25bfb07d6db09b5913"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc9"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:48:43.148Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:48:43.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a192b74192943c7ed1d016"
+  },
+  "name": "PT_WR5_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69945c25bfb07d6db09b5913"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abca"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:48:55.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:48:55.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a193184192943c7ed1d9a5"
+  },
+  "name": "PT_DI_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "699465c9bfb07d6db09b9b53"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abcb"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:50:32.310Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:50:32.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a193204192943c7ed1daa9"
+  },
+  "name": "PT_DI_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699465c9bfb07d6db09b9b53"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abcc"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:50:40.398Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:50:40.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a193274192943c7ed1db31"
+  },
+  "name": "PT_DI_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699465c9bfb07d6db09b9b53"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abcd"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:50:47.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:50:47.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1932e4192943c7ed1dc34"
+  },
+  "name": "PT_DI_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699465c9bfb07d6db09b9b53"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abce"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:50:54.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:50:54.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a193364192943c7ed1dcbc"
+  },
+  "name": "PT_DI_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699465c9bfb07d6db09b9b53"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abcf"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T12:51:02.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:51:02.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a197644192943c7ed245d6"
+  },
+  "name": "PT_WR5_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "699463cdbfb07d6db09b8d6c"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:08:52.597Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:08:52.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1976c4192943c7ed246dc"
+  },
+  "name": "PT_WR5_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699463cdbfb07d6db09b8d6c"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc7"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:09:00.546Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:09:00.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a197734192943c7ed24764"
+  },
+  "name": "PT_WR5_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699463cdbfb07d6db09b8d6c"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:09:07.437Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:09:07.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1977a4192943c7ed247ec"
+  },
+  "name": "PT_WR5_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699463cdbfb07d6db09b8d6c"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abc9"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:09:14.539Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:09:14.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1978c4192943c7ed249ec"
+  },
+  "name": "PT_WR5_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699463cdbfb07d6db09b8d6c"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abca"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:09:32.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:09:32.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19a4d4192943c7ed28ec9"
+  },
+  "name": "ED_ECoat_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:21:17.896Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:21:17.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19a554192943c7ed28f52"
+  },
+  "name": "ED_ECoat_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd1"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:21:25.660Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:21:25.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19a5c4192943c7ed29055"
+  },
+  "name": "ED_ECoat_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:21:32.375Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:21:32.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19a654192943c7ed290e0"
+  },
+  "name": "ED_ECoat_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-02-27T13:21:41.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:21:47.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19a734192943c7ed29265"
+  },
+  "name": "ED_ECoat_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd3"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:21:55.733Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:21:55.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19a7f4192943c7ed293e5"
+  },
+  "name": "ED_ECoat_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "6995729ed67b1b79cf7df516"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd4"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:22:07.515Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:22:07.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19b8a4192943c7ed2ade7"
+  },
+  "name": "ED_UFWR1_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "699572c5d67b1b79cf7df629"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd5"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:26:34.701Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:26:34.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19b944192943c7ed2aeee"
+  },
+  "name": "ED_UFWR1_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572c5d67b1b79cf7df629"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd6"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:26:44.995Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:26:44.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19ba64192943c7ed2b0ed"
+  },
+  "name": "ED_UFWR1_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572c5d67b1b79cf7df629"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd7"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:27:02.068Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:27:02.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19baf4192943c7ed2b176"
+  },
+  "name": "ED_UFWR1_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572c5d67b1b79cf7df629"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd8"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:27:11.679Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:27:11.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19bbb4192943c7ed2b2f7"
+  },
+  "name": "ED_UFWR1_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572c5d67b1b79cf7df629"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abd9"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:27:23.415Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:27:23.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19c4d4192943c7ed2c155"
+  },
+  "name": "ED_UFWR2_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "699572e6d67b1b79cf7df719"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abda"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:29:49.938Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:29:49.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19c554192943c7ed2c25b"
+  },
+  "name": "ED_UFWR2_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572e6d67b1b79cf7df719"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abdb"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:29:57.820Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:29:57.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19c5f4192943c7ed2c367"
+  },
+  "name": "ED_UFWR2_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572e6d67b1b79cf7df719"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abdc"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:30:07.531Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:30:07.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19c684192943c7ed2c3ef"
+  },
+  "name": "ED_UFWR2_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572e6d67b1b79cf7df719"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abdd"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:30:16.017Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:30:16.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19c724192943c7ed2c4f4"
+  },
+  "name": "ED_UFWR2_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "699572e6d67b1b79cf7df719"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abde"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:30:26.573Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:30:26.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19d444192943c7ed2d99c"
+  },
+  "name": "ED_RCDI_Position",
+  "value": "0",
+  "unit": "boolean",
+  "asset": {
+    "$oid": "69957309d67b1b79cf7df80f"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abdf"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:33:56.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:33:56.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19d4b4192943c7ed2daa0"
+  },
+  "name": "ED_RCDI_CabinType",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69957309d67b1b79cf7df80f"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abe0"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:34:03.100Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:34:03.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19d514192943c7ed2db28"
+  },
+  "name": "ED_RCDI_CabinNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69957309d67b1b79cf7df80f"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abe1"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:34:09.768Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:34:09.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19d574192943c7ed2dbb0"
+  },
+  "name": "ED_RCDI_SkidNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69957309d67b1b79cf7df80f"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abe2"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:34:15.807Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:34:15.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a19d5e4192943c7ed2dcb4"
+  },
+  "name": "ED_RCDI_HangerNumber",
+  "value": "null",
+  "unit": null,
+  "asset": {
+    "$oid": "69957309d67b1b79cf7df80f"
+  },
+  "tagId": {
+    "$oid": "69a00015028f2974fee4abe3"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T13:34:22.788Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:34:22.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b1564629713658e5cbeed7"
+  },
+  "name": "Heat up Zone",
+  "value": "191.7",
+  "unit": "°C",
+  "asset": {
+    "$oid": "69b154db29713658e5cbc914"
+  },
+  "tagId": {
+    "$oid": "69b10afa14442f4343d1426d"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-03-11T11:47:18.673Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T11:47:18.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b1567e29713658e5cbf4f9"
+  },
+  "name": "Preheat Zone",
+  "value": "121.3",
+  "unit": "°C",
+  "asset": {
+    "$oid": "69b1537229713658e5cba396"
+  },
+  "tagId": {
+    "$oid": "69b10aeb14442f4343c6b66c"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-03-11T11:48:14.665Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T11:48:14.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b156e029713658e5cbffc8"
+  },
+  "name": "Holding Zone",
+  "value": "196.36",
+  "unit": "°C",
+  "asset": {
+    "$oid": "69b156b329713658e5cbfab3"
+  },
+  "tagId": {
+    "$oid": "69b10b0914442f4343dbce6e"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "trackingStatus": "Unlinked",
+  "isComparable": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-03-11T11:49:52.580Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T11:49:52.580Z"
+  },
+  "__v": 0
+}]

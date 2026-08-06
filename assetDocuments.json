@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "699306cb61ffee7c5ad3c358"
+  },
+  "name": "checkasset1-L1",
+  "number": "A1",
+  "status": "Approved With Comments",
+  "type": "Engineering",
+  "revisionNumber": "1.0",
+  "file": {
+    "$oid": "699306c961ffee7c5ad3c342"
+  },
+  "asset": {
+    "$oid": "6989c556b6aeed79af3d4f14"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "6992f91261ffee7c5ad36d66"
+  },
+  "updatedBy": {
+    "$oid": "6992f91261ffee7c5ad36d66"
+  },
+  "createdAt": {
+    "$date": "2026-02-16T12:00:11.881Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T12:00:11.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d4ca5a2553158fd3889382"
+  },
+  "name": "testid123-test",
+  "number": "test123",
+  "status": "Approved With Comments",
+  "statusId": {
+    "$oid": "69cccb762553158fd3ac999c"
+  },
+  "type": "Engineering",
+  "typeId": {
+    "$oid": "69cccbb22553158fd3aca048"
+  },
+  "file": {
+    "$oid": "69d4c9ef2553158fd388882e"
+  },
+  "asset": {
+    "$oid": "69d4c68d2553158fd3882c58"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "updatedBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "createdAt": {
+    "$date": "2026-04-07T09:11:54.217Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T09:11:54.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb3406f66618bc9825b4c2"
+  },
+  "name": "PPP PUC 411B- DATA SHEET",
+  "number": "4D-2713-00-0242",
+  "status": "Approved",
+  "statusId": {
+    "$oid": "69cccb802553158fd3ac9ac7"
+  },
+  "type": "Engineering",
+  "typeId": {
+    "$oid": "69cccbb22553158fd3aca048"
+  },
+  "revisionNumber": "A",
+  "file": {
+    "$oid": "69fb3402f66618bc9825b4b3"
+  },
+  "asset": {
+    "$oid": "69fb21f0f66618bc98259169"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "updatedBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "createdAt": {
+    "$date": "2026-05-06T12:28:54.812Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T12:28:54.812Z"
+  },
+  "__v": 0
+}]
