@@ -1,0 +1,8792 @@
+[
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0507"
+    },
+    "tagname": "PT_I5_0",
+    "datatype": "number",
+    "latestValue": 0.9399999976158142,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "699449bbbfb07d6db09adb14"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.1
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.621Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.921Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a050a"
+    },
+    "tagname": "PT_I5_1",
+    "datatype": "number",
+    "latestValue": 0.8050000071525574,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "699449bbbfb07d6db09adb14"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.1
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.640Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.926Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a050d"
+    },
+    "tagname": "T001_TDC_211_ACTUAL_VALUE",
+    "datatype": "null",
+    "latestValue": "null",
+    "unit": "Celsius",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "699442ffbfb07d6db09ab184"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 50,
+      "maxValue": 60
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.642Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.940Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0510"
+    },
+    "tagname": "PT_I4_2_A",
+    "datatype": "number",
+    "latestValue": 0.26999998092651367,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69944aecbfb07d6db09ae3c4"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 0.7
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.644Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.915Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0516"
+    },
+    "tagname": "PT_I4_4_A",
+    "datatype": "number",
+    "latestValue": -0.040000081062316895,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69944be7bfb07d6db09aeab8"
+      },
+      {
+        "$oid": "69944c47bfb07d6db09aedbe"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 0.8
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.647Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.918Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a051f"
+    },
+    "tagname": "PT_I5_3",
+    "datatype": "number",
+    "latestValue": 0.10000000149011612,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69944b6abfb07d6db09ae741"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 2,
+      "maxValue": 2.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.652Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.932Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0522"
+    },
+    "tagname": "PT_I5_2_A",
+    "datatype": "number",
+    "latestValue": -0.03999999910593033,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69944b6abfb07d6db09ae741"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 0.8
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.654Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.929Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0525"
+    },
+    "tagname": "P101_HZ_TEMP_VALUE_AnalogScaled",
+    "datatype": "null",
+    "latestValue": "null",
+    "unit": "Celsius",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69944c9dbfb07d6db09af041"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 80,
+      "maxValue": 85
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.655Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.848Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a052b"
+    },
+    "tagname": "P001_TDC_221_ACTUAL_VALUE",
+    "datatype": "number",
+    "latestValue": 54.5,
+    "unit": "Celsius",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69944f54bfb07d6db09b01fb"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 52,
+      "maxValue": 58
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.658Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.837Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a052e"
+    },
+    "tagname": "PT_I4_1",
+    "datatype": "number",
+    "latestValue": 1.2549999952316284,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "6994507abfb07d6db09b09d2"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1,
+      "maxValue": 1.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.659Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.912Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0531"
+    },
+    "tagname": "PT_I4_0",
+    "datatype": "number",
+    "latestValue": 1.2000000476837158,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "6994507abfb07d6db09b09d2"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1,
+      "maxValue": 1.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.660Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.909Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a053a"
+    },
+    "tagname": "PT_I3_2_A",
+    "datatype": "number",
+    "latestValue": 0.13499999046325684,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "699452f3bfb07d6db09b1a8e"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 0.7
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.665Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.897Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0540"
+    },
+    "tagname": "PT_I3_4_A",
+    "datatype": "number",
+    "latestValue": 0.04999995231628418,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945261bfb07d6db09b1674"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 0.8
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.667Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.900Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a054c"
+    },
+    "tagname": "PT_I3_6_A",
+    "datatype": "number",
+    "latestValue": 0.02499985694885254,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "6994507abfb07d6db09b09d2"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 0.8
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.673Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.903Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a054f"
+    },
+    "tagname": "PT_I3_7",
+    "datatype": "number",
+    "latestValue": 2.934999942779541,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "6994507abfb07d6db09b09d2"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 2,
+      "maxValue": 2.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.674Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.906Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0552"
+    },
+    "tagname": "PT_I5_4",
+    "datatype": "number",
+    "latestValue": 0,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "6994507abfb07d6db09b09d2"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 2.6,
+      "maxValue": 3
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.675Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.935Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a055b"
+    },
+    "tagname": "PT_I1_3",
+    "datatype": "number",
+    "latestValue": 0,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945755bfb07d6db09b384f"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0.8,
+      "maxValue": 1
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.679Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.858Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a055e"
+    },
+    "tagname": "PT_I1_4",
+    "datatype": "number",
+    "latestValue": 0,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945755bfb07d6db09b384f"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0.7,
+      "maxValue": 0.9
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.681Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.860Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a056d"
+    },
+    "tagname": "PT_I2_6",
+    "datatype": "number",
+    "latestValue": 1.0499999523162842,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945a5fbfb07d6db09b4d20"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0.8,
+      "maxValue": 1.2
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.687Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.884Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0570"
+    },
+    "tagname": "PT_I2_5",
+    "datatype": "number",
+    "latestValue": 1.8600000143051147,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945a5fbfb07d6db09b4d20"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1.8,
+      "maxValue": 2.2
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.688Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.881Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a057c"
+    },
+    "tagname": "P001_TDC_511_ACTUAL_VALUE",
+    "datatype": "number",
+    "latestValue": 42,
+    "unit": "Celsius",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945c42bfb07d6db09b59eb"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 40,
+      "maxValue": 45
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.693Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.840Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a057f"
+    },
+    "tagname": "PT_I1_6",
+    "datatype": "number",
+    "latestValue": 1.0199999809265137,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945df6bfb07d6db09b655a"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1,
+      "maxValue": 1.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.694Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.866Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0582"
+    },
+    "tagname": "PT_I1_5",
+    "datatype": "number",
+    "latestValue": 1.0149999856948853,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945df6bfb07d6db09b655a"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1,
+      "maxValue": 1.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.695Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.863Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0585"
+    },
+    "tagname": "PT_I1_7",
+    "datatype": "number",
+    "latestValue": 1.3450000286102295,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945df6bfb07d6db09b655a"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1.2,
+      "maxValue": 1.6
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.697Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.869Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0588"
+    },
+    "tagname": "PT_I2_0",
+    "datatype": "number",
+    "latestValue": 1.2050000429153442,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945df6bfb07d6db09b655a"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1.2,
+      "maxValue": 1.6
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.698Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.872Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a0594"
+    },
+    "tagname": "P001_TDC_551_ACTUAL_VALUE",
+    "datatype": "number",
+    "latestValue": 43,
+    "unit": "Celsius",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945d3cbfb07d6db09b6079"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 45,
+      "maxValue": 65
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.703Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.845Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a059a"
+    },
+    "tagname": "PT_I2_2",
+    "datatype": "number",
+    "latestValue": 1.4700000286102295,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69945df6bfb07d6db09b655a"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1.2,
+      "maxValue": 1.6
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.705Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.875Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a05a0"
+    },
+    "tagname": "PT_I2_3_A",
+    "datatype": "number",
+    "latestValue": 0.125,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "6994608dbfb07d6db09b76af"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 0.8
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.707Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.878Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a05a6"
+    },
+    "tagname": "PT_I3_0",
+    "datatype": "number",
+    "latestValue": 0,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69946223bfb07d6db09b8212"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.2
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.709Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.890Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a05a9"
+    },
+    "tagname": "PT_I3_1",
+    "datatype": "number",
+    "latestValue": 0,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "69946223bfb07d6db09b8212"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.2
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.711Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.893Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a05b8"
+    },
+    "tagname": "PT_I1_1",
+    "datatype": "number",
+    "latestValue": 1.3450000286102295,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "699464abbfb07d6db09b9354"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1,
+      "maxValue": 1.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.716Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.854Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a05bb"
+    },
+    "tagname": "PT_I1_0",
+    "datatype": "number",
+    "latestValue": 1.3049999475479126,
+    "unit": "Bar",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "699464abbfb07d6db09b9354"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 1,
+      "maxValue": 1.4
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.717Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.851Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699426acbfb07d6db09a05c1"
+    },
+    "tagname": "P001_ECC_651.AnalogScaled",
+    "datatype": "number",
+    "latestValue": 20.624250411987305,
+    "unit": "us/cm",
+    "plcName": "PT Production_PLC",
+    "assetId": [
+      {
+        "$oid": "6994643dbfb07d6db09b903f"
+      }
+    ],
+    "isActive": true,
+    "ranges": {
+      "minValue": 0,
+      "maxValue": 30
+    },
+    "health": true,
+    "plcMetadata": {
+      "dbAddress": "01"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T08:28:28.720Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.832Z"
+    },
+    "__v": 0,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79acefe574e9bb79f5d4"
+    },
+    "asset_id": [],
+    "tagname": "P001_TDC_111_ACTUAL_VALUE",
+    "latestValue": "null",
+    "unit": "°C",
+    "datatype": "null",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 30,
+      "maxValue": 32
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.020Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699ef1f343857e02442746a5"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79afefe574e9bb7b4755"
+    },
+    "asset_id": [],
+    "tagname": "ED_I2_5",
+    "latestValue": 2,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.6,
+      "maxValue": 2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.974Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79b1efe574e9bb7c98d6"
+    },
+    "asset_id": [],
+    "tagname": "ED_I2_4",
+    "latestValue": 2.055000066757202,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.6,
+      "maxValue": 2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.970Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79b4efe574e9bb7dea57"
+    },
+    "asset_id": [],
+    "tagname": "ED_I2_3",
+    "latestValue": 2.0450000762939453,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.6,
+      "maxValue": 2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.967Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79b6efe574e9bb7f3bd8"
+    },
+    "asset_id": [],
+    "tagname": "ED_I2_2",
+    "latestValue": 2.0850000381469727,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.6,
+      "maxValue": 2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.964Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79b9efe574e9bb808d59"
+    },
+    "asset_id": [],
+    "tagname": "ED_I2_1",
+    "latestValue": 2.1050000190734863,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.8,
+      "maxValue": 2.2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.961Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79bbefe574e9bb81deda"
+    },
+    "asset_id": [],
+    "tagname": "ED_I2_0",
+    "latestValue": 0.5350000262260437,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.5,
+      "maxValue": 0.9
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.958Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79beefe574e9bb83305b"
+    },
+    "asset_id": [],
+    "tagname": "ED_I1_7",
+    "latestValue": 1.2949999570846558,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.8,
+      "maxValue": 1.2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.955Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79c0efe574e9bb8481dc"
+    },
+    "asset_id": [],
+    "tagname": "ED_I1_6",
+    "latestValue": 0.8650000095367432,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.8,
+      "maxValue": 1.2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.952Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699573c8d67b1b79cf7dfcf7"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79c5efe574e9bb8724de"
+    },
+    "asset_id": [],
+    "tagname": "ED_I1_0_A",
+    "latestValue": -0.019999980926513672,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.1,
+      "maxValue": 0.8
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.943Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699834981f773e845dc850b0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79c7efe574e9bb88765f"
+    },
+    "asset_id": [],
+    "tagname": "ED_I1_2_A",
+    "latestValue": -0.039999961853027344,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.1,
+      "maxValue": 0.8
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.946Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699834d41f773e845dc85298"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79caefe574e9bb89c7e0"
+    },
+    "asset_id": [],
+    "tagname": "ED_I1_4_A",
+    "latestValue": 0.04999995231628418,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.1,
+      "maxValue": 0.2
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.949Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699835201f773e845dc854d8"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79cfefe574e9bb8c6ae2"
+    },
+    "asset_id": [],
+    "tagname": "P001_ECC_181.AnalogScaled",
+    "latestValue": 0.7122911214828491,
+    "unit": "µS/cm",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 500,
+      "maxValue": 1000
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.017Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6995729ed67b1b79cf7df516"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79d9efe574e9bb91b0e6"
+    },
+    "asset_id": [],
+    "tagname": "ED_I4_4",
+    "latestValue": 0,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 3.3,
+      "maxValue": 4.1
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.011Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699837431f773e845dc8627e"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79dcefe574e9bb930267"
+    },
+    "asset_id": [],
+    "tagname": "ED_I4_5",
+    "latestValue": 0,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.5,
+      "maxValue": 1.8
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.014Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699837431f773e845dc8627e"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79e2efe574e9bb95a569"
+    },
+    "asset_id": [],
+    "tagname": "ED_I2_6_A",
+    "latestValue": 3.7950000762939453,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.1,
+      "maxValue": 0.8
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.977Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6995729ed67b1b79cf7df516"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79eaefe574e9bb9999ec"
+    },
+    "asset_id": [],
+    "tagname": "ED_I3_2",
+    "latestValue": 1,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.1
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.983Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984bc51f773e845dc8dc41"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79edefe574e9bb9aeb6d"
+    },
+    "asset_id": [],
+    "tagname": "ED_I3_3",
+    "latestValue": 0.8999999761581421,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.1
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.986Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984bc51f773e845dc8dc41"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79f0efe574e9bb9c3cee"
+    },
+    "asset_id": [],
+    "tagname": "ED_I3_4",
+    "latestValue": 0.8849999904632568,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.1
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.989Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984bc51f773e845dc8dc41"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79f2efe574e9bb9d8e6f"
+    },
+    "asset_id": [],
+    "tagname": "ED_I3_5",
+    "latestValue": 1.3650000095367432,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.4,
+      "maxValue": 1.6
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.992Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984bc51f773e845dc8dc41"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79f5efe574e9bb9edff0"
+    },
+    "asset_id": [],
+    "tagname": "ED_I3_6",
+    "latestValue": 32.763999938964844,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.9,
+      "maxValue": 1.1
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.995Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984bc51f773e845dc8dc41"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79f7efe574e9bba03171"
+    },
+    "asset_id": [],
+    "tagname": "ED_I3_0_A",
+    "latestValue": -0.04500007629394531,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.1,
+      "maxValue": 0.8
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.980Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699ef55843857e0244274b3a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d79ffefe574e9bba425f4"
+    },
+    "asset_id": [],
+    "tagname": "ED_I3_7",
+    "latestValue": 0,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.3,
+      "maxValue": 1.7
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.999Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984c7b1f773e845dc8e1c0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d7a01efe574e9bba57775"
+    },
+    "asset_id": [],
+    "tagname": "ED_I4_0",
+    "latestValue": 1.2400000095367432,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.3,
+      "maxValue": 1.7
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.002Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984c7b1f773e845dc8e1c0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d7a04efe574e9bba6c8f6"
+    },
+    "asset_id": [],
+    "tagname": "ED_I4_1",
+    "latestValue": 0,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1.3,
+      "maxValue": 1.7
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.005Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984c7b1f773e845dc8e1c0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d7a09efe574e9bba96bf8"
+    },
+    "asset_id": [],
+    "tagname": "ED_I4_3_A",
+    "latestValue": -1.2999999523162842,
+    "unit": "bar",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.1,
+      "maxValue": 0.8
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.008Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69984f591f773e845dc8f706"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC"
+  },
+  {
+    "_id": {
+      "$oid": "699d7a0fefe574e9bbac0efa"
+    },
+    "asset_id": [],
+    "tagname": "P101_TDC_911_CMP.Actual_Value",
+    "latestValue": 120.67597198486328,
+    "unit": "°C",
+    "datatype": "number",
+    "plcName": "OVEN Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 113,
+      "maxValue": 127
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.611Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC",
+    "__v": 1,
+    "assetId": []
+  },
+  {
+    "_id": {
+      "$oid": "699d7a11efe574e9bbad607b"
+    },
+    "asset_id": [],
+    "tagname": "P201_TDC_111_CMP.Actual_Value",
+    "latestValue": 194.5372772216797,
+    "unit": "°C",
+    "datatype": "number",
+    "plcName": "OVEN Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 183,
+      "maxValue": 197
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.614Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC",
+    "__v": 1,
+    "assetId": []
+  },
+  {
+    "_id": {
+      "$oid": "699d7a14efe574e9bbaeb1fc"
+    },
+    "asset_id": [],
+    "tagname": "P301_TDC_211_CMP.Actual_Value",
+    "latestValue": 201.3611297607422,
+    "unit": "°C",
+    "datatype": "number",
+    "plcName": "OVEN Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 191,
+      "maxValue": 205
+    },
+    "createdAt": {
+      "$date": "2026-02-24T15:42:43.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.617Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC",
+    "__v": 1,
+    "assetId": []
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4ab9e"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[1]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "HA03",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.638Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699705b40d15df825215748f"
+      },
+      {
+        "$oid": "69a04cfd5dd07d06e4f19d96"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4ab9f"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[172].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.076Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69a04cfd5dd07d06e4f19d96"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4aba0"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[172].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.080Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69a04cfd5dd07d06e4f19d96"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4aba1"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[172].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.078Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69a04cfd5dd07d06e4f19d96"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4aba3"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[3]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "HA05",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.644Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944271bfb07d6db09aae0c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4aba4"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[173].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.083Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944271bfb07d6db09aae0c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4aba5"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[173].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.089Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944271bfb07d6db09aae0c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4aba6"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[173].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1044,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.086Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944271bfb07d6db09aae0c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abad"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[4]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.647Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944f85bfb07d6db09b035d"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abae"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[175].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.092Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944f85bfb07d6db09b035d"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abaf"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[175].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.102Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944f85bfb07d6db09b035d"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb0"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[175].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1053,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.095Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69944f85bfb07d6db09b035d"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb2"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[6]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.650Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6994535dbfb07d6db09b1d98"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb3"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[177].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1M1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.105Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6994535dbfb07d6db09b1d98"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb4"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[177].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.111Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6994535dbfb07d6db09b1d98"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb5"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[177].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1085,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.108Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6994535dbfb07d6db09b1d98"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb7"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[7]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "HA10",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.653Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945956bfb07d6db09b45bb"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb8"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[178].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.114Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945956bfb07d6db09b45bb"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abb9"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[178].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.120Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945956bfb07d6db09b45bb"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abba"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[178].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.117Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945956bfb07d6db09b45bb"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abbc"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[8]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.656Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "__v": 1,
+    "assetId": [],
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abbd"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[179].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "M1S1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.123Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "__v": 1,
+    "assetId": [],
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abbe"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[179].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.129Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "__v": 1,
+    "assetId": [],
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00014028f2974fee4abbf"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[179].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1069,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.126Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "__v": 1,
+    "assetId": [],
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc1"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[10]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "HA04",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.620Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699456f6bfb07d6db09b358a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc2"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[181].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1S1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.132Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699456f6bfb07d6db09b358a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc3"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[181].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.138Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699456f6bfb07d6db09b358a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc4"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[181].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1006,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.135Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699456f6bfb07d6db09b358a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc6"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[11]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.623Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945c25bfb07d6db09b5913"
+      },
+      {
+        "$oid": "699463cdbfb07d6db09b8d6c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc7"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[182].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.141Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945c25bfb07d6db09b5913"
+      },
+      {
+        "$oid": "699463cdbfb07d6db09b8d6c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc8"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[182].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.147Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945c25bfb07d6db09b5913"
+      },
+      {
+        "$oid": "699463cdbfb07d6db09b8d6c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abc9"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[182].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1027,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.144Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69945c25bfb07d6db09b5913"
+      },
+      {
+        "$oid": "699463cdbfb07d6db09b8d6c"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abcb"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[12]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.626Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699465c9bfb07d6db09b9b53"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abcc"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[183].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.150Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699465c9bfb07d6db09b9b53"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abcd"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[183].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.157Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699465c9bfb07d6db09b9b53"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abce"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[183].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.153Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699465c9bfb07d6db09b9b53"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd0"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[16]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.629Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6995729ed67b1b79cf7df516"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd1"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[187].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "M1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.160Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6995729ed67b1b79cf7df516"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd2"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[187].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.166Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6995729ed67b1b79cf7df516"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd3"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[187].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1030,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.163Z"
+    },
+    "assetId": [
+      {
+        "$oid": "6995729ed67b1b79cf7df516"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd5"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[18]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.632Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572c5d67b1b79cf7df629"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd6"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[189].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.169Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572c5d67b1b79cf7df629"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd7"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[189].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.175Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572c5d67b1b79cf7df629"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abd8"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[189].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1043,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.172Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572c5d67b1b79cf7df629"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abda"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[19]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "HA11",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.635Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572e6d67b1b79cf7df719"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abdb"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[190].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.178Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572e6d67b1b79cf7df719"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abdc"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[190].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.185Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572e6d67b1b79cf7df719"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abdd"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[190].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.182Z"
+    },
+    "assetId": [
+      {
+        "$oid": "699572e6d67b1b79cf7df719"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abdf"
+    },
+    "asset_id": [],
+    "tagname": "Hanger_RFID_Data[21]",
+    "datatype": "string",
+    "unit": "boolean",
+    "source": "PLC",
+    "plcName": "PCPA Conveyor Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.641Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69957309d67b1b79cf7df80f"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abe0"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[192].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.188Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69957309d67b1b79cf7df80f"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abe1"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[192].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.194Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69957309d67b1b79cf7df80f"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a00015028f2974fee4abe2"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[192].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.191Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69957309d67b1b79cf7df80f"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69a0058ccc5780b526a03b75"
+    },
+    "asset_id": [],
+    "tagname": "P101_ECC_311.AnalogScaled",
+    "latestValue": 0,
+    "unit": "µS/cm",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 80,
+      "maxValue": 100
+    },
+    "createdAt": {
+      "$date": "2026-02-26T14:04:20.038Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.023Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC",
+    "__v": 1,
+    "assetId": []
+  },
+  {
+    "_id": {
+      "$oid": "69a0058fcc5780b526a18cf6"
+    },
+    "asset_id": [],
+    "tagname": "P101_FM_701.AnalogScaled",
+    "latestValue": 75.78971099853516,
+    "unit": "LPH",
+    "datatype": "number",
+    "plcName": "ED Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 1950,
+      "maxValue": 2005
+    },
+    "createdAt": {
+      "$date": "2026-02-26T14:04:20.038Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.026Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC",
+    "__v": 1,
+    "assetId": []
+  },
+  {
+    "_id": {
+      "$oid": "69a18055be84d052e4e1eb46"
+    },
+    "asset_id": [],
+    "tagname": "PT_I5_5",
+    "latestValue": 0,
+    "unit": "Bar",
+    "datatype": "number",
+    "plcName": "PT Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 2.6,
+      "maxValue": 3
+    },
+    "createdAt": {
+      "$date": "2026-02-27T17:00:27.388Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.938Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC",
+    "__v": 1,
+    "assetId": []
+  },
+  {
+    "_id": {
+      "$oid": "69a1805abe84d052e4e48e48"
+    },
+    "asset_id": [],
+    "tagname": "PT_I2_7",
+    "latestValue": 0.9449999928474426,
+    "unit": "Bar",
+    "datatype": "number",
+    "plcName": "PT Production_PLC",
+    "isActive": true,
+    "health": true,
+    "plcMeta": {
+      "dbaddress": 1
+    },
+    "ranges": {
+      "minValue": 0.8,
+      "maxValue": 1.2
+    },
+    "createdAt": {
+      "$date": "2026-02-27T17:00:27.388Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:51.887Z"
+    },
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "source": "PLC",
+    "__v": 1,
+    "assetId": []
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42028"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[94].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.361Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd67b5bb2c1f6ff9c5090"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42029"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[94].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.367Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd67b5bb2c1f6ff9c5090"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4202a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[94].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.364Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd67b5bb2c1f6ff9c5090"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4202c"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[95].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.370Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd7b85bb2c1f6ff9c71fd"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4202d"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[95].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.375Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd7b85bb2c1f6ff9c71fd"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4202e"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[95].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.373Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd7b85bb2c1f6ff9c71fd"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42030"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[96].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.378Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8025bb2c1f6ff9c7a70"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42031"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[96].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.384Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8025bb2c1f6ff9c7a70"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42032"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[96].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.381Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8025bb2c1f6ff9c7a70"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42034"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[97].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "M1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.387Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8485bb2c1f6ff9c8240"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42035"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[97].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.393Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8485bb2c1f6ff9c8240"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42036"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[97].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1020,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.390Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8485bb2c1f6ff9c8240"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42038"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[98].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.396Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd88d5bb2c1f6ff9c8a13"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42039"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[98].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.402Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd88d5bb2c1f6ff9c8a13"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4203a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[98].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.399Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd88d5bb2c1f6ff9c8a13"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4203c"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[99].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.405Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8c35bb2c1f6ff9c9054"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4203d"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[99].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.411Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8c35bb2c1f6ff9c9054"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a4203e"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[99].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.408Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd8c35bb2c1f6ff9c9054"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42040"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[100].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.029Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd90c5bb2c1f6ff9c9844"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42041"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[100].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.036Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd90c5bb2c1f6ff9c9844"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42042"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[100].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.032Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd90c5bb2c1f6ff9c9844"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42044"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[101].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.039Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9575bb2c1f6ff9ca0a0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d713f1f60c57a42045"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[101].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.045Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9575bb2c1f6ff9ca0a0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42046"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[101].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.042Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9575bb2c1f6ff9ca0a0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42048"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[102].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.048Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9a35bb2c1f6ff9ca903"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42049"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[102].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.054Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9a35bb2c1f6ff9ca903"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4204a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[102].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.051Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9a35bb2c1f6ff9ca903"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4204c"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[103].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1S1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.057Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9de5bb2c1f6ff9cafcf"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4204d"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[103].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.064Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9de5bb2c1f6ff9cafcf"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4204e"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[103].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1005,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.060Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbd9de5bb2c1f6ff9cafcf"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42050"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[104].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.067Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbda235bb2c1f6ff9cb7a9"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42051"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[104].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.073Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbda235bb2c1f6ff9cb7a9"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42052"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[104].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.070Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbda235bb2c1f6ff9cb7a9"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42054"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[60].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.343Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbda5f5bb2c1f6ff9cbe73"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42055"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[60].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.349Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbda5f5bb2c1f6ff9cbe73"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42056"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[60].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.346Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbda5f5bb2c1f6ff9cbe73"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42058"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[61].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.352Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdaac5bb2c1f6ff9cc6d1"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42059"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[61].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.358Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdaac5bb2c1f6ff9cc6d1"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4205a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[61].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.355Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdaac5bb2c1f6ff9cc6d1"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4205c"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[201].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.197Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdadc5bb2c1f6ff9ccc92"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4205d"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[201].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.203Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdadc5bb2c1f6ff9ccc92"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4205e"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[201].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.200Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdadc5bb2c1f6ff9ccc92"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42060"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[202].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1S1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.206Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdb0e5bb2c1f6ff9cd256"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42061"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[202].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.212Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdb0e5bb2c1f6ff9cd256"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42062"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[202].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1079,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.209Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdb0e5bb2c1f6ff9cd256"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42064"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[203].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1S1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.215Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdb485bb2c1f6ff9cd8a0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42065"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[203].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.221Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdb485bb2c1f6ff9cd8a0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42066"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[203].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1066,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.218Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdb485bb2c1f6ff9cd8a0"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42068"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[204].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "M1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.224Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdbaa5bb2c1f6ff9ce3a9"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42069"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[204].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.230Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdbaa5bb2c1f6ff9ce3a9"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4206a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[204].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1037,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.227Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdbaa5bb2c1f6ff9ce3a9"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4206c"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[205].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.233Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdbe55bb2c1f6ff9cea82"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4206d"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[205].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.239Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdbe55bb2c1f6ff9cea82"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a4206e"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[205].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1003,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.236Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdbe55bb2c1f6ff9cea82"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42070"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[287].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.334Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdc275bb2c1f6ff9cf1d2"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42071"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[287].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.340Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdc275bb2c1f6ff9cf1d2"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42072"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[287].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.337Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdc275bb2c1f6ff9cf1d2"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42074"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[206].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.242Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdc715bb2c1f6ff9cfa51"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42075"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[206].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.248Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdc715bb2c1f6ff9cfa51"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42076"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[206].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.245Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdc715bb2c1f6ff9cfa51"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42078"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[207].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.251Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdca65bb2c1f6ff9d0014"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d813f1f60c57a42079"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[207].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.257Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdca65bb2c1f6ff9d0014"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4207a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[207].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.254Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdca65bb2c1f6ff9d0014"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4207c"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[208].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.260Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdd4f5bb2c1f6ff9d12fd"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4207d"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[208].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.267Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdd4f5bb2c1f6ff9d12fd"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4207e"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[208].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.264Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdd4f5bb2c1f6ff9d12fd"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42080"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[209].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "M1D1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.270Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbddac5bb2c1f6ff9d1d2b"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42081"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[209].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.276Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbddac5bb2c1f6ff9d1d2b"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42082"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[209].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1070,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.273Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbddac5bb2c1f6ff9d1d2b"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42084"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[210].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.279Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde135bb2c1f6ff9d286a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42085"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[210].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.285Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde135bb2c1f6ff9d286a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42086"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[210].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.282Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde135bb2c1f6ff9d286a"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42088"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[211].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "H1S1",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.288Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde515bb2c1f6ff9d2f2d"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42089"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[211].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "2960",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.294Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde515bb2c1f6ff9d2f2d"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4208a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[211].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 1021,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.291Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde515bb2c1f6ff9d2f2d"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4208c"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[212].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.297Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde925bb2c1f6ff9d36fe"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4208d"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[212].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.303Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde925bb2c1f6ff9d36fe"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4208e"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[212].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.300Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbde925bb2c1f6ff9d36fe"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42090"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[213].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.306Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdede5bb2c1f6ff9d3f5b"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42091"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[213].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.312Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdede5bb2c1f6ff9d3f5b"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42092"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[213].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.309Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdede5bb2c1f6ff9d3f5b"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42094"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[214].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.315Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdf275bb2c1f6ff9d4730"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42095"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[214].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.321Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdf275bb2c1f6ff9d4730"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42096"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[214].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.318Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdf275bb2c1f6ff9d4730"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42098"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[215].Cab_Body_Code",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.324Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdf605bb2c1f6ff9d6e6e"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a42099"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[215].Serial_No_VIN_1",
+    "datatype": "string",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": "",
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.331Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdf605bb2c1f6ff9d6e6e"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "69bbe0d913f1f60c57a4209a"
+    },
+    "asset_id": [],
+    "tagname": "RB_File[215].Dip_Paint_skid",
+    "datatype": "number",
+    "unit": null,
+    "source": "PLC",
+    "plcName": "SCADA Production_PLC",
+    "isActive": true,
+    "ranges": null,
+    "latestValue": 0,
+    "createdAt": {
+      "$date": "2026-02-20T18:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.327Z"
+    },
+    "assetId": [
+      {
+        "$oid": "69bbdf605bb2c1f6ff9d6e6e"
+      }
+    ],
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "health": true
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b63"
+    },
+    "tagname": "RB_File[172].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.232Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.414Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b66"
+    },
+    "tagname": "RB_File[173].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "92",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.238Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.417Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b69"
+    },
+    "tagname": "RB_File[174].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.240Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.420Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b6c"
+    },
+    "tagname": "RB_File[175].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "79",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.244Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.423Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b6f"
+    },
+    "tagname": "RB_File[176].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.249Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.426Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b72"
+    },
+    "tagname": "RB_File[177].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "91",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.252Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.429Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b75"
+    },
+    "tagname": "RB_File[178].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.255Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.432Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b78"
+    },
+    "tagname": "RB_File[179].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "64",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.258Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.435Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b7b"
+    },
+    "tagname": "RB_File[180].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.261Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.438Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b7e"
+    },
+    "tagname": "RB_File[181].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "89",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.265Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.441Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b81"
+    },
+    "tagname": "RB_File[182].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "88",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.268Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.444Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b84"
+    },
+    "tagname": "RB_File[183].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.271Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.447Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b87"
+    },
+    "tagname": "RB_File[184].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.274Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.450Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b8a"
+    },
+    "tagname": "RB_File[185].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.277Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.453Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b8d"
+    },
+    "tagname": "RB_File[186].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.280Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.456Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b90"
+    },
+    "tagname": "RB_File[187].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "90",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.283Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.459Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b93"
+    },
+    "tagname": "RB_File[188].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.286Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.462Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b96"
+    },
+    "tagname": "RB_File[189].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "87",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.289Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.465Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b99"
+    },
+    "tagname": "RB_File[190].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.292Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.468Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b9c"
+    },
+    "tagname": "RB_File[191].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "85",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.295Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.471Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457b9f"
+    },
+    "tagname": "RB_File[192].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.298Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.476Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457ba2"
+    },
+    "tagname": "RB_File[193].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.301Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.479Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457ba5"
+    },
+    "tagname": "RB_File[194].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.306Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.482Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457ba8"
+    },
+    "tagname": "RB_File[195].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.309Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.485Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bab"
+    },
+    "tagname": "RB_File[167].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "27",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.312Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.489Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bae"
+    },
+    "tagname": "RB_File[168].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.315Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.492Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bb1"
+    },
+    "tagname": "RB_File[169].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.318Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.495Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bb4"
+    },
+    "tagname": "RB_File[170].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.321Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.498Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bb7"
+    },
+    "tagname": "RB_File[171].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.325Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.501Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bba"
+    },
+    "tagname": "RB_File[196].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.328Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.505Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bbd"
+    },
+    "tagname": "RB_File[197].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.331Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.508Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bc0"
+    },
+    "tagname": "RB_File[198].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.334Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.511Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bc3"
+    },
+    "tagname": "RB_File[199].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.338Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.514Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bc6"
+    },
+    "tagname": "RB_File[92].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "84",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.342Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.517Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bc9"
+    },
+    "tagname": "RB_File[93].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.346Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.520Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bcc"
+    },
+    "tagname": "RB_File[94].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.350Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.524Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bcf"
+    },
+    "tagname": "RB_File[95].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.353Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.527Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bd2"
+    },
+    "tagname": "RB_File[96].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.357Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.530Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bd5"
+    },
+    "tagname": "RB_File[97].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "86",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.360Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.533Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bd8"
+    },
+    "tagname": "RB_File[98].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.363Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.536Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bdb"
+    },
+    "tagname": "RB_File[99].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.366Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.539Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bde"
+    },
+    "tagname": "RB_File[100].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.369Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.542Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457be1"
+    },
+    "tagname": "RB_File[101].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.373Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.545Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457be4"
+    },
+    "tagname": "RB_File[102].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.376Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.548Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457be7"
+    },
+    "tagname": "RB_File[103].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "83",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.379Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.551Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bea"
+    },
+    "tagname": "RB_File[104].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.382Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.554Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bed"
+    },
+    "tagname": "RB_File[60].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.385Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.557Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bf0"
+    },
+    "tagname": "RB_File[61].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.388Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.560Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bf3"
+    },
+    "tagname": "RB_File[201].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.391Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.563Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bf6"
+    },
+    "tagname": "RB_File[202].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "82",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.394Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.566Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bf9"
+    },
+    "tagname": "RB_File[203].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "77",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.397Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.569Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bfc"
+    },
+    "tagname": "RB_File[204].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "81",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.400Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.572Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457bff"
+    },
+    "tagname": "RB_File[205].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "76",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.405Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.575Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c02"
+    },
+    "tagname": "RB_File[287].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.408Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.578Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c05"
+    },
+    "tagname": "RB_File[206].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.411Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.581Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c08"
+    },
+    "tagname": "RB_File[207].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.414Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.584Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c0b"
+    },
+    "tagname": "RB_File[208].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.417Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.587Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c0e"
+    },
+    "tagname": "RB_File[209].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "78",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.420Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.590Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c11"
+    },
+    "tagname": "RB_File[210].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.423Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.593Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c14"
+    },
+    "tagname": "RB_File[211].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "75",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.426Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.596Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c17"
+    },
+    "tagname": "RB_File[212].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.429Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.599Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c1a"
+    },
+    "tagname": "RB_File[213].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.433Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.602Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c1d"
+    },
+    "tagname": "RB_File[214].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.436Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.605Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7474663d755cea2b457c20"
+    },
+    "tagname": "RB_File[215].Serial_No_VIN_2",
+    "datatype": "string",
+    "latestValue": "",
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "SCADA Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T11:47:50.440Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.608Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbdf5"
+    },
+    "tagname": "Presence[1].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.503Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.659Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbdf8"
+    },
+    "tagname": "Presence[2].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.509Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.662Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbdfb"
+    },
+    "tagname": "Presence[3].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.513Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.665Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbdfe"
+    },
+    "tagname": "Presence[4].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.517Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.668Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe01"
+    },
+    "tagname": "Presence[5].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.521Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.671Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe04"
+    },
+    "tagname": "Presence[6].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.525Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.674Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe07"
+    },
+    "tagname": "Presence[7].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.529Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.677Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe0a"
+    },
+    "tagname": "Presence[8].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.533Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.680Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe0d"
+    },
+    "tagname": "Presence[9].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.537Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.683Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe10"
+    },
+    "tagname": "Presence[10].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.541Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.686Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe13"
+    },
+    "tagname": "Presence[11].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.545Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.689Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe16"
+    },
+    "tagname": "Presence[12].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.549Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.694Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe19"
+    },
+    "tagname": "Presence[13].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.553Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.697Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe1c"
+    },
+    "tagname": "Presence[14].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.558Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.700Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe1f"
+    },
+    "tagname": "Presence[15].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.562Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.703Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe22"
+    },
+    "tagname": "Presence[16].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.567Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.706Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe25"
+    },
+    "tagname": "Presence[17].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.571Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.709Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe28"
+    },
+    "tagname": "Presence[18].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.575Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.712Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe2b"
+    },
+    "tagname": "Presence[19].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.580Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.715Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe2e"
+    },
+    "tagname": "Presence[20].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.583Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.718Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe31"
+    },
+    "tagname": "Presence[21].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.587Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.721Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe34"
+    },
+    "tagname": "Presence[22].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.590Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.724Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe37"
+    },
+    "tagname": "Presence[23].Pres_M",
+    "datatype": "boolean",
+    "latestValue": true,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.594Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.727Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79b0aed4b586e79e6cbe3a"
+    },
+    "tagname": "Presence[24].Pres_M",
+    "datatype": "boolean",
+    "latestValue": false,
+    "ranges": {
+      "minValue": null,
+      "maxValue": null
+    },
+    "unit": null,
+    "plcName": "PCPA Conveyor Production_PLC",
+    "assetId": [],
+    "health": true,
+    "source": "PLC",
+    "isActive": true,
+    "lastUpdated": {
+      "$date": "2026-08-10T11:12:48.991Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T11:06:22.598Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T11:12:52.730Z"
+    },
+    "__v": 0
+  }
+]
