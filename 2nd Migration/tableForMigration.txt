@@ -1,0 +1,17 @@
+1 - batches
+2 - cronlogs
+3 - departments
+4 - designations
+5 - logentries
+6 - logs
+7 - logstructures
+8 - logtemplates
+9 - permissionGroups
+10 - permissions
+11 - shifts
+12 - userAuthentications
+13 - userPermissions
+14 - userTypes
+15 - users
+16 - workOrderTasks
+17 - workOrders

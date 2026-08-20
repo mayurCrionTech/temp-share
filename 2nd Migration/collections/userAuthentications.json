@@ -1,0 +1,652 @@
+[{
+  "_id": {
+    "$oid": "69786f2a39d414a32b44eb20"
+  },
+  "user": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "email": "admin@criontech.com",
+  "password": "$2a$10$nMZpRD3pxgSxjDAYE2R5lO.ekWoNxbF4eNHKrFd5CABQnaPFt6xH2",
+  "passwordExpireAt": {
+    "$date": "2026-10-07T03:55:23.431Z"
+  },
+  "isSuperAdmin": true,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-27T07:54:18.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T07:54:18.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989c4cbb6aeed79af3d4b8a"
+  },
+  "email": "prashanth.engineer@criontech.com",
+  "password": "$2a$10$RdZVE26ED7v/TJ0d4cgcAecwwFKBLbGPU/OrrRkw4kfyrqM00J5Py",
+  "passwordExpireAt": {
+    "$date": "2026-08-08T11:28:11.356Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-09T11:28:11.357Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:28:11.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992f95a61ffee7c5ad36f42"
+  },
+  "email": "sundarcrion@gmail.com",
+  "password": "$2a$10$XiJYAO6hpyxIbWluz2Jnre6bx96CPWZfcrPdAdaHoIrpmrQMFDaGO",
+  "passwordExpireAt": {
+    "$date": "2026-08-15T11:02:50.510Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": "jgwj8GexYs9hqPrzFfToDC87",
+  "businessUnitTokenCreatedAt": {
+    "$date": "2026-03-09T04:45:12.841Z"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-16T11:02:50.511Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T11:02:50.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943decbfb07d6db09a906d"
+  },
+  "email": "operator@gmail.com",
+  "password": "$2a$10$ML4I5ltoyEExoW28AerhlOU0ZVWQZHAyBRPZXEMSv8ZlPjBraM0FW",
+  "passwordExpireAt": {
+    "$date": "2026-08-16T10:07:40.435Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:07:40.435Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:07:40.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943fccbfb07d6db09a9c95"
+  },
+  "email": "manager@gmail.com",
+  "password": "$2a$10$sxjpm7icH46rxsYYuJKvUuuLshp8dqjOfV91UqAFwLskE74XoGiTa",
+  "passwordExpireAt": {
+    "$date": "2026-08-16T10:15:40.831Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:15:40.831Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:15:40.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944169bfb07d6db09aa6ef"
+  },
+  "email": "paintshopmanager@dicv.com",
+  "password": "$2a$10$65cGP0oopIEnvk1STQxYw.qatndJPKyesUv4Kyo0AfV.K3HaMSBey",
+  "passwordExpireAt": {
+    "$date": "2026-08-16T10:22:33.584Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:22:33.584Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:22:33.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944206bfb07d6db09aab21"
+  },
+  "email": "paintshopoperator@dicv.com",
+  "password": "$2a$10$lbmraLtc2bpjcwDrncB59OZxG08O2.jKaJoFkXMeboKK0Q3FurNQC",
+  "passwordExpireAt": {
+    "$date": "2026-08-16T10:25:10.869Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-17T10:25:10.869Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:25:10.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699dabda24beedc1a13236f2"
+  },
+  "email": "prashanth.manager@criontech.com",
+  "password": "$2a$10$gd335VPIcMytbSDWUgWRUuTDpNx8vSOpu9Pp0O4VzYTFOZWXeVhA2",
+  "passwordExpireAt": {
+    "$date": "2026-08-23T13:47:06.630Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-24T13:47:06.631Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:47:06.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fdad20ae9e28d81c9b73b"
+  },
+  "email": "prashanth.operater@criontech.com",
+  "password": "$2a$10$t27I.SWwMWevr66q61tcp.M.dLwmI2l44tJv/Y6MPzWP./aWKjbgu",
+  "passwordExpireAt": {
+    "$date": "2026-08-25T05:32:02.978Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T05:32:02.979Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:32:02.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fdef90ae9e28d81c9d4a2"
+  },
+  "email": "prashanth.engineer@dicv.com",
+  "password": "$2a$10$G0s/CQvVBvMEkzlvnJXnQeDUNuivsVvf/Itrdaun8fXR/QewTDNFK",
+  "passwordExpireAt": {
+    "$date": "2026-08-25T05:49:45.635Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-26T05:49:45.636Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:49:45.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a12c985dd07d06e4f1c527"
+  },
+  "email": "sundar@gmail.com",
+  "password": "$2a$10$GKZBHo27yb1cEHQeafe.m.tqgj5AgKosGenx5RZ2FoePvr1WKCGYq",
+  "passwordExpireAt": {
+    "$date": "2026-08-26T05:33:12.735Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-02-27T05:33:12.735Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T05:33:12.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb90828ecf6878384f0fa2"
+  },
+  "email": "testdicv.manager@dicv.com",
+  "password": "$2a$10$Qj3mYFcfy6xyjLyRDqYYAuwIr.TrzELfest149hOoX12ZrfJLzq3u",
+  "passwordExpireAt": {
+    "$date": "2026-09-15T05:58:26.698Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-03-19T05:58:26.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T05:58:26.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb92108ecf6878384f3ac5"
+  },
+  "email": "testdicv.engineer@dicv.com",
+  "password": "$2a$10$syukC.H/hxbgqRL7CcFMJOIeQig85RDp6Pfm/Mu1UIjPzeMNKuMk2",
+  "passwordExpireAt": {
+    "$date": "2026-09-15T06:05:04.335Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-03-19T06:05:04.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T06:05:04.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb93088ecf6878384f55f1"
+  },
+  "email": "testdicv.operator@dicv.com",
+  "password": "$2a$10$ZLkbu8u11ZuxcbtcYOswOee3gXg7vlfzWxxAmjPa5M7ApiPYitR/i",
+  "passwordExpireAt": {
+    "$date": "2026-09-15T06:09:12.476Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-03-19T06:09:12.476Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T06:09:12.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ca0e572553158fd361e522"
+  },
+  "email": "fdjrkblm@burpcollaborator.net",
+  "password": "$2a$10$sdXAwo/kFHRZsA4fj9MxLuL.OyAnXACF4O2vikZumo/gfnp9byW3a",
+  "passwordExpireAt": {
+    "$date": "2026-09-26T05:47:03.801Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": "pwKmuYqMrmDateBMpTOMnaq4",
+  "businessUnitTokenCreatedAt": {
+    "$date": "2026-03-30T06:01:46.467Z"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-03-30T05:47:03.801Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-30T05:47:03.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ccc64d2553158fd3ac0d9a"
+  },
+  "email": "admin@dicv.com",
+  "password": "$2a$10$3ISjbz4WgxDzUQgG2WJm4O4Dj0L1hqusZvqhmQBMJL9jOglkaA4Km",
+  "passwordExpireAt": {
+    "$date": "2026-09-28T07:16:29.044Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-01T07:16:29.044Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T07:16:29.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cdfec52553158fd3cd6a02"
+  },
+  "email": "harishmuthyala2002@gmail.com",
+  "password": "$2a$10$N/JfV9tREccupCaycuF.luRTR8pQ9pkOcmBhzWlGRmSaJ52pSsinC",
+  "passwordExpireAt": {
+    "$date": "2026-09-29T05:29:41.895Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-02T05:29:41.896Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T05:29:41.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cf7ec02553158fd3f73d2b"
+  },
+  "email": "prashanth.operator@dicv.com",
+  "password": "$2a$10$5L2jtd5ssXKfm7QK2.GTEuoyOH7lS5MBqsWDLGuCADMQVxMNLib9y",
+  "passwordExpireAt": {
+    "$date": "2026-09-30T08:48:00.622Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": "IQmFYtaw6LpyCkTSRcN7LORn",
+  "businessUnitTokenCreatedAt": {
+    "$date": "2026-05-05T09:36:54.317Z"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-03T08:48:00.622Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-03T08:48:00.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d743202553158fd3ce0039"
+  },
+  "email": "idorte@gmail.com",
+  "password": "$2a$10$K0IPBMAcp..eTIGzZPy5De6Zkg33.n3OQGvPweGrGwjA3TKWa60ui",
+  "passwordExpireAt": {
+    "$date": "2026-10-06T06:11:44.629Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-09T06:11:44.630Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-09T06:11:44.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e2cfc1a9cac3027da18728"
+  },
+  "email": "derin@criontech.com",
+  "password": "$2a$10$7Fip8Hg6goQDXyU2azKPse1UCzm870KeaZiEyirWjK7xfD7HdyUGK",
+  "passwordExpireAt": {
+    "$date": "2026-10-15T00:26:41.550Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": "gyehRQGa7aoMNSar2GxjmB9O",
+  "businessUnitTokenCreatedAt": {
+    "$date": "2026-04-18T00:27:03.952Z"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-18T00:26:41.550Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T00:26:41.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e76c71d325ce719a05e2c2"
+  },
+  "email": "yuri@gmail.com",
+  "password": "$2a$10$kjfebW04XGCG6Nu1TieQreIdbTLFHaeGd3B92HkFRT2gf6fkvIH6e",
+  "passwordExpireAt": {
+    "$date": "2026-10-18T12:24:17.354Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-21T12:24:17.354Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T12:24:17.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e881eed325ce719a2414a4"
+  },
+  "email": "paint@gmail.com",
+  "password": "$2a$10$EJgg588XSFyjE0BuvFBrKOVQqK13pkmFlZJkMjS7GDYaDeZgbYb0u",
+  "passwordExpireAt": {
+    "$date": "2026-10-19T08:08:14.218Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-22T08:08:14.219Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T08:08:14.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e88f7ad325ce719a2583fa"
+  },
+  "email": "product@gmail.com",
+  "password": "$2a$10$0gbgFkQf6lCew0vd.CG5HO2S5IszxJ9PM.upIfpTOMrA7xp3Ind42",
+  "passwordExpireAt": {
+    "$date": "2026-10-19T09:06:02.844Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-22T09:06:02.844Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T09:06:02.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e893cbd325ce719a25faa9"
+  },
+  "email": "cyber@gmail.com",
+  "password": "$2a$10$7dYFlqxp13.V/s2mCXXT.eBKO3Fa9Pv1DWm.AdCH2q95ZZywc7QFK",
+  "passwordExpireAt": {
+    "$date": "2026-10-19T09:24:27.127Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-22T09:24:27.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T09:24:27.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e893fed325ce719a260039"
+  },
+  "email": "vapt@gmail.com",
+  "password": "$2a$10$6pN9ZKegJSSf1OKM.w/2fOfFM2AscW9PpYzpN/7ByxqJFI.BXKD9y",
+  "passwordExpireAt": {
+    "$date": "2026-10-19T09:25:18.072Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-04-22T09:25:18.072Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T09:25:18.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f88e3486eb657934c5ab72"
+  },
+  "email": "mayur.manager@dicv.com",
+  "password": "$2a$10$y/M.T9z3A39hnDQGxPbGyeLQnrqsyW/DPiuduV.pcnz8H0a97LZI2",
+  "passwordExpireAt": {
+    "$date": "2026-10-31T12:16:52.789Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-04T12:16:52.793Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-04T12:16:52.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f9b949bbe0f495107ea07e"
+  },
+  "user": {
+    "$oid": "69f9b949bbe0f495107ea054"
+  },
+  "email": "admin@kjprasanth98gmail.onmicrosoft.com",
+  "password": "$2a$10$yHSz0qbDt0Rc60dBmKe.IOVZSZrn4hZr9gGhekt2YGN4FXl0vHouq",
+  "passwordExpireAt": {
+    "$date": "2026-11-01T09:32:56.458Z"
+  },
+  "isSuperAdmin": true,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-05T09:32:57.216Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-05T09:32:57.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a859afa9f2f1bae0db1a335"
+  },
+  "email": "dicvmgrprdn@daimlertruck.com",
+  "password": "$2a$10$yeZRxZjG6b18R6ghbcOJkuoHehUeA8Do/mZi1M.HPFXEO16V8YrbK",
+  "passwordExpireAt": {
+    "$date": "2027-02-15T12:00:57.999Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-08-19T12:00:58.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T12:00:58.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a859b299f2f1bae0db1a392"
+  },
+  "email": "dicvprdn@daimlertruck.com",
+  "password": "$2a$10$JjGKRBiwP71lnbIWaMzSnuiAYkLbHggObbryQVELoxrH0PR4eYusa",
+  "passwordExpireAt": {
+    "$date": "2027-02-15T12:01:45.618Z"
+  },
+  "isSuperAdmin": false,
+  "businessUnitToken": null,
+  "businessUnitTokenCreatedAt": null,
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-08-19T12:01:45.619Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T12:01:45.619Z"
+  },
+  "__v": 0
+}]

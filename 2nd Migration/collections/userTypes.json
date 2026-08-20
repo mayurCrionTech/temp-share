@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "6989c34bb6aeed79af3d41d1"
+  },
+  "name": "Engineer",
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "department": {
+    "$oid": "6989c336b6aeed79af3d4143"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:21:47.646Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:21:47.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "name": "OPERATOR",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:04:19.513Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:04:19.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "name": "MANAGER",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:10:55.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:10:55.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699daaad24beedc1a1322ec5"
+  },
+  "name": "Engineer",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T13:42:05.916Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:42:05.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a858a289f2f1bae0db175e6"
+  },
+  "name": "Manager",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "6a858a1c9f2f1bae0db175bb"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T10:49:12.552Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T10:49:12.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a858a2f9f2f1bae0db17606"
+  },
+  "name": "Engineer",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "6a858a1c9f2f1bae0db175bb"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T10:49:19.980Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T10:49:19.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a858a3a9f2f1bae0db17631"
+  },
+  "name": "Operator",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "6a858a1c9f2f1bae0db175bb"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T10:49:30.029Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T10:49:30.029Z"
+  },
+  "__v": 0
+}]

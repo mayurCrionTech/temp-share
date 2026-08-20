@@ -1,0 +1,1337 @@
+[{
+  "_id": {
+    "$oid": "6989c431b6aeed79af3d47a3"
+  },
+  "user": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:25:37.248Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:25:37.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6992f91261ffee7c5ad36d6a"
+  },
+  "user": {
+    "$oid": "6992f91261ffee7c5ad36d66"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-16T11:01:38.233Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T11:01:38.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943da3bfb07d6db09a8ea4"
+  },
+  "user": {
+    "$oid": "69943da3bfb07d6db09a8ea0"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:06:27.819Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:06:27.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943f40bfb07d6db09a9931"
+  },
+  "user": {
+    "$oid": "69943f40bfb07d6db09a992d"
+  },
+  "positivePermissions": [
+    "668254d21c025ed5466e6178",
+    "668277e3ce2038006d18934f",
+    "66a9d855d82efb35acf711e4",
+    "66a9d85cd82efb35acf711e5",
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9d98cd82efb35acf711ef",
+    "66a9e7ecd82efb35acf71240",
+    "66bcaecce5a722222c858df6",
+    "676e7c38ab3fde0329c5d089",
+    "66bcaedde5a722222c858df8"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:13:20.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:13:20.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69944144bfb07d6db09aa5f0"
+  },
+  "user": {
+    "$oid": "69944144bfb07d6db09aa5ec"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:21:56.377Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:21:56.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699441e4bfb07d6db09aaa26"
+  },
+  "user": {
+    "$oid": "699441e4bfb07d6db09aaa22"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69944144bfb07d6db09aa5ec"
+  },
+  "updatedBy": {
+    "$oid": "69944144bfb07d6db09aa5ec"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:24:36.432Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:24:36.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d8860ef3e8e535d18f968"
+  },
+  "user": {
+    "$oid": "699d8860ef3e8e535d18f964"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T11:15:44.346Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T11:15:44.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699dab2424beedc1a13231fa"
+  },
+  "user": {
+    "$oid": "699dab2424beedc1a13231f6"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T13:44:04.431Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:44:04.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699dabbc24beedc1a1323624"
+  },
+  "user": {
+    "$oid": "699dabbc24beedc1a1323620"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T13:46:36.930Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:46:36.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fdaa90ae9e28d81c9b61d"
+  },
+  "user": {
+    "$oid": "699fdaa90ae9e28d81c9b619"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:31:21.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:31:21.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fdb730ae9e28d81c9bc23"
+  },
+  "user": {
+    "$oid": "699fdb730ae9e28d81c9bc1f"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdBy": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "updatedBy": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:34:43.755Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:34:43.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699fdee40ae9e28d81c9d3ff"
+  },
+  "user": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "positivePermissions": [
+    "668254d21c025ed5466e6178",
+    "668277e3ce2038006d18934f",
+    "66a9d855d82efb35acf711e4",
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66b5ec5b76b1df1a46daff5e",
+    "66b5ec6576b1df1a46daff5f",
+    "66bcaec1e5a722222c858df5",
+    "66bcaecce5a722222c858df6",
+    "66bcaed6e5a722222c858df7",
+    "66bcaedde5a722222c858df8",
+    "66bcaeeae5a722222c858dfa",
+    "676e7c30ab3fde0329c5d085",
+    "676e7c38ab3fde0329c5d089",
+    "68ca9c87f24e45a1da2dfe89",
+    "68ca9c9ef24e45a1da2dfe8d",
+    "66a9d85cd82efb35acf711e5"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:49:24.572Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:49:24.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a1298656b76b2d183e6fa0"
+  },
+  "user": {
+    "$oid": "69a1298656b76b2d183e6f9c"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-27T05:20:06.985Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T05:20:06.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a12b4648bf170ecf2e5f6f"
+  },
+  "user": {
+    "$oid": "69a12b4648bf170ecf2e5f6b"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-27T05:27:34.450Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T05:27:34.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a12c6c5dd07d06e4f1c4de"
+  },
+  "user": {
+    "$oid": "69a12c6c5dd07d06e4f1c4da"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-27T05:32:28.463Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T05:32:28.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb8ed88ecf6878384ee32e"
+  },
+  "user": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "positivePermissions": [
+    "668254d21c025ed5466e6178",
+    "668277e3ce2038006d18934f",
+    "66a9d855d82efb35acf711e4",
+    "66a9d85cd82efb35acf711e5",
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9d98cd82efb35acf711ef",
+    "66b5ec5b76b1df1a46daff5e",
+    "66b5ec6576b1df1a46daff5f",
+    "66b5ec6d76b1df1a46daff60",
+    "66b5ec7476b1df1a46daff61",
+    "674e99ae5734652b3fe3a18a",
+    "674e99b95734652b3fe3a2d5",
+    "66bcaec1e5a722222c858df5",
+    "66bcaecce5a722222c858df6",
+    "66bcaed6e5a722222c858df7",
+    "66bcaedde5a722222c858df8",
+    "66bcaeeae5a722222c858dfa",
+    "69f87813510923ded21f2be1",
+    "69f87871510923ded21f2be3",
+    "69f878a1510923ded21f2be5",
+    "69f878d8510923ded21f2be6",
+    "676e7c30ab3fde0329c5d085",
+    "676e7c38ab3fde0329c5d089",
+    "676e7c7dab3fde0329c5d08d",
+    "676e7c84ab3fde0329c5d091"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-19T05:51:20.906Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T05:51:20.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb91048ecf6878384f1de6"
+  },
+  "user": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "positivePermissions": [
+    "668254d21c025ed5466e6178",
+    "668277e3ce2038006d18934f",
+    "66a9d855d82efb35acf711e4",
+    "66a9d85cd82efb35acf711e5",
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9d98cd82efb35acf711ef",
+    "66b5ec5b76b1df1a46daff5e",
+    "66b5ec6576b1df1a46daff5f",
+    "66b5ec6d76b1df1a46daff60",
+    "66b5ec7476b1df1a46daff61",
+    "674e99ae5734652b3fe3a18a",
+    "674e99b95734652b3fe3a2d5",
+    "66b8843b7c0ced7de91eb562",
+    "66bcaec1e5a722222c858df5",
+    "66bcaecce5a722222c858df6",
+    "66bcaed6e5a722222c858df7",
+    "66bcaedde5a722222c858df8",
+    "66bcaeeae5a722222c858dfa",
+    "676e7c30ab3fde0329c5d085",
+    "676e7c38ab3fde0329c5d089",
+    "676e7c7dab3fde0329c5d08d",
+    "676e7c84ab3fde0329c5d091",
+    "68ca9c87f24e45a1da2dfe89",
+    "68ca9c9ef24e45a1da2dfe8d",
+    "68ca9cb2f24e45a1da2dfe91",
+    "68ca9cbaf24e45a1da2dfe95",
+    "69f87813510923ded21f2be1",
+    "69f87871510923ded21f2be3",
+    "69f878a1510923ded21f2be5",
+    "69f878d8510923ded21f2be6"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "createdAt": {
+    "$date": "2026-03-19T06:00:36.954Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T06:00:36.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bb926c8ecf6878384f4504"
+  },
+  "user": {
+    "$oid": "69bb926c8ecf6878384f4500"
+  },
+  "positivePermissions": [
+    "668277e3ce2038006d18934f",
+    "66a9d855d82efb35acf711e4",
+    "66a9d97ed82efb35acf711ed",
+    "66b5ec5b76b1df1a46daff5e",
+    "66b5ec6576b1df1a46daff5f",
+    "66b5ec6d76b1df1a46daff60",
+    "66b5ec7476b1df1a46daff61",
+    "674e99ae5734652b3fe3a18a",
+    "674e99b95734652b3fe3a2d5",
+    "66b8843b7c0ced7de91eb562",
+    "66bcaecce5a722222c858df6",
+    "66bcaee4e5a722222c858df9",
+    "676e7c30ab3fde0329c5d085",
+    "676e7c38ab3fde0329c5d089",
+    "676e7c7dab3fde0329c5d08d",
+    "68ca9c87f24e45a1da2dfe89",
+    "68ca9c9ef24e45a1da2dfe8d",
+    "68ca9cb2f24e45a1da2dfe91",
+    "69f87871510923ded21f2be3",
+    "69f878a1510923ded21f2be5"
+  ],
+  "negativePermissions": [
+    "66a9d977d82efb35acf711ec",
+    "66bcaec1e5a722222c858df5",
+    "66bcaed6e5a722222c858df7",
+    "676e7c84ab3fde0329c5d091"
+  ],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-19T06:06:36.456Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T06:06:36.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ca3ccf2553158fd3670345"
+  },
+  "user": {
+    "$oid": "69ca3ccf2553158fd3670340"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-30T09:05:19.422Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-30T09:05:19.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ca412e2553158fd367771f"
+  },
+  "user": {
+    "$oid": "69ca412e2553158fd367771b"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-30T09:23:58.726Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-30T09:23:58.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ca4c152553158fd368bfde"
+  },
+  "user": {
+    "$oid": "69ca4c152553158fd368bfda"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-30T10:10:29.428Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-30T10:10:29.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ccae282553158fd3a97bc6"
+  },
+  "user": {
+    "$oid": "69ccae282553158fd3a97bc2"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-01T05:33:28.779Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T05:33:28.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ccb55b2553158fd3aa3daa"
+  },
+  "user": {
+    "$oid": "69ccb55b2553158fd3aa3da6"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-01T06:04:11.408Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T06:04:11.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ccc4ba2553158fd3abe253"
+  },
+  "user": {
+    "$oid": "69ccc4ba2553158fd3abe24f"
+  },
+  "positivePermissions": [
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9d98cd82efb35acf711ef",
+    "66bcaec1e5a722222c858df5",
+    "66bcaecce5a722222c858df6",
+    "66bcaed6e5a722222c858df7",
+    "66bcaedde5a722222c858df8",
+    "66bcaeeae5a722222c858dfa",
+    "66b5ec6576b1df1a46daff5f",
+    "66b8843b7c0ced7de91eb562",
+    "68ca9c87f24e45a1da2dfe89",
+    "68ca9cb2f24e45a1da2dfe91",
+    "68ca9c9ef24e45a1da2dfe8d",
+    "68ca9cbaf24e45a1da2dfe95",
+    "668254d21c025ed5466e6178",
+    "668277e3ce2038006d18934f",
+    "66a9d85cd82efb35acf711e5",
+    "676e7c30ab3fde0329c5d085",
+    "676e7c38ab3fde0329c5d089",
+    "676e7c7dab3fde0329c5d08d",
+    "676e7c84ab3fde0329c5d091"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "updatedBy": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "createdAt": {
+    "$date": "2026-04-01T07:09:46.012Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T07:09:46.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cd13a92553158fd3b449c2"
+  },
+  "user": {
+    "$oid": "69cd13a92553158fd3b449be"
+  },
+  "positivePermissions": [
+    "66a9d977d82efb35acf711ec"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-01T12:46:33.165Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T12:46:33.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cdf05c2553158fd3cbe16b"
+  },
+  "user": {
+    "$oid": "69cdf05b2553158fd3cbe167"
+  },
+  "positivePermissions": [
+    "66a9d977d82efb35acf711ec"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T04:28:12.006Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T04:28:12.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cdf3bc2553158fd3cc3e22"
+  },
+  "user": {
+    "$oid": "69cdf3bc2553158fd3cc3e1e"
+  },
+  "positivePermissions": [
+    "66a9d977d82efb35acf711ec"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T04:42:36.567Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T04:42:36.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ce03742553158fd3cde8bd"
+  },
+  "user": {
+    "$oid": "69ce03742553158fd3cde8b9"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T05:49:40.577Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T05:49:40.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ce04e22553158fd3ce1028"
+  },
+  "user": {
+    "$oid": "69ce04e22553158fd3ce1024"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T05:55:46.174Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T05:55:46.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cf7e9f2553158fd3f739ca"
+  },
+  "user": {
+    "$oid": "69cf7e9f2553158fd3f739c3"
+  },
+  "positivePermissions": [
+    "668277e3ce2038006d18934f"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "updatedBy": {
+    "$oid": "69cf7e9f2553158fd3f739c3"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T08:47:27.330Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-03T08:47:27.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cf87569cf76a1c90204024"
+  },
+  "user": {
+    "$oid": "69cf87569cf76a1c9020401c"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "updatedBy": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T09:24:38.608Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-03T09:24:38.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cfae075831699f9c0a7092"
+  },
+  "user": {
+    "$oid": "69cfae075831699f9c0a708c"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69cf7e9f2553158fd3f739c3"
+  },
+  "updatedBy": {
+    "$oid": "69cf7e9f2553158fd3f739c3"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T12:09:43.918Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-03T12:09:43.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d742b42553158fd3cdf3da"
+  },
+  "user": {
+    "$oid": "69d742b42553158fd3cdf3d6"
+  },
+  "positivePermissions": [
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9d98cd82efb35acf711ef",
+    "66a9e7e7d82efb35acf7123f",
+    "66a9e7ecd82efb35acf71240",
+    "66a9e7f0d82efb35acf71241",
+    "66a9e7f5d82efb35acf71242",
+    "66bcaec1e5a722222c858df5",
+    "66bcaecce5a722222c858df6",
+    "66bcaed6e5a722222c858df7",
+    "66bcaedde5a722222c858df8",
+    "66b8843b7c0ced7de91eb562",
+    "66b5ec5b76b1df1a46daff5e",
+    "66b5ec6576b1df1a46daff5f",
+    "66b5ec6d76b1df1a46daff60",
+    "66b5ec7476b1df1a46daff61",
+    "68ca9c87f24e45a1da2dfe89",
+    "68ca9c9ef24e45a1da2dfe8d",
+    "68ca9cb2f24e45a1da2dfe91",
+    "68ca9cbaf24e45a1da2dfe95",
+    "668254d21c025ed5466e6178",
+    "668277e3ce2038006d18934f",
+    "66a9d855d82efb35acf711e4",
+    "66a9d85cd82efb35acf711e5",
+    "676e7c30ab3fde0329c5d085",
+    "676e7c38ab3fde0329c5d089",
+    "676e7c7dab3fde0329c5d08d",
+    "676e7c84ab3fde0329c5d091"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-09T06:09:56.769Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-09T06:09:56.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e722cdd325ce719afe0cc7"
+  },
+  "user": {
+    "$oid": "69e722cdd325ce719afe0cbf"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "updatedBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "createdAt": {
+    "$date": "2026-04-21T07:10:05.940Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T07:10:05.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e74cb4d325ce719a0284f4"
+  },
+  "user": {
+    "$oid": "69e74cb4d325ce719a0284ee"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-21T10:08:52.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T10:08:52.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e88137d325ce719a2400ed"
+  },
+  "user": {
+    "$oid": "69e88137d325ce719a2400e9"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T08:05:11.338Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T08:05:11.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e8819bd325ce719a240bd0"
+  },
+  "user": {
+    "$oid": "69e8819bd325ce719a240bcc"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T08:06:51.532Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T08:06:51.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e8932fd325ce719a25e9cf"
+  },
+  "user": {
+    "$oid": "69e8932fd325ce719a25e9cb"
+  },
+  "positivePermissions": [
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9d98cd82efb35acf711ef"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T09:21:51.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T09:21:51.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e89394d325ce719a25f4b0"
+  },
+  "user": {
+    "$oid": "69e89394d325ce719a25f4ac"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T09:23:32.688Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T09:23:32.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f88db8ccc9d2e7aebd8e2b"
+  },
+  "user": {
+    "$oid": "69f88db8ccc9d2e7aebd8e27"
+  },
+  "positivePermissions": [],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-05-04T12:14:48.643Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-04T12:14:48.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a859a3c9f2f1bae0db1a00a"
+  },
+  "user": {
+    "$oid": "6a859a3c9f2f1bae0db1a006"
+  },
+  "positivePermissions": [
+    "668254d21c025ed5466e6178",
+    "668277e3ce2038006d18934f",
+    "66a9d855d82efb35acf711e4",
+    "66a9d85cd82efb35acf711e5",
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9d98cd82efb35acf711ef",
+    "66a9e7e7d82efb35acf7123f",
+    "66a9e7ecd82efb35acf71240",
+    "66a9e7f0d82efb35acf71241",
+    "66a9e7f5d82efb35acf71242",
+    "66b5ecf176b1df1a46daff67",
+    "66b5ec5b76b1df1a46daff5e",
+    "66b5ec6576b1df1a46daff5f",
+    "66b5ec6d76b1df1a46daff60",
+    "66b5ec7476b1df1a46daff61",
+    "674e99ae5734652b3fe3a18a",
+    "674e99b95734652b3fe3a2d5",
+    "66b8843b7c0ced7de91eb562",
+    "66bcaecce5a722222c858df6",
+    "66bcaec1e5a722222c858df5",
+    "66bcaed6e5a722222c858df7",
+    "66bcaedde5a722222c858df8",
+    "68ca9c87f24e45a1da2dfe89",
+    "68ca9c9ef24e45a1da2dfe8d",
+    "68ca9cb2f24e45a1da2dfe91",
+    "68ca9cbaf24e45a1da2dfe95",
+    "69f87813510923ded21f2be1",
+    "69f87871510923ded21f2be3",
+    "69f878a1510923ded21f2be5",
+    "69f878d8510923ded21f2be6",
+    "66bcaeeae5a722222c858dfa"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "6a859a3c9f2f1bae0db1a006"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:57:48.942Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:57:48.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a859aa99f2f1bae0db1a1c1"
+  },
+  "user": {
+    "$oid": "6a859aa99f2f1bae0db1a1bd"
+  },
+  "positivePermissions": [
+    "668277e3ce2038006d18934f",
+    "66a9d977d82efb35acf711ec",
+    "66a9d97ed82efb35acf711ed",
+    "66a9d984d82efb35acf711ee",
+    "66a9e7e7d82efb35acf7123f",
+    "66a9e7ecd82efb35acf71240",
+    "66a9e7f0d82efb35acf71241",
+    "66b5ecd676b1df1a46daff66",
+    "66b5ec5b76b1df1a46daff5e",
+    "66b5ec6576b1df1a46daff5f",
+    "66b5ec6d76b1df1a46daff60",
+    "66b8843b7c0ced7de91eb562",
+    "66bcaecce5a722222c858df6",
+    "66bcaed6e5a722222c858df7",
+    "66bcaee4e5a722222c858df9",
+    "676e7c30ab3fde0329c5d085",
+    "676e7c38ab3fde0329c5d089",
+    "676e7c7dab3fde0329c5d08d",
+    "68ca9c87f24e45a1da2dfe89",
+    "68ca9c9ef24e45a1da2dfe8d",
+    "68ca9cb2f24e45a1da2dfe91",
+    "69f87813510923ded21f2be1",
+    "69f87871510923ded21f2be3",
+    "69f878a1510923ded21f2be5",
+    "69f878d8510923ded21f2be6",
+    "66bcaec1e5a722222c858df5"
+  ],
+  "negativePermissions": [],
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "6a859a3c9f2f1bae0db1a006"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:59:37.439Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:59:37.439Z"
+  },
+  "__v": 0
+}]

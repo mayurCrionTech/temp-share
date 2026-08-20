@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "6989c38bb6aeed79af3d4376"
+  },
+  "name": "Morning Shift",
+  "shiftHours": {
+    "start": "00:30",
+    "end": "08:30"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:22:51.850Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:23:19.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989c3a1b6aeed79af3d43fe"
+  },
+  "name": "Afternoon Shift",
+  "shiftHours": {
+    "start": "08:30",
+    "end": "16:30"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:23:13.864Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:23:13.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989c3b9b6aeed79af3d4497"
+  },
+  "name": "Night Shift",
+  "shiftHours": {
+    "start": "16:30",
+    "end": "00:30"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:23:37.820Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:23:37.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "name": "Shift A",
+  "shiftHours": {
+    "start": "00:30",
+    "end": "08:30"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:01:35.539Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:01:35.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943ca3bfb07d6db09a8827"
+  },
+  "name": "Shift B",
+  "shiftHours": {
+    "start": "08:30",
+    "end": "16:30"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:02:11.545Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:03:25.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943d08bfb07d6db09a8a85"
+  },
+  "name": "Shift C",
+  "shiftHours": {
+    "start": "16:30",
+    "end": "00:30"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:03:52.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:03:52.537Z"
+  },
+  "__v": 0
+}]

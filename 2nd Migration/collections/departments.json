@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6989c336b6aeed79af3d4143"
+  },
+  "name": "Production - Packing",
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:21:26.747Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:21:26.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "name": "Paint shop",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:00:58.157Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:00:58.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a858a1c9f2f1bae0db175bb"
+  },
+  "name": "Production",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T10:49:00.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T10:49:00.083Z"
+  },
+  "__v": 0
+}]

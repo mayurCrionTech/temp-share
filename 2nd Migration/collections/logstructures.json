@@ -1,0 +1,374 @@
+[{
+  "_id": {
+    "$oid": "699fd74a5140f7bc0e85cfc2"
+  },
+  "logId": "699fd6d75140f7bc0e85cd08",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "699fd74a5140f7bc0e85cfbb",
+  "isActive": true,
+  "createdBy": "6989c431b6aeed79af3d479f",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:16:58.141Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:16:58.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fdc430ae9e28d81c9c1e7"
+  },
+  "logId": "699fdbf60ae9e28d81c9bffa",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "699fdc430ae9e28d81c9c1e1",
+  "isActive": false,
+  "createdBy": "6989c431b6aeed79af3d479f",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:38:11.762Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T07:12:53.810Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fdfc80ae9e28d81c9da16"
+  },
+  "logId": "699fdf670ae9e28d81c9d7af",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "699fdfc80ae9e28d81c9da0f",
+  "isActive": true,
+  "createdBy": "699fdee40ae9e28d81c9d3fb",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:53:12.713Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:53:12.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a11cf85dd07d06e4f1c02e"
+  },
+  "logId": "69a045025dd07d06e4f19a49",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "69a11cf85dd07d06e4f1c009",
+  "isActive": true,
+  "createdBy": "69944144bfb07d6db09aa5ec",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-02-27T04:26:32.470Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T04:26:32.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a147c75dd07d06e4f1cd15"
+  },
+  "logId": "69a142db5dd07d06e4f1c9fe",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "69a147c75dd07d06e4f1ccf7",
+  "isActive": true,
+  "createdBy": "69944144bfb07d6db09aa5ec",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-02-27T07:29:11.722Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T07:29:11.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a14bdf5dd07d06e4f1d0b8"
+  },
+  "logId": "69a149ae5dd07d06e4f1ceba",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "69a14bdf5dd07d06e4f1d093",
+  "isActive": true,
+  "createdBy": "69944144bfb07d6db09aa5ec",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-02-27T07:46:39.315Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T07:46:39.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69b115f5f6c332141b8fcddd"
+  },
+  "logId": "699fdbf60ae9e28d81c9bffa",
+  "version": 2,
+  "images": [],
+  "note": null,
+  "templateId": "69b115f5f6c332141b8fcdd6",
+  "isActive": false,
+  "createdBy": "6989c431b6aeed79af3d479f",
+  "updatedBy": "6989c431b6aeed79af3d479f",
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T07:12:53.869Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T07:40:19.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69b11c63f6c332141b907d8c"
+  },
+  "logId": "699fdbf60ae9e28d81c9bffa",
+  "version": 3,
+  "images": [],
+  "note": null,
+  "templateId": "69b11c63f6c332141b907d84",
+  "isActive": true,
+  "createdBy": "6989c431b6aeed79af3d479f",
+  "updatedBy": "6989c431b6aeed79af3d479f",
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "createdAt": {
+    "$date": "2026-03-11T07:40:19.534Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T07:40:19.534Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f72934a4b9ce812c638c19"
+  },
+  "logId": "69f72284a4b9ce812c638129",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "69f72934a4b9ce812c638bff",
+  "isActive": true,
+  "createdBy": "69bb8ed88ecf6878384ee32a",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-05-03T10:53:40.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T10:53:40.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f732a3a4b9ce812c639e9a"
+  },
+  "logId": "69f72fcca4b9ce812c6399cc",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "69f732a3a4b9ce812c639e89",
+  "isActive": true,
+  "createdBy": "69bb8ed88ecf6878384ee32a",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-05-03T11:33:55.846Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T11:33:55.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f846d9a4b9ce812c658918"
+  },
+  "logId": "69f846c7a4b9ce812c6588e6",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "69f846d9a4b9ce812c658914",
+  "isActive": true,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-05-04T07:12:25.783Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-04T07:12:25.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8518d521155f4b7732e44"
+  },
+  "logId": "69f8516f521155f4b7732e07",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "69f8518c521155f4b7732e40",
+  "isActive": true,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-05-04T07:58:05.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-04T07:58:05.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a01bfc6f8f23e5d8cca7b46"
+  },
+  "logId": "6a01bfbff8f23e5d8cca7b28",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "6a01bfc6f8f23e5d8cca7b43",
+  "isActive": true,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-05-11T11:38:46.031Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-11T11:38:46.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a01d65cf8f23e5d8ccab108"
+  },
+  "logId": "6a01d657f8f23e5d8ccab0e9",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "6a01d65cf8f23e5d8ccab105",
+  "isActive": true,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-05-11T13:15:08.567Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-11T13:15:08.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a85b9d79f2f1bae0db1ebcc"
+  },
+  "logId": "6a85a86d9f2f1bae0db1c217",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "6a85b9d79f2f1bae0db1eba3",
+  "isActive": true,
+  "createdBy": "6a859a3c9f2f1bae0db1a006",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T14:12:39.292Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T14:12:39.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8697719f2f1bae0db3c87e"
+  },
+  "logId": "6a8691599f2f1bae0db3bae9",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "6a8697719f2f1bae0db3c85a",
+  "isActive": true,
+  "createdBy": "6a859a3c9f2f1bae0db1a006",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-08-20T05:58:09.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T05:58:09.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a86ac509f2f1bae0db3ff6f"
+  },
+  "logId": "6a86aa5d9f2f1bae0db3fa37",
+  "version": 1,
+  "images": [],
+  "note": null,
+  "templateId": "6a86ac509f2f1bae0db3ff46",
+  "isActive": true,
+  "createdBy": "6a859a3c9f2f1bae0db1a006",
+  "updatedBy": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "createdAt": {
+    "$date": "2026-08-20T07:27:12.638Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T07:27:12.638Z"
+  }
+}]

@@ -1,0 +1,1196 @@
+[{
+  "_id": {
+    "$oid": "699fd6d75140f7bc0e85cd08"
+  },
+  "name": "TestLog11",
+  "logNumber": 1,
+  "description": "TestLog11",
+  "documentNumber": "TestLog11",
+  "assetId": "69931796abe7d40f204456af",
+  "departments": [
+    "6989c336b6aeed79af3d4143"
+  ],
+  "teams": [],
+  "assignees": [
+    "6989c431b6aeed79af3d479f"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "6989c431b6aeed79af3d479f"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-02-25T23:44:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-03-06T23:44:00.000Z"
+  },
+  "isRecurrence": true,
+  "isPaused": false,
+  "createdBy": "6989c431b6aeed79af3d479f",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 1,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "699fd6d75140f7bc0e85cd09"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-02-26T05:15:03.097Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:16:58.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fdbf60ae9e28d81c9bffa"
+  },
+  "name": "testlog111",
+  "logNumber": 2,
+  "description": "testlog111",
+  "documentNumber": "testlog111",
+  "assetId": "69931796abe7d40f204456af",
+  "departments": [
+    "6989c336b6aeed79af3d4143"
+  ],
+  "teams": [],
+  "assignees": [
+    "699fdb730ae9e28d81c9bc1f"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "6989c431b6aeed79af3d479f"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-02-26T00:06:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-03-08T00:06:00.000Z"
+  },
+  "isRecurrence": true,
+  "isPaused": false,
+  "createdBy": "6989c431b6aeed79af3d479f",
+  "updatedBy": "6989c431b6aeed79af3d479f",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 1,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "699fdbf60ae9e28d81c9bffb"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-02-26T05:36:54.402Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-11T07:39:35.163Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fdf670ae9e28d81c9d7af"
+  },
+  "name": "testlog234",
+  "logNumber": 3,
+  "description": "testlog234",
+  "documentNumber": "testlog234",
+  "assetId": "699ef66343857e0244274c83",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "699dabbc24beedc1a1323620",
+    "699fdaa90ae9e28d81c9b619"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "699fdee40ae9e28d81c9d3fb"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-02-26T00:21:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-02-28T00:21:00.000Z"
+  },
+  "isRecurrence": true,
+  "isPaused": false,
+  "createdBy": "699fdee40ae9e28d81c9d3fb",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 1,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "699fdf670ae9e28d81c9d7b0"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-02-26T05:51:35.796Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:53:13.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a045025dd07d06e4f19a49"
+  },
+  "name": "PT LOG PARAMETERS",
+  "logNumber": 4,
+  "description": "This log sheet is used to record and monitor critical process parameters to ensure proper operation, process stability, and consistent quality output. The parameters listed are to be checked at defined intervals and recorded accordingly.",
+  "documentNumber": "PT-E-LOG-01",
+  "assetId": "69a043c25dd07d06e4f198c6",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "699441e4bfb07d6db09aaa22"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-02-26T19:00:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-26T18:59:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "69944144bfb07d6db09aa5ec",
+  "updatedBy": "69944144bfb07d6db09aa5ec",
+  "isActive": false,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "19:00",
+    "approver": "69944144bfb07d6db09aa5ec",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "allDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "69a045025dd07d06e4f19a4b"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-02-26T13:05:06.029Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T07:35:28.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a142db5dd07d06e4f1c9fe"
+  },
+  "name": "ED LOG PARAMETERS",
+  "logNumber": 5,
+  "documentNumber": "ED-E-LOG-01",
+  "assetId": "69a043dc5dd07d06e4f199c6",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "699441e4bfb07d6db09aaa22"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-02-27T19:00:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-26T18:59:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "69944144bfb07d6db09aa5ec",
+  "updatedBy": "69944144bfb07d6db09aa5ec",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "69a142db5dd07d06e4f1c9ff"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "19:00",
+    "approver": "69944144bfb07d6db09aa5ec",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "allDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "69a142db5dd07d06e4f1ca00"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-02-27T07:08:11.474Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T04:45:02.780Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a149ae5dd07d06e4f1ceba"
+  },
+  "name": "PT LOG",
+  "logNumber": 6,
+  "documentNumber": "PT-LOG-01",
+  "assetId": "69a043c25dd07d06e4f198c6",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "699441e4bfb07d6db09aaa22"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-02-27T19:00:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-27T18:59:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "69944144bfb07d6db09aa5ec",
+  "updatedBy": "69944144bfb07d6db09aa5ec",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "69a149ae5dd07d06e4f1cebb"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "19:00",
+    "approver": "69944144bfb07d6db09aa5ec",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "allDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "69a149ae5dd07d06e4f1cebc"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-02-27T07:37:18.225Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T07:16:04.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d4da942553158fd38a79ee"
+  },
+  "name": "=1+2",
+  "logNumber": 7,
+  "description": "test",
+  "documentNumber": "testnum123",
+  "assetId": "69b1532f29713658e5cb9c16",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69ccb55b2553158fd3aa3da6",
+    "69ccae282553158fd3a97bc2"
+  ],
+  "emailNotificationRecipients": [
+    "69ccae282553158fd3a97bc2"
+  ],
+  "criticalNotificationRecipients": [
+    "699441e4bfb07d6db09aaa22"
+  ],
+  "approvers": [
+    "69ccae282553158fd3a97bc2",
+    "69ccb55b2553158fd3aa3da6"
+  ],
+  "approvedBy": [],
+  "status": "draft",
+  "startDateAndTime": null,
+  "endDateAndTime": null,
+  "isRecurrence": false,
+  "isPaused": false,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": "",
+  "isActive": false,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": false,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-04-07T10:21:08.399Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-07T10:21:08.399Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f334853ca8edafd770c6ff"
+  },
+  "name": "PT PROCESS LOG",
+  "logNumber": 8,
+  "description": "A PT (Pre-Treatment) log is used to record and monitor the pre-treatment stages in the truck painting process, focusing on quality and visual inspection. It ensures that each stage like cleaning, degreasing, phosphating, and rinsing meets the required standards before painting.",
+  "documentNumber": "PT-01",
+  "assetId": "69a043c25dd07d06e4f198c6",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "draft",
+  "startDateAndTime": {
+    "$date": "2026-04-30T00:30:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-30T00:29:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "69bb8ed88ecf6878384ee32a",
+  "updatedBy": "69bb8ed88ecf6878384ee32a",
+  "isActive": false,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "69f334853ca8edafd770c700"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": false,
+  "scheduledReportDetails": {
+    "scheduleTime": "00:30",
+    "approver": "69bb8ed88ecf6878384ee32a",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "allDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "69f334853ca8edafd770c701"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-04-30T10:52:53.307Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T10:53:53.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f72284a4b9ce812c638129"
+  },
+  "name": "PT  PROCESS LOG",
+  "logNumber": 9,
+  "documentNumber": "PT - 01",
+  "assetId": "69a043c25dd07d06e4f198c6",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-05-03T00:30:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-31T00:29:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "69bb8ed88ecf6878384ee32a",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "69f72284a4b9ce812c63812a"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "00:30",
+    "approver": "69bb8ed88ecf6878384ee32a",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "allDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "69f72284a4b9ce812c63812b"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-05-03T10:25:08.291Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T10:53:40.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f72a9ea4b9ce812c639004"
+  },
+  "name": "ED PROCESS LOG",
+  "logNumber": 10,
+  "documentNumber": "ED - 01",
+  "assetId": "69a043dc5dd07d06e4f199c6",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "draft",
+  "startDateAndTime": {
+    "$date": "2026-05-03T00:30:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-03T00:29:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "69bb8ed88ecf6878384ee32a",
+  "updatedBy": "69bb8ed88ecf6878384ee32a",
+  "isActive": false,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "69f72a9ea4b9ce812c639005"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": false,
+  "scheduledReportDetails": {
+    "scheduleTime": "00:30",
+    "approver": "69bb8ed88ecf6878384ee32a",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "allDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "69f72a9ea4b9ce812c639006"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-05-03T10:59:42.755Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-03T11:34:09.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f72fcca4b9ce812c6399cc"
+  },
+  "name": "ED  PROCESS LOG",
+  "logNumber": 11,
+  "documentNumber": " ED  - 01",
+  "assetId": "69a043dc5dd07d06e4f199c6",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-05-03T00:30:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-03T00:29:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "69bb8ed88ecf6878384ee32a",
+  "updatedBy": "69bb8ed88ecf6878384ee32a",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "allDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "69f72fcca4b9ce812c6399cd"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "00:30",
+    "approver": "69bb8ed88ecf6878384ee32a",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "allDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "69f72fcca4b9ce812c6399ce"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-05-03T11:21:48.193Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-12T04:41:57.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f846c7a4b9ce812c6588e6"
+  },
+  "name": "test Log ",
+  "logNumber": 12,
+  "description": "test Log ",
+  "documentNumber": "test Log ",
+  "assetId": "69f2f1603ca8edafd76cad59",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-05-04T07:11:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-16T07:11:00.000Z"
+  },
+  "isRecurrence": false,
+  "isPaused": false,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-05-04T07:12:07.709Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-04T07:12:25.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f8516f521155f4b7732e07"
+  },
+  "name": "testlog1",
+  "logNumber": 13,
+  "description": "testlog1",
+  "documentNumber": "testlog1",
+  "assetId": "69f2f77c3ca8edafd76f3dfc",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "69bb8ed88ecf6878384ee32a"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-05-04T07:57:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-10T07:57:00.000Z"
+  },
+  "isRecurrence": false,
+  "isPaused": true,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [
+    {
+      "pausedDate": {
+        "$date": "2026-05-12T23:51:22.576Z"
+      },
+      "reason": "stop",
+      "resumedDate": null,
+      "pausedBy": "69bb8ed88ecf6878384ee32a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-05-04T07:57:35.305Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-12T23:51:22.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a01bfbff8f23e5d8cca7b28"
+  },
+  "name": "checkdeviation1",
+  "logNumber": 14,
+  "description": "checkdeviation1\n",
+  "documentNumber": "ck1",
+  "assetId": "69fb21f0f66618bc98259169",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-05-11T11:38:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-12T11:38:00.000Z"
+  },
+  "isRecurrence": false,
+  "isPaused": false,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-05-11T11:38:39.252Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-11T11:38:46.053Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a01d398f8f23e5d8ccaa985"
+  },
+  "name": "testlog5",
+  "logNumber": 15,
+  "description": "testlog5",
+  "documentNumber": "testlog5",
+  "assetId": "69fb21f0f66618bc98259169",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "draft",
+  "startDateAndTime": {
+    "$date": "2026-05-11T13:03:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-14T13:03:00.000Z"
+  },
+  "isRecurrence": false,
+  "isPaused": false,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": "69bb91048ecf6878384f1de2",
+  "isActive": false,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": false,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-05-11T13:03:20.644Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-11T13:33:38.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a01d657f8f23e5d8ccab0e9"
+  },
+  "name": "testlog4",
+  "logNumber": 16,
+  "description": "testlog6464",
+  "documentNumber": "testlog4",
+  "assetId": "69fb214af66618bc98258f0b",
+  "departments": [
+    "69943c5abfb07d6db09a8660"
+  ],
+  "teams": [],
+  "assignees": [
+    "69bb926c8ecf6878384f4500"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-05-11T13:14:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-05-15T13:14:00.000Z"
+  },
+  "isRecurrence": false,
+  "isPaused": false,
+  "createdBy": "69bb91048ecf6878384f1de2",
+  "updatedBy": "69bb91048ecf6878384f1de2",
+  "isActive": true,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": null,
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-05-11T13:15:03.449Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-15T11:13:55.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a85a86d9f2f1bae0db1c217"
+  },
+  "name": "PT PROCESS PARAMETERS CHECK SHEET1",
+  "logNumber": 171,
+  "description": "Pre-Treatment _PT in a Paint Shop is a crucial process that prepares the metal surface for painting by removing oil, grease, rust, scale, and other contaminants and by creating a suitable surface for paint adhesion. The process typically involves cleaning, degreasing, water rinsing, surface conditioning, phosphating or other conversion coating, followed by rinsing and drying. Pre-treatment improves paint adhesion, corrosion resistance, and overall coating durability, resulting in a high-quality and long-lasting painted surface.",
+  "documentNumber": "DICV _PT _0011",
+  "assetId": "69a043c25dd07d06e4f198c6",
+  "departments": [
+    "6a858a1c9f2f1bae0db175bb"
+  ],
+  "teams": [],
+  "assignees": [
+    "6a859aa99f2f1bae0db1a1bd"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "6a859a3c9f2f1bae0db1a006"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-08-19T02:00:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-01T01:59:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "6a859a3c9f2f1bae0db1a006",
+  "updatedBy": "6a859a3c9f2f1bae0db1a006",
+  "isActive": false,
+  "recurrenceDetails": null,
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "02:00",
+    "approver": "6a859a3c9f2f1bae0db1a006",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "onlyOnWeekDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "6a85a86d9f2f1bae0db1c219"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-08-19T12:58:21.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T07:02:15.950Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8691599f2f1bae0db3bae2"
+  },
+  "name": "ED PROCESS PARAMETERS CHECK SHEET",
+  "logNumber": 18,
+  "description": "Electrodeposition (ED) coating in a paint shop is a crucial process used to apply a uniform and corrosion-resistant paint coating to metal components. In this process, the cleaned and pre-treated metal body is immersed in an electrically conductive paint bath, and an electrical current is applied to deposit the paint uniformly onto the metal surface, including difficult-to-reach areas. The deposited coating is then rinsed and cured in an oven to achieve the required film properties. ED coating provides excellent corrosion protection, uniform coating thickness, good adhesion, and a durable base for subsequent painting processes.",
+  "documentNumber": "DICV _ED _002",
+  "assetId": "69a043dc5dd07d06e4f199c6",
+  "departments": [
+    "6a858a1c9f2f1bae0db175bb"
+  ],
+  "teams": [],
+  "assignees": [
+    "6a859aa99f2f1bae0db1a1bd"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "6a859a3c9f2f1bae0db1a006"
+  ],
+  "approvedBy": [],
+  "status": "draft",
+  "startDateAndTime": {
+    "$date": "2026-08-20T02:00:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-01T01:59:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "6a859a3c9f2f1bae0db1a006",
+  "updatedBy": "6a859a3c9f2f1bae0db1a006",
+  "isActive": false,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "onlyOnWeekDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "6a8691599f2f1bae0db3bae3"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": false,
+  "scheduledReportDetails": {
+    "scheduleTime": "01:30",
+    "approver": "6a859a3c9f2f1bae0db1a006",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "onlyOnWeekDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "6a8691599f2f1bae0db3bae4"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-08-20T05:32:09.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T05:58:32.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8691599f2f1bae0db3bae9"
+  },
+  "name": "ED PROCESS PARAMETERS CHECK SHEET",
+  "logNumber": 19,
+  "description": "Electrodeposition (ED) coating in a paint shop is a crucial process used to apply a uniform and corrosion-resistant paint coating to metal components. In this process, the cleaned and pre-treated metal body is immersed in an electrically conductive paint bath, and an electrical current is applied to deposit the paint uniformly onto the metal surface, including difficult-to-reach areas. The deposited coating is then rinsed and cured in an oven to achieve the required film properties. ED coating provides excellent corrosion protection, uniform coating thickness, good adhesion, and a durable base for subsequent painting processes.",
+  "documentNumber": "DICV _ED _002",
+  "assetId": "69a043dc5dd07d06e4f199c6",
+  "departments": [
+    "6a858a1c9f2f1bae0db175bb"
+  ],
+  "teams": [],
+  "assignees": [
+    "6a859aa99f2f1bae0db1a1bd"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "6a859a3c9f2f1bae0db1a006"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-08-20T02:00:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-01T01:59:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "6a859a3c9f2f1bae0db1a006",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "onlyOnWeekDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "6a8691599f2f1bae0db3baea"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "01:30",
+    "approver": "6a859a3c9f2f1bae0db1a006",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "onlyOnWeekDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "6a8691599f2f1bae0db3baeb"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-08-20T05:32:09.743Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T05:58:09.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a86aa5d9f2f1bae0db3fa37"
+  },
+  "name": "PT PROCESS PARAMETERS CHECK SHEET",
+  "logNumber": 20,
+  "description": "Pre-Treatment _PT in a Paint Shop is a crucial process that prepares the metal surface for painting by removing oil, grease, rust, scale, and other contaminants and by creating a suitable surface for paint adhesion. The process typically involves cleaning, degreasing, water rinsing, surface conditioning, phosphating or other conversion coating, followed by rinsing and drying. Pre-treatment improves paint adhesion, corrosion resistance, and overall coating durability, resulting in a high-quality and long-lasting painted surface.",
+  "documentNumber": "DICV _PT _001",
+  "assetId": "69a043c25dd07d06e4f198c6",
+  "departments": [
+    "6a858a1c9f2f1bae0db175bb"
+  ],
+  "teams": [],
+  "assignees": [
+    "6a859aa99f2f1bae0db1a1bd"
+  ],
+  "emailNotificationRecipients": [],
+  "criticalNotificationRecipients": [],
+  "approvers": [
+    "6a859a3c9f2f1bae0db1a006"
+  ],
+  "approvedBy": [],
+  "status": "workInProgress",
+  "startDateAndTime": {
+    "$date": "2026-08-20T02:00:00.000Z"
+  },
+  "endDateAndTime": {
+    "$date": "2026-12-01T01:59:00.000Z"
+  },
+  "isRecurrence": true,
+  "isScheduleReport": true,
+  "isPaused": false,
+  "createdBy": "6a859a3c9f2f1bae0db1a006",
+  "updatedBy": "",
+  "isActive": true,
+  "recurrenceDetails": {
+    "frequency": 4,
+    "timePeriod": "hour",
+    "recurrOn": "onlyOnWeekDays",
+    "occurDays": [],
+    "specificDay": null,
+    "_id": {
+      "$oid": "6a86aa5d9f2f1bae0db3fa38"
+    }
+  },
+  "isUserCustomization": false,
+  "isEntryStarted": true,
+  "scheduledReportDetails": {
+    "scheduleTime": "01:30",
+    "approver": "6a859a3c9f2f1bae0db1a006",
+    "frequency": "1",
+    "timePeriod": "day",
+    "recurrOn": "onlyOnWeekDays",
+    "specificDays": [],
+    "_id": {
+      "$oid": "6a86aa5d9f2f1bae0db3fa39"
+    }
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "pausedAndResumedPeriods": [],
+  "createdAt": {
+    "$date": "2026-08-20T07:18:53.593Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-20T07:27:12.946Z"
+  }
+}]

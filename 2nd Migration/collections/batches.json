@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "695f8efe48f59e6a4a298703"
+  },
+  "id": "batch_01",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-08T11:03:30.739Z"
+  },
+  "frequency": 100,
+  "maxSize": 50,
+  "tags": [
+    {
+      "$oid": "695f83f6f0b5120ac2d3a882"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "695f8efe48f59e6a4a298704"
+  },
+  "id": "batch_skids",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-08T11:03:30.780Z"
+  },
+  "frequency": 250,
+  "maxSize": 20,
+  "tags": [
+    {
+      "$oid": "695f83f6f0b5120ac2d3f6a4"
+    }
+  ]
+}]

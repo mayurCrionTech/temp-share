@@ -1,0 +1,1918 @@
+[{
+  "_id": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "firstName": "Crion",
+  "lastName": "Admin",
+  "name": "Crion Admin",
+  "isDraft": false,
+  "employeeId": "admin",
+  "isSuperAdmin": true,
+  "email": "admin@criontech.com",
+  "contactNumber": "9791178081",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "team": null,
+  "reportsTo": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-01-27T07:54:18.581Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T07:54:18.581Z"
+  },
+  "__v": 0,
+  "userAuthentication": {
+    "$oid": "69786f2a39d414a32b44eb20"
+  }
+},
+{
+  "_id": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "firstName": "Prashanth",
+  "lastName": "K J",
+  "name": "Prashanth K J",
+  "buUserId": "TIN1",
+  "isDraft": false,
+  "employeeId": "CR45",
+  "isSuperAdmin": false,
+  "email": "prashanth.engineer@criontech.com",
+  "contactNumber": "909089799",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "6989c38bb6aeed79af3d4376"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "department": {
+    "$oid": "6989c336b6aeed79af3d4143"
+  },
+  "userType": {
+    "$oid": "6989c34bb6aeed79af3d41d1"
+  },
+  "designation": {
+    "$oid": "6989c35bb6aeed79af3d423f"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:25:37.206Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:25:37.206Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "6989c431b6aeed79af3d47a3"
+  },
+  "userAuthentication": {
+    "$oid": "6989c4cbb6aeed79af3d4b8a"
+  },
+  "activeToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODljNDMxYjZhZWVkNzlhZjNkNDc5ZiIsInBlcm1pc3Npb25zIjp7fSwiYnVzaW5lc3NVbml0IjoiNjk4OWMzMjJiNmFlZWQ3OWFmM2Q0MGMxIiwiaXNTdXBlckFkbWluIjpmYWxzZSwiZGVwYXJ0bWVudCI6IjY5ODljMzM2YjZhZWVkNzlhZjNkNDE0MyIsImlhdCI6MTc3NTIwNTU4NCwiZXhwIjoxNzc1MjkxOTg0fQ.hYRhX6_-yXHKcRfmGq2qsEMYZ4eg7BxJRiWfCwdIHkw"
+},
+{
+  "_id": {
+    "$oid": "69943da3bfb07d6db09a8ea0"
+  },
+  "firstName": "TEST ",
+  "lastName": "OPERATOR",
+  "name": "TEST  OPERATOR",
+  "buUserId": "DI1",
+  "isDraft": false,
+  "employeeId": "1237",
+  "isSuperAdmin": false,
+  "email": "operator@gmail.com",
+  "contactNumber": "9852347766",
+  "countryCode": "+91",
+  "isEnabled": false,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:06:27.812Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:06:27.813Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69943da3bfb07d6db09a8ea4"
+  },
+  "userAuthentication": {
+    "$oid": "69943decbfb07d6db09a906d"
+  }
+},
+{
+  "_id": {
+    "$oid": "69943f40bfb07d6db09a992d"
+  },
+  "firstName": "TEST",
+  "lastName": "MANAGER",
+  "name": "TEST MANAGER",
+  "buUserId": "DI2",
+  "isDraft": false,
+  "employeeId": "2753",
+  "isSuperAdmin": false,
+  "email": "manager@gmail.com",
+  "contactNumber": "7652493245",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:13:20.061Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:13:20.061Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69943f40bfb07d6db09a9931"
+  },
+  "userAuthentication": {
+    "$oid": "69943fccbfb07d6db09a9c95"
+  }
+},
+{
+  "_id": {
+    "$oid": "69944144bfb07d6db09aa5ec"
+  },
+  "firstName": "PAINT SHOP",
+  "lastName": "MANAGER",
+  "name": "PAINT SHOP MANAGER",
+  "buUserId": "DI3",
+  "isDraft": false,
+  "employeeId": "7878",
+  "isSuperAdmin": false,
+  "email": "paintshopmanager@dicv.com",
+  "contactNumber": "8654123357",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:21:56.373Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:21:56.373Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69944144bfb07d6db09aa5f0"
+  },
+  "userAuthentication": {
+    "$oid": "69944169bfb07d6db09aa6ef"
+  }
+},
+{
+  "_id": {
+    "$oid": "699441e4bfb07d6db09aaa22"
+  },
+  "firstName": "OPERATOR",
+  "lastName": "PAINTSHOP",
+  "name": "OPERATOR PAINTSHOP",
+  "buUserId": "DI4",
+  "isDraft": false,
+  "employeeId": "7574",
+  "isSuperAdmin": false,
+  "email": "paintshopoperator@dicv.com",
+  "contactNumber": "7562314864",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "69944144bfb07d6db09aa5ec"
+  },
+  "createdBy": {
+    "$oid": "69944144bfb07d6db09aa5ec"
+  },
+  "updatedBy": {
+    "$oid": "69944144bfb07d6db09aa5ec"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:24:36.428Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:24:36.428Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "699441e4bfb07d6db09aaa26"
+  },
+  "userAuthentication": {
+    "$oid": "69944206bfb07d6db09aab21"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d8860ef3e8e535d18f964"
+  },
+  "firstName": "tryuser",
+  "lastName": "1",
+  "name": "tryuser 1",
+  "buUserId": "DI5",
+  "isDraft": false,
+  "employeeId": "0000111",
+  "isSuperAdmin": false,
+  "email": "tryuser1@dicv.com",
+  "contactNumber": "8741256932",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T11:15:44.334Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T11:15:44.334Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "699d8860ef3e8e535d18f968"
+  }
+},
+{
+  "_id": {
+    "$oid": "699dab2424beedc1a13231f6"
+  },
+  "firstName": "prashanth",
+  "lastName": "kj",
+  "name": "prashanth kj",
+  "buUserId": "DI6",
+  "isDraft": false,
+  "employeeId": "cr67",
+  "isSuperAdmin": false,
+  "email": "prashanth.engineer@criontech.com",
+  "contactNumber": "8675757568",
+  "countryCode": "+91",
+  "isEnabled": false,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "699daaad24beedc1a1322ec5"
+  },
+  "designation": {
+    "$oid": "699daabb24beedc1a1322f29"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T13:44:04.428Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:44:04.428Z"
+  },
+  "__v": 0,
+  "userAuthentication": {
+    "$oid": "6989c4cbb6aeed79af3d4b8a"
+  },
+  "userPermission": {
+    "$oid": "699dab2424beedc1a13231fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "699dabbc24beedc1a1323620"
+  },
+  "firstName": "prashanth",
+  "lastName": "kj",
+  "name": "prashanth kj",
+  "buUserId": "DI7",
+  "isDraft": false,
+  "employeeId": "cr677",
+  "isSuperAdmin": false,
+  "email": "prashanth.manager@criontech.com",
+  "contactNumber": "984344875",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T13:46:36.927Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:46:36.927Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "699dabbc24beedc1a1323624"
+  },
+  "userAuthentication": {
+    "$oid": "699dabda24beedc1a13236f2"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fdaa90ae9e28d81c9b619"
+  },
+  "firstName": "prashanth",
+  "lastName": "kj",
+  "name": "prashanth kj",
+  "buUserId": "DI8",
+  "isDraft": false,
+  "employeeId": "cr13",
+  "isSuperAdmin": false,
+  "email": "prashanth.operater@criontech.com",
+  "contactNumber": "868686667",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:31:21.357Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:31:21.357Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "699fdaa90ae9e28d81c9b61d"
+  },
+  "userAuthentication": {
+    "$oid": "699fdad20ae9e28d81c9b73b"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fdb730ae9e28d81c9bc1f"
+  },
+  "firstName": "Prashanth",
+  "lastName": "operater",
+  "name": "Prashanth operater",
+  "buUserId": "TIN3",
+  "isDraft": false,
+  "employeeId": "cr495",
+  "isSuperAdmin": false,
+  "email": "prashanth.operater@criontech.com",
+  "contactNumber": "9080980089",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "6989c38bb6aeed79af3d4376"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "department": {
+    "$oid": "6989c336b6aeed79af3d4143"
+  },
+  "userType": {
+    "$oid": "6989c34bb6aeed79af3d41d1"
+  },
+  "designation": {
+    "$oid": "6989c35bb6aeed79af3d423f"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "createdBy": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "updatedBy": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:34:43.732Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:34:43.733Z"
+  },
+  "__v": 0,
+  "userAuthentication": {
+    "$oid": "699fdad20ae9e28d81c9b73b"
+  },
+  "userPermission": {
+    "$oid": "699fdb730ae9e28d81c9bc23"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fdee40ae9e28d81c9d3fb"
+  },
+  "firstName": "prashanth",
+  "lastName": "dicv",
+  "name": "prashanth dicv",
+  "buUserId": "DI9",
+  "isDraft": false,
+  "employeeId": "cr123",
+  "isSuperAdmin": false,
+  "email": "prashanth.engineer@dicv.com",
+  "contactNumber": "9897397297",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "699daaad24beedc1a1322ec5"
+  },
+  "designation": {
+    "$oid": "699daabb24beedc1a1322f29"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-26T05:49:24.548Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T05:49:24.548Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "699fdee40ae9e28d81c9d3ff"
+  },
+  "userAuthentication": {
+    "$oid": "699fdef90ae9e28d81c9d4a2"
+  },
+  "activeToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWZkZWU0MGFlOWUyOGQ4MWM5ZDNmYiIsInBlcm1pc3Npb25zIjp7fSwiYnVzaW5lc3NVbml0IjoiNjk5NDNjMjViZmIwN2Q2ZGIwOWE4NTFlIiwiaXNTdXBlckFkbWluIjpmYWxzZSwiZGVwYXJ0bWVudCI6IjY5OTQzYzVhYmZiMDdkNmRiMDlhODY2MCIsImlhdCI6MTc3NTIwODA1NywiZXhwIjoxNzc1Mjk0NDU3fQ.OJpX38va4HcUyvmDRqUUYr4ZdCTAtz6VJoHo0NOJkKY"
+},
+{
+  "_id": {
+    "$oid": "69a12c6c5dd07d06e4f1c4da"
+  },
+  "firstName": "Sundar",
+  "lastName": "R",
+  "name": "Sundar R",
+  "buUserId": "DI12",
+  "isDraft": false,
+  "employeeId": "cr100",
+  "isSuperAdmin": false,
+  "email": "sundar@gmail.com",
+  "contactNumber": "6546546547",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "69943f40bfb07d6db09a992d"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-27T05:32:28.459Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T05:32:28.459Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69a12c6c5dd07d06e4f1c4de"
+  },
+  "userAuthentication": {
+    "$oid": "69a12c985dd07d06e4f1c527"
+  }
+},
+{
+  "_id": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "firstName": "Testdicv",
+  "lastName": "Manager",
+  "name": "Testdicv Manager",
+  "buUserId": "DI13",
+  "isDraft": false,
+  "employeeId": "dicv001",
+  "isSuperAdmin": false,
+  "email": "testdicv.manager@dicv.com",
+  "contactNumber": "9765421345",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-03-19T05:51:20.904Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T05:51:20.904Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69bb8ed88ecf6878384ee32e"
+  },
+  "userAuthentication": {
+    "$oid": "69bb90828ecf6878384f0fa2"
+  }
+},
+{
+  "_id": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "firstName": "Testdicv",
+  "lastName": "Engineer",
+  "name": "Testdicv Engineer",
+  "buUserId": "DI14",
+  "isDraft": false,
+  "employeeId": "dicv002",
+  "isSuperAdmin": false,
+  "email": "testdicv.engineer@dicv.com",
+  "contactNumber": "8192341023",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "699daaad24beedc1a1322ec5"
+  },
+  "designation": {
+    "$oid": "699daabb24beedc1a1322f29"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-19T06:00:36.949Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T06:00:36.949Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69bb91048ecf6878384f1de6"
+  },
+  "userAuthentication": {
+    "$oid": "69bb92108ecf6878384f3ac5"
+  }
+},
+{
+  "_id": {
+    "$oid": "69bb926c8ecf6878384f4500"
+  },
+  "firstName": "Testdicv",
+  "lastName": "Operator",
+  "name": "Testdicv Operator",
+  "buUserId": "DI15",
+  "isDraft": false,
+  "employeeId": "dicv003",
+  "isSuperAdmin": false,
+  "email": "testdicv.operator@dicv.com",
+  "contactNumber": "7102992345",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "createdBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "updatedBy": {
+    "$oid": "69bb926c8ecf6878384f4500"
+  },
+  "createdAt": {
+    "$date": "2026-03-19T06:06:36.451Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-19T06:06:36.451Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69bb926c8ecf6878384f4504"
+  },
+  "userAuthentication": {
+    "$oid": "69bb93088ecf6878384f55f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ca3ccf2553158fd3670340"
+  },
+  "firstName": "tester1",
+  "lastName": "test1",
+  "name": "tester1 test1",
+  "buUserId": "DI16",
+  "isDraft": false,
+  "employeeId": "123456",
+  "isSuperAdmin": false,
+  "email": "tester1@gmai.com",
+  "contactNumber": "9550764718",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699441e4bfb07d6db09aaa22"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-30T09:05:19.409Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-30T09:05:19.409Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69ca3ccf2553158fd3670345"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ca412e2553158fd367771b"
+  },
+  "firstName": "tester2",
+  "lastName": "test2",
+  "name": "tester2 test2",
+  "buUserId": "DI17",
+  "isDraft": false,
+  "employeeId": "123487",
+  "isSuperAdmin": false,
+  "email": "tester12@gmai.com",
+  "contactNumber": "9550764718",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699441e4bfb07d6db09aaa22"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-30T09:23:58.703Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-30T09:23:58.703Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69ca412e2553158fd367771f"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ca4c152553158fd368bfda"
+  },
+  "firstName": "tester34",
+  "lastName": "tester12",
+  "name": "tester34 tester12",
+  "buUserId": "DI18",
+  "isDraft": false,
+  "employeeId": "34567",
+  "isSuperAdmin": false,
+  "email": "abcr@gmail.com",
+  "contactNumber": "9550764718",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699fdaa90ae9e28d81c9b619"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-03-30T10:10:29.392Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-30T10:10:29.393Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69ca4c152553158fd368bfde"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ccae282553158fd3a97bc2"
+  },
+  "firstName": "tester",
+  "lastName": "test",
+  "name": "tester",
+  "buUserId": "DI19",
+  "isDraft": false,
+  "employeeId": "abc123",
+  "isSuperAdmin": false,
+  "email": "testerhh@gmail.com",
+  "contactNumber": "9550764718",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "699daaad24beedc1a1322ec5"
+  },
+  "designation": {
+    "$oid": "699daabb24beedc1a1322f29"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699d8860ef3e8e535d18f964"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-01T05:33:28.774Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T05:33:28.774Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69ccae282553158fd3a97bc6"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ccb55b2553158fd3aa3da6"
+  },
+  "firstName": "test12\"><img src=x onerror=alert('xss')>",
+  "lastName": "test23\"><img src=x onerror=alert('xss')>",
+  "name": "test12\"><img src=x onerror=alert('xss')> test23\"><img src=x onerror=alert('xss')>",
+  "buUserId": "DI20",
+  "isDraft": false,
+  "employeeId": "test67",
+  "isSuperAdmin": false,
+  "email": "testergt@gmail.com",
+  "contactNumber": "9667865715",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699d8860ef3e8e535d18f964"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-01T06:04:11.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T06:04:11.384Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69ccb55b2553158fd3aa3daa"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cd13a92553158fd3b449be"
+  },
+  "firstName": "newtester",
+  "lastName": "test",
+  "name": "newtester test",
+  "buUserId": "DI22",
+  "isDraft": false,
+  "employeeId": "abcqwert",
+  "isSuperAdmin": false,
+  "email": "testiun@gmail.com",
+  "contactNumber": "9550764874",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "image": {
+    "$oid": "69cd13742553158fd3b4440a"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699d8860ef3e8e535d18f964"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-01T12:46:33.155Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T12:46:33.156Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69cd13a92553158fd3b449c2"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cdf05b2553158fd3cbe167"
+  },
+  "firstName": "testuser23",
+  "lastName": "test",
+  "name": "testuser23 test",
+  "buUserId": "DI23",
+  "isDraft": false,
+  "employeeId": "abc567",
+  "isSuperAdmin": false,
+  "email": "testeruser123@gmail.com",
+  "contactNumber": "6338764518",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699d8860ef3e8e535d18f964"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T04:28:11.998Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T04:28:11.998Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69cdf05c2553158fd3cbe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cdf3bc2553158fd3cc3e1e"
+  },
+  "firstName": "harish",
+  "lastName": "m",
+  "name": "harish m",
+  "buUserId": "DI24",
+  "isDraft": false,
+  "employeeId": "hari123",
+  "isSuperAdmin": false,
+  "email": "harishmuthyala2002@gmail.com",
+  "contactNumber": "9550764718",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T04:42:36.563Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T04:42:36.563Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69cdf3bc2553158fd3cc3e22"
+  },
+  "reportsTo": {
+    "$oid": "69cdf3bc2553158fd3cc3e1e"
+  },
+  "userAuthentication": {
+    "$oid": "69cdfec52553158fd3cd6a02"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ce03742553158fd3cde8b9"
+  },
+  "firstName": "testxss1",
+  "lastName": "testxss1",
+  "name": "testxss1 testxss1",
+  "buUserId": "DI25",
+  "isDraft": false,
+  "employeeId": "testxss11",
+  "isSuperAdmin": false,
+  "email": "testxss1@gmail.com",
+  "contactNumber": "7678156789",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "image": {
+    "$oid": "69ce03182553158fd3cddf1d"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T05:49:40.574Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T05:49:40.574Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69ce03742553158fd3cde8bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ce04e22553158fd3ce1024"
+  },
+  "firstName": "batman",
+  "lastName": "m",
+  "name": "batman m",
+  "buUserId": "DI26",
+  "isDraft": false,
+  "employeeId": "testerbatman@gmail.com",
+  "isSuperAdmin": false,
+  "email": "testbatman@gmail.com",
+  "contactNumber": "7678989012",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-02T05:55:46.170Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T05:55:46.170Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69ce04e22553158fd3ce1028"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d742b42553158fd3cdf3d6"
+  },
+  "firstName": "testidor21",
+  "lastName": "test",
+  "name": "testidor21 test",
+  "buUserId": "TIN4",
+  "isDraft": false,
+  "employeeId": "testidor12",
+  "isSuperAdmin": false,
+  "email": "idorte@gmail.com",
+  "contactNumber": "8779098912",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "6989c38bb6aeed79af3d4376"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "department": {
+    "$oid": "6989c336b6aeed79af3d4143"
+  },
+  "userType": {
+    "$oid": "6989c34bb6aeed79af3d41d1"
+  },
+  "designation": {
+    "$oid": "6989c35bb6aeed79af3d423f"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-09T06:09:56.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-09T06:09:56.749Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69d742b42553158fd3cdf3da"
+  },
+  "userAuthentication": {
+    "$oid": "69d743202553158fd3ce0039"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e722cdd325ce719afe0cbf"
+  },
+  "firstName": "test",
+  "lastName": "tester2",
+  "name": "test tester2",
+  "buUserId": "DI30",
+  "isDraft": false,
+  "employeeId": "suvetha123",
+  "isSuperAdmin": false,
+  "email": "suvetha123@gmail.com",
+  "contactNumber": "8779890987",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "69943f40bfb07d6db09a992d"
+  },
+  "createdBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "updatedBy": {
+    "$oid": "69bb91048ecf6878384f1de2"
+  },
+  "createdAt": {
+    "$date": "2026-04-21T07:10:05.875Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T07:10:05.875Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69e722cdd325ce719afe0cc7"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e74cb4d325ce719a0284ee"
+  },
+  "firstName": "yuri",
+  "lastName": "madam",
+  "name": "yuri madam",
+  "buUserId": "DI31",
+  "isDraft": false,
+  "employeeId": "112",
+  "isSuperAdmin": false,
+  "email": "yuri@gmail.com",
+  "contactNumber": "3234567898",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "designation": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "69943f40bfb07d6db09a992d"
+  },
+  "createdBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "updatedBy": {
+    "$oid": "69bb8ed88ecf6878384ee32a"
+  },
+  "createdAt": {
+    "$date": "2026-04-21T10:08:52.755Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T10:08:52.755Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69e74cb4d325ce719a0284f4"
+  },
+  "userAuthentication": {
+    "$oid": "69e76c71d325ce719a05e2c2"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e88137d325ce719a2400e9"
+  },
+  "firstName": "paint",
+  "lastName": "test1",
+  "name": "paint test1",
+  "buUserId": "TIN5",
+  "isDraft": false,
+  "employeeId": "213123",
+  "isSuperAdmin": false,
+  "email": "paint@gmail.com",
+  "contactNumber": "4567892314",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "6989c38bb6aeed79af3d4376"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "department": {
+    "$oid": "6989c336b6aeed79af3d4143"
+  },
+  "userType": {
+    "$oid": "6989c34bb6aeed79af3d41d1"
+  },
+  "designation": {
+    "$oid": "6989c35bb6aeed79af3d423f"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "6989c431b6aeed79af3d479f"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T08:05:11.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T08:05:11.295Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69e88137d325ce719a2400ed"
+  },
+  "userAuthentication": {
+    "$oid": "69e881eed325ce719a2414a4"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e8819bd325ce719a240bcc"
+  },
+  "firstName": "product",
+  "lastName": "test2",
+  "name": "product test2",
+  "buUserId": "DI32",
+  "isDraft": false,
+  "employeeId": "76985",
+  "isSuperAdmin": false,
+  "email": "product@gmail.com",
+  "contactNumber": "7687986546",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943ca3bfb07d6db09a8827"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "reportsTo": {
+    "$oid": "699d8860ef3e8e535d18f964"
+  },
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T08:06:51.501Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T08:06:51.501Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69e8819bd325ce719a240bd0"
+  },
+  "userAuthentication": {
+    "$oid": "69e88f7ad325ce719a2583fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e8932fd325ce719a25e9cb"
+  },
+  "firstName": "testing1",
+  "lastName": "test 1 ",
+  "name": "testing1 test 1 ",
+  "buUserId": "TIN6",
+  "isDraft": false,
+  "employeeId": "1234",
+  "isSuperAdmin": false,
+  "email": "cyber@gmail.com",
+  "contactNumber": "6578987654",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "6989c38bb6aeed79af3d4376"
+  },
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "department": {
+    "$oid": "6989c336b6aeed79af3d4143"
+  },
+  "userType": {
+    "$oid": "6989c34bb6aeed79af3d41d1"
+  },
+  "designation": {
+    "$oid": "6989c35bb6aeed79af3d423f"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T09:21:51.077Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T09:21:51.077Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69e8932fd325ce719a25e9cf"
+  },
+  "userAuthentication": {
+    "$oid": "69e893cbd325ce719a25faa9"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e89394d325ce719a25f4ac"
+  },
+  "firstName": "lowuser",
+  "lastName": "test case 2 ",
+  "name": "lowuser test case 2 ",
+  "buUserId": "DI33",
+  "isDraft": false,
+  "employeeId": "657",
+  "isSuperAdmin": false,
+  "email": "vapt@gmail.com",
+  "contactNumber": "8765789876",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943d08bfb07d6db09a8a85"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "699daaad24beedc1a1322ec5"
+  },
+  "designation": {
+    "$oid": "699daabb24beedc1a1322f29"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-04-22T09:23:32.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-22T09:23:32.677Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69e89394d325ce719a25f4b0"
+  },
+  "userAuthentication": {
+    "$oid": "69e893fed325ce719a260039"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f88db8ccc9d2e7aebd8e27"
+  },
+  "firstName": "Mayur",
+  "lastName": "Manager",
+  "name": "Mayur Manager",
+  "buUserId": "DI34",
+  "isDraft": false,
+  "employeeId": "143",
+  "isSuperAdmin": false,
+  "email": "mayur.manager@dicv.com",
+  "contactNumber": "9988771122",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "69943c5abfb07d6db09a8660"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "designation": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-05-04T12:14:48.534Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-04T12:14:48.534Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "69f88db8ccc9d2e7aebd8e2b"
+  },
+  "userAuthentication": {
+    "$oid": "69f88e3486eb657934c5ab72"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f9b949bbe0f495107ea054"
+  },
+  "firstName": "Dicv",
+  "lastName": "Admin",
+  "name": "Dicv Admin",
+  "isDraft": false,
+  "employeeId": "admin",
+  "isSuperAdmin": true,
+  "email": "admin@kjprasanth98gmail.onmicrosoft.com",
+  "contactNumber": "9791178045",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "team": null,
+  "reportsTo": {
+    "$oid": "69f9b949bbe0f495107ea054"
+  },
+  "createdBy": {
+    "$oid": "69f9b949bbe0f495107ea054"
+  },
+  "updatedBy": {
+    "$oid": "69f9b949bbe0f495107ea054"
+  },
+  "createdAt": {
+    "$date": "2026-05-05T09:32:57.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-05T09:32:57.087Z"
+  },
+  "__v": 0,
+  "userAuthentication": {
+    "$oid": "69f9b949bbe0f495107ea07e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a859a3c9f2f1bae0db1a006"
+  },
+  "firstName": "Production",
+  "lastName": "Manager",
+  "name": "Production Manager",
+  "buUserId": "DI35",
+  "isDraft": false,
+  "employeeId": "DICV0001",
+  "isSuperAdmin": false,
+  "email": "dicvmgrprdn@daimlertruck.com",
+  "contactNumber": "9988776655",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "6a858a1c9f2f1bae0db175bb"
+  },
+  "userType": {
+    "$oid": "6a858a289f2f1bae0db175e6"
+  },
+  "designation": {
+    "$oid": "6a85919b9f2f1bae0db18bb5"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:57:48.881Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:57:48.881Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "6a859a3c9f2f1bae0db1a00a"
+  },
+  "userAuthentication": {
+    "$oid": "6a859afa9f2f1bae0db1a335"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a859aa99f2f1bae0db1a1bd"
+  },
+  "firstName": "Production",
+  "lastName": "Engineer",
+  "name": "Production Engineer",
+  "buUserId": "DI36",
+  "isDraft": false,
+  "employeeId": "DICV0002",
+  "isSuperAdmin": false,
+  "email": "dicvprdn@daimlertruck.com",
+  "contactNumber": "9988776655",
+  "countryCode": "+91",
+  "isEnabled": true,
+  "isDeleted": false,
+  "shift": {
+    "$oid": "69943c7fbfb07d6db09a874b"
+  },
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "department": {
+    "$oid": "6a858a1c9f2f1bae0db175bb"
+  },
+  "userType": {
+    "$oid": "6a858a2f9f2f1bae0db17606"
+  },
+  "designation": {
+    "$oid": "6a8591b29f2f1bae0db18c2e"
+  },
+  "team": null,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:59:37.385Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:59:37.385Z"
+  },
+  "__v": 0,
+  "userPermission": {
+    "$oid": "6a859aa99f2f1bae0db1a1c1"
+  },
+  "userAuthentication": {
+    "$oid": "6a859b299f2f1bae0db1a392"
+  }
+}]

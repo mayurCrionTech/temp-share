@@ -1,0 +1,3666 @@
+[{
+  "_id": {
+    "$oid": "6996bbf88e852ba31f4086ce"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-18T10:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-19T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-19T07:30:00.041Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-19T07:30:00.187Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T07:30:07.035Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-19T07:30:07.032Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6996ca088e852ba31f40dcfa"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-18T15:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-19T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-19T08:30:00.053Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-19T08:30:00.092Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T08:30:00.383Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-19T08:30:00.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6996d8188e852ba31f413082"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-18T15:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-19T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-19T09:30:00.054Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-19T09:30:00.172Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T09:30:00.501Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-19T09:30:00.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6996e62854283f3808394732"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T09:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-19T10:30:00.042Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-19T10:30:00.042Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-19T10:30:00.098Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T10:30:00.176Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-19T10:30:00.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69970248dbf5cfd1eeb0fa01"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T09:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-19T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-19T12:30:00.028Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-19T12:30:00.055Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T12:30:00.157Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-19T12:30:00.155Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69971058dbf5cfd1eeb14d75"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T11:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-19T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-19T13:30:00.022Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-19T13:30:00.051Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T13:30:00.125Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-19T13:30:00.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6997f1583c4fd55f989f7d00"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T05:30:00.070Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T05:30:00.649Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T05:30:04.428Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T05:30:04.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6997ff68efad921191278503"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T06:30:00.082Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T06:30:00.191Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T06:30:01.031Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T06:30:01.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69980d7851ac0fb222dc793c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T07:30:00.030Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T07:30:00.058Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T07:30:00.468Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T07:30:00.467Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69981b8851ac0fb222dcccc5"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T08:30:00.016Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T08:30:00.053Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T08:30:00.492Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T08:30:00.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69982a0351ac0fb222dd085e"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T09:31:43.561Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T09:31:47.506Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T09:31:48.027Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T09:31:48.026Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699837a85f243c40ceb67b1c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-19T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T10:30:00.045Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T10:30:00.124Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T10:30:13.566Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T10:30:13.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699845b8da4db600cbcb552d"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-20T10:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T11:30:00.069Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T11:30:00.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T11:30:01.893Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T11:30:01.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699853c8da4db600cbcba423"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-20T11:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-20T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-20T12:30:00.064Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-20T12:30:00.108Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-20T12:30:01.251Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-20T12:30:01.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d4568dd19f0abc2cebc73"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-20T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-24T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-24T06:30:00.045Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-24T06:30:00.100Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T06:30:10.581Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-24T06:30:10.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d6188c4e8dc33751fab2c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-20T19:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-24T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-24T08:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-24T08:30:00.032Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T08:30:00.963Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-24T08:30:00.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d6f98c4e8dc33751fdecd"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-20T19:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-24T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-24T09:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-24T09:30:00.028Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T09:30:01.441Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-24T09:30:01.441Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d7da8117bcbff914edd3f"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-20T19:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-24T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-24T10:30:00.053Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-24T10:30:00.120Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T10:30:01.560Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-24T10:30:01.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d8bb8278db6607c655bb8"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-24T10:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-24T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-24T11:30:00.036Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-24T11:30:00.073Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T11:30:00.307Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-24T11:30:00.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d99c8278db6607c65b5f7"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-24T11:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-24T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-24T12:30:00.031Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-24T12:30:00.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T12:30:00.123Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-24T12:30:00.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699da7d8278db6607c6607e4"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-24T11:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-24T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-24T13:30:00.040Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-24T13:30:00.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:30:00.246Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-24T13:30:00.244Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699e88d831007ed6ff14e41c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-24T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-25T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-25T05:30:00.012Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-25T05:30:00.041Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T05:30:00.474Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-25T05:30:00.473Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ea4f885220795eadce42e"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-24T16:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-25T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-25T07:30:00.062Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-25T07:30:00.356Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T07:30:02.958Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-25T07:30:02.955Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef9583fc8fa92006a297c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-25T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-25T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-25T13:30:00.065Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-25T13:30:00.109Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:30:00.252Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-25T13:30:00.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fcc48a006be40e411495f"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-25T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T04:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T04:30:00.054Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T04:30:00.089Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T04:30:00.400Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T04:30:00.399Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a004886493ef2567423f1f"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-25T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T08:30:00.032Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T08:30:00.114Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T08:30:00.650Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T08:30:00.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a01298ccf82c81b51c6d5c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-25T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T09:30:00.036Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T09:30:00.074Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T09:30:00.661Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T09:30:00.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a020a857e61065f9101159"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-25T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T10:30:00.029Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T10:30:00.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T10:30:00.562Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T10:30:00.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a02eb857e61065f9101179"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-25T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T11:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T11:30:00.065Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T11:30:00.631Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T11:30:00.631Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a03cc857e61065f910119a"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-25T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T12:30:00.010Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T12:30:00.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T12:30:00.540Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T12:30:00.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a04ad857e61065f91011c6"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-26T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T13:30:00.043Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T13:30:00.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T13:30:00.112Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T13:30:00.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a058e80e160e7998584048"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-26T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-26T14:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-26T14:30:00.083Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-26T14:30:00.159Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-26T14:30:00.236Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-26T14:30:00.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a172283720f5966eb06357"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-26T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T10:30:00.019Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T10:30:00.027Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T10:30:00.094Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T10:30:00.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a18038cd8e2efc71a30f33"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T06:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T11:30:00.007Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T11:30:00.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T11:30:00.240Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T11:30:00.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a180384192943c7ecfff80"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T11:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T11:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T11:30:00.016Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T11:30:00.020Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T11:30:00.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a18e484192943c7ed16014"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T11:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T12:30:00.011Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T12:30:00.014Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T12:30:00.023Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T12:30:00.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a19c584192943c7ed2c262"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T13:30:00.008Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T13:30:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T13:30:00.014Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T13:30:00.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a1aa684192943c7ed41fe9"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T14:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T14:30:00.005Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T14:30:00.008Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T14:30:00.014Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T14:30:00.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a1b8784192943c7ed57c4a"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T15:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T15:30:00.008Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T15:30:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T15:30:00.020Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T15:30:00.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a1c6884192943c7ed6d819"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T16:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T16:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T16:30:00.016Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T16:30:00.027Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T16:30:00.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a1d4984192943c7ed83465"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T17:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T17:30:00.016Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T17:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T17:30:00.034Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T17:30:00.034Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a1e2a84192943c7ed990b6"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T18:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T18:30:00.016Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T18:30:00.020Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T18:30:00.040Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T18:30:00.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a1f0b84192943c7edaed05"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T19:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T19:30:00.016Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T19:30:00.020Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T19:30:00.038Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T19:30:00.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a1fec84192943c7edc4954"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T20:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T20:30:00.018Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T20:30:00.021Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T20:30:00.040Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T20:30:00.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a20cd84192943c7edda5a4"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T21:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T21:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T21:30:00.012Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T21:30:00.032Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T21:30:00.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a21ae84192943c7edf0179"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T22:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T22:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T22:30:00.012Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T22:30:00.034Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T22:30:00.034Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a228f84192943c7ee05dcb"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-27T23:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-27T23:30:00.007Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-27T23:30:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-27T23:30:00.040Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-27T23:30:00.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a237084192943c7ee1ba1e"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T00:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T00:30:00.023Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T00:30:00.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T00:30:00.069Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T00:30:00.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a245184192943c7ee31673"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T01:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T01:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T01:30:00.012Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T01:30:00.043Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T01:30:00.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a253284192943c7ee472c8"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T02:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T02:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T02:30:00.016Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T02:30:00.049Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T02:30:00.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a261384192943c7ee5cf1e"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T03:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T03:30:00.010Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T03:30:00.013Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T03:30:00.051Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T03:30:00.051Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a26f484192943c7ee72b89"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T04:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T04:30:00.011Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T04:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T04:30:00.057Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T04:30:00.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a27d589a65b0a0c6585dab"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T05:30:00.153Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T05:30:00.262Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T05:30:01.046Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T05:30:01.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a28b68caad659f9e71781b"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T06:30:00.021Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T06:30:00.030Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T06:30:00.078Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T06:30:00.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a29978caad659f9e72d67d"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T07:30:00.004Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T07:30:00.007Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T07:30:00.055Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T07:30:00.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2a78803c6b782e1636985"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T08:30:00.017Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T08:30:00.027Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T08:30:00.083Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T08:30:00.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2b59822206d4308405986"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T09:30:00.017Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T09:30:00.042Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T09:30:00.251Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T09:30:00.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2b59812fd94b8c4c9eb0d"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T09:30:00.015Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T09:30:00.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T09:30:00.089Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T09:30:00.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2c3a8f78475d3d2c84c13"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T10:30:00.033Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T10:30:00.059Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T10:30:00.314Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T10:30:00.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2c3a811748d3a10b51fc1"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T10:30:00.010Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T10:30:00.020Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T10:30:00.076Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T10:30:00.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2d1b8f78475d3d2c9a8ed"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T11:30:00.023Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T11:30:00.055Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T11:30:00.320Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T11:30:00.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2d1b811748d3a10b67d47"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T11:30:00.012Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T11:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T11:30:00.075Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T11:30:00.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2dfc8204a2b76d09fd6df"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T12:30:00.038Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T12:30:00.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T12:30:00.379Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T12:30:00.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2dfc811748d3a10b7de56"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T12:30:00.012Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T12:30:00.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T12:30:00.095Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T12:30:00.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2edd8204a2b76d0a133bb"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-27T12:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T13:30:00.034Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T13:30:00.054Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T13:30:00.397Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T13:30:00.395Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a2edd818e239b5cefa9092"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T13:30:00.283Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T13:30:00.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T13:30:00.305Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T13:30:00.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a33428eb2191e77831cc38"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T18:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T18:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T18:30:00.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:30:00.050Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T18:30:00.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a34238a948f58caf303526"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T19:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T19:30:00.016Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T19:30:00.027Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T19:30:00.048Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T19:30:00.047Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a35048102ee10f6ef8a410"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-02-28T20:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-02-28T20:30:00.029Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-02-28T20:30:00.043Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T20:30:00.119Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-02-28T20:30:00.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a38888952905d73c07bfc5"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T00:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T00:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T00:30:00.034Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T00:30:00.085Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T00:30:00.084Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a39698952905d73c091b9d"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T01:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T01:30:00.010Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T01:30:00.017Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T01:30:00.053Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T01:30:00.053Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a3a4a8952905d73c0a77f1"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T02:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T02:30:00.018Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T02:30:00.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T02:30:00.057Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T02:30:00.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a3b2b8952905d73c0bd446"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T03:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T03:30:00.006Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T03:30:00.013Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T03:30:00.050Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T03:30:00.050Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a3c0c8952905d73c0d309c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T04:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T04:30:00.006Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T04:30:00.014Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T04:30:00.055Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T04:30:00.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a3ced8952905d73c0e8cf3"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T05:30:00.012Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T05:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T05:30:00.064Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T05:30:00.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a3dce8952905d73c0fe94b"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T06:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T06:30:00.022Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T06:30:00.072Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T06:30:00.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a3eaf8952905d73c1145a4"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T07:30:00.006Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T07:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T07:30:00.062Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T07:30:00.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a3f908952905d73c12a182"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T08:30:00.011Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T08:30:00.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T08:30:00.069Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T08:30:00.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a40718952905d73c13fddd"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T09:30:00.017Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T09:30:00.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T09:30:00.083Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T09:30:00.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a41528952905d73c155a39"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T10:30:00.005Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T10:30:00.012Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T10:30:00.069Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T10:30:00.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a42338952905d73c16b696"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T11:30:00.010Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T11:30:00.017Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T11:30:00.079Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T11:30:00.079Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a43148952905d73c1812f4"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T12:30:00.007Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T12:30:00.014Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T12:30:00.089Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T12:30:00.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a43f58952905d73c196f53"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T13:30:00.008Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T13:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T13:30:00.079Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T13:30:00.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a44d68952905d73c1acbb3"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T14:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T14:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T14:30:00.021Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T14:30:00.086Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T14:30:00.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a45b78952905d73c1c2798"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T15:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T15:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T15:30:00.020Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T15:30:00.108Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T15:30:00.107Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4698a952905d73c1d83fa"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T16:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T16:30:02.699Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T16:30:02.707Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T16:30:02.773Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T16:30:02.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a47798952905d73c1ee05d"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T17:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T17:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T17:30:00.021Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T17:30:00.088Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T17:30:00.088Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a485a8952905d73c203c45"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T18:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T18:30:00.007Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T18:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T18:30:00.100Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T18:30:00.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a493b8952905d73c2198ab"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T19:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T19:30:00.020Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T19:30:00.027Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T19:30:00.098Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T19:30:00.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4a1c8952905d73c22f511"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T20:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T20:30:00.016Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T20:30:00.023Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T20:30:00.095Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T20:30:00.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4afd8952905d73c245178"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T21:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T21:30:00.012Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T21:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T21:30:00.094Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T21:30:00.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4bde8952905d73c25ade0"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T22:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T22:30:00.004Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T22:30:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T22:30:00.094Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T22:30:00.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4cbf8952905d73c270a49"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-01T23:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-01T23:30:00.008Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-01T23:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-01T23:30:00.108Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-01T23:30:00.107Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4da08952905d73c2866b4"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T00:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T00:30:00.004Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T00:30:00.021Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T00:30:00.139Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T00:30:00.138Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4e818952905d73c29c31f"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T01:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T01:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T01:30:00.021Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T01:30:00.103Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T01:30:00.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a4f628952905d73c2b1f0f"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T02:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T02:30:00.007Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T02:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T02:30:00.106Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T02:30:00.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a50438952905d73c2c7b7c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T03:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T03:30:00.015Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T03:30:00.022Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T03:30:00.109Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T03:30:00.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a51248952905d73c2dd7ea"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T04:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T04:30:00.007Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T04:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T04:30:00.117Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T04:30:00.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a52058952905d73c2f345f"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T05:30:00.010Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T05:30:00.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T05:30:00.120Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T05:30:00.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a52e6817c017c6c61f89e9"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T06:30:00.020Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T06:30:00.030Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:30:00.131Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T06:30:00.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a53c7803220506db7e7beb"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T07:30:00.018Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T07:30:00.029Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T07:30:00.153Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T07:30:00.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a54a8851248b8f280f87d9"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T08:30:00.023Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T08:30:00.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T08:30:00.142Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T08:30:00.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a566a804c89f3920478568"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T10:30:00.018Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T10:30:00.022Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T10:30:00.123Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T10:30:00.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a574b8c5bc3169b4792ffa"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T11:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T11:30:00.022Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T11:30:00.656Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T11:30:00.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a582c8e91fb29bb6030088"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T12:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T12:30:00.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T12:30:00.147Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T12:30:00.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a590d8e9ac52ad490c16cf"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-02T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-02T13:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-02T13:30:00.036Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T13:30:00.531Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-02T13:30:00.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a663c8f15fa3fb8718fc72"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T04:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T04:30:00.033Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T04:30:00.059Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T04:30:00.984Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T04:30:00.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a671d85aa784a39223bdc5"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T05:30:00.020Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T05:30:00.031Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T05:30:00.207Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T05:30:00.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a671d8dc670d902f990302"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T05:30:00.022Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T05:30:00.047Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T05:30:00.854Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T05:30:00.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a67fe897d17d3a12152b17"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T06:30:00.025Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T06:30:00.034Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T06:30:00.197Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T06:30:00.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a67fe8dc670d902f9a6006"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T06:30:00.070Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T06:30:00.105Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T06:30:00.931Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T06:30:00.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a68df82538af112ebfddfe"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T07:30:00.039Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T07:30:00.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T07:30:00.920Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T07:30:00.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a69c089d42cb7790471243"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T08:30:00.039Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T08:30:00.089Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:30:01.140Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T08:30:01.139Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a69c08abec3f15baaca309"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T08:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T08:30:00.023Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T08:30:00.385Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T08:30:00.385Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6aa189d42cb7790486f52"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T09:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T09:30:00.011Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T09:30:00.042Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T09:30:00.802Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T09:30:00.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6b8289d42cb779049cc6c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T10:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T10:30:00.029Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T10:30:00.055Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T10:30:00.804Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T10:30:00.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6c6389d42cb77904b298d"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T11:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T11:30:00.043Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T11:30:00.071Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T11:30:01.040Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T11:30:01.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6d4489d42cb77904c86a7"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T12:30:00.031Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T12:30:00.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T12:30:00.898Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T12:30:00.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6d448f7f32e2904fe3476"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T12:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T12:30:00.011Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T12:30:00.021Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T12:30:00.189Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T12:30:00.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6e2589d42cb77904de37c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T13:30:00.021Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T13:30:00.039Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T13:30:00.729Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T13:30:00.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6e258dd2dea12215c684f"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T13:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T13:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T13:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T13:30:00.205Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T13:30:00.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6f0689d42cb77904f4056"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T14:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T14:30:00.020Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T14:30:00.052Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T14:30:01.292Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T14:30:01.289Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6f06843df8c591797cb16"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T14:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T14:30:00.011Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T14:30:00.030Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T14:30:00.192Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T14:30:00.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6fe7843df8c5917992ded"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T15:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T15:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T15:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T15:30:00.267Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T15:30:00.267Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a70c8943df8c59179a9138"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T16:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T16:30:01.034Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T16:30:01.039Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T16:30:01.213Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T16:30:01.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a71a9843df8c59179bf47a"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T17:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T17:30:00.010Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T17:30:00.016Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T17:30:00.184Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T17:30:00.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a728a843df8c59179d57c5"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T18:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T18:30:00.020Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T18:30:00.026Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T18:30:00.200Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T18:30:00.199Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a736b843df8c59179ebb0c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T19:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T19:30:00.020Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T19:30:00.026Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T19:30:00.201Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T19:30:00.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a744c843df8c5917a01e55"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T20:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T20:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T20:30:00.015Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T20:30:00.564Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T20:30:00.564Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a752d843df8c5917a18126"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T21:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T21:30:00.006Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T21:30:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T21:30:00.190Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T21:30:00.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a760e843df8c5917a2e472"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T22:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T22:30:00.013Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T22:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T22:30:00.201Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T22:30:00.201Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a76ef843df8c5917a447bd"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-03T23:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-03T23:30:00.019Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-03T23:30:00.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-03T23:30:00.214Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-03T23:30:00.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a77d0843df8c5917a5ab0c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T00:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T00:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T00:30:00.023Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T00:30:00.227Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T00:30:00.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a78b1843df8c5917a70e5c"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T01:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T01:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T01:30:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T01:30:00.205Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T01:30:00.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a7992843df8c5917a871a3"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T02:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T02:30:00.004Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T02:30:00.010Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T02:30:00.219Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T02:30:00.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a7a73843df8c5917a9d4f2"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T03:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T03:30:00.006Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T03:30:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T03:30:00.201Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T03:30:00.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a7b54843df8c5917ab3854"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T04:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T04:30:00.009Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T04:30:00.014Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T04:30:00.639Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T04:30:00.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a7c35843df8c5917ac9b44"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T05:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T05:30:00.008Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T05:30:00.013Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T05:30:00.254Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T05:30:00.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a7d1685c6049727450b985"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T06:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T06:30:00.016Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T06:30:00.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T06:30:00.250Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T06:30:00.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a7df785c60497274521c7e"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T07:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T07:30:00.014Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T07:30:00.020Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T07:30:00.255Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T07:30:00.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a7ed882a8023be28e2584b"
+  },
+  "jobName": "HourlyTagSummary",
+  "windowStart": {
+    "$date": "2026-02-28T13:00:00.000Z"
+  },
+  "windowEnd": {
+    "$date": "2026-03-04T08:00:00.000Z"
+  },
+  "startedAt": {
+    "$date": "2026-03-04T08:30:00.012Z"
+  },
+  "status": "COMPLETED",
+  "createdAt": {
+    "$date": "2026-03-04T08:30:00.023Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-04T08:30:00.286Z"
+  },
+  "__v": 0,
+  "endedAt": {
+    "$date": "2026-03-04T08:30:00.286Z"
+  }
+}]

@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "6989c35bb6aeed79af3d423f"
+  },
+  "name": "Operating Engineer",
+  "businessUnit": {
+    "$oid": "6989c322b6aeed79af3d40c1"
+  },
+  "userType": {
+    "$oid": "6989c34bb6aeed79af3d41d1"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-09T11:22:03.027Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:22:03.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943d3fbfb07d6db09a8be8"
+  },
+  "name": "SENIOR",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "userType": {
+    "$oid": "69943d23bfb07d6db09a8b30"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:04:47.307Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:04:47.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69943ec5bfb07d6db09a9604"
+  },
+  "name": "MANAGER",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "userType": {
+    "$oid": "69943eafbfb07d6db09a956b"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T10:11:17.834Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-17T10:11:17.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699daabb24beedc1a1322f29"
+  },
+  "name": "Operational Engineer",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "userType": {
+    "$oid": "699daaad24beedc1a1322ec5"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-02-24T13:42:19.201Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:42:19.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a85919b9f2f1bae0db18bb5"
+  },
+  "name": "Senior",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "userType": {
+    "$oid": "6a858a289f2f1bae0db175e6"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:20:59.637Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:20:59.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8591a59f2f1bae0db18be8"
+  },
+  "name": "Junior",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "userType": {
+    "$oid": "6a858a289f2f1bae0db175e6"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:21:09.291Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:21:09.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8591b29f2f1bae0db18c2e"
+  },
+  "name": "Senior",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "userType": {
+    "$oid": "6a858a2f9f2f1bae0db17606"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:21:22.578Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:21:22.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8591c39f2f1bae0db18c7a"
+  },
+  "name": "Junior",
+  "businessUnit": {
+    "$oid": "69943c25bfb07d6db09a851e"
+  },
+  "userType": {
+    "$oid": "6a858a2f9f2f1bae0db17606"
+  },
+  "permissions": [],
+  "isEnabled": true,
+  "isDeleted": false,
+  "createdBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "updatedBy": {
+    "$oid": "69786f2a39d414a32b44eb05"
+  },
+  "createdAt": {
+    "$date": "2026-08-19T11:21:39.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T11:21:39.081Z"
+  },
+  "__v": 0
+}]
