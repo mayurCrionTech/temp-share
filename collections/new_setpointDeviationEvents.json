@@ -1,0 +1,7560 @@
+[
+  {
+    "_id": {
+      "$oid": "6a718e17c22f6cc603b9a3d1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "69b3e70059e7f95a0d3cbc97"
+      },
+      "tagname": "TestPressure2"
+    },
+    "assetId": {
+      "$oid": "6994551fbfb07d6db09b2912"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T07:00:39.206Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T07:00:39.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T07:00:39.213Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71c5f85948da0693713a4d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0507"
+      },
+      "tagname": "PT_I5_0"
+    },
+    "assetId": {
+      "$oid": "699449bbbfb07d6db09adb14"
+    },
+    "deviationType": "low",
+    "value": 0.375,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T10:59:04.395Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T10:59:04.404Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T10:59:04.404Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca4612"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a050a"
+      },
+      "tagname": "PT_I5_1"
+    },
+    "assetId": {
+      "$oid": "699449bbbfb07d6db09adb14"
+    },
+    "deviationType": "low",
+    "value": 0.375,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.155Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.163Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.163Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca4615"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0516"
+      },
+      "tagname": "PT_I4_4_A"
+    },
+    "assetId": {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    "deviationType": "low",
+    "value": -0.034999966621398926,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.172Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.173Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.173Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca4618"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a051f"
+      },
+      "tagname": "PT_I5_3"
+    },
+    "assetId": {
+      "$oid": "69944b6abfb07d6db09ae741"
+    },
+    "deviationType": "low",
+    "value": 0.13500000536441803,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.177Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.178Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.178Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca461b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0522"
+      },
+      "tagname": "PT_I5_2_A"
+    },
+    "assetId": {
+      "$oid": "69944b6abfb07d6db09ae741"
+    },
+    "deviationType": "low",
+    "value": -0.04500000178813934,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.182Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.182Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.182Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca461e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.0850000381469727,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.186Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.187Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.187Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca4621"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0552"
+      },
+      "tagname": "PT_I5_4"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.190Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.190Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.190Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca4624"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a055b"
+      },
+      "tagname": "PT_I1_3"
+    },
+    "assetId": {
+      "$oid": "69945755bfb07d6db09b384f"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.194Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.194Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.194Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca4627"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a055e"
+      },
+      "tagname": "PT_I1_4"
+    },
+    "assetId": {
+      "$oid": "69945755bfb07d6db09b384f"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.197Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.197Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.197Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca462a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.201Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.201Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.201Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca462d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05a6"
+      },
+      "tagname": "PT_I3_0"
+    },
+    "assetId": {
+      "$oid": "69946223bfb07d6db09b8212"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.205Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.206Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.206Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71cab3f178d45873ca4630"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05a9"
+      },
+      "tagname": "PT_I3_1"
+    },
+    "assetId": {
+      "$oid": "69946223bfb07d6db09b8212"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T11:19:15.209Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T11:19:15.209Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T11:19:15.209Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35daa1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79beefe574e9bb83305b"
+      },
+      "tagname": "ED_I1_7"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 1.2000000476837158,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.219Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.227Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.227Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35daa4"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79c7efe574e9bb88765f"
+      },
+      "tagname": "ED_I1_2_A"
+    },
+    "assetId": {
+      "$oid": "699834d41f773e845dc85298"
+    },
+    "deviationType": "low",
+    "value": -0.009999990463256836,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.236Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.237Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.237Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35daa7"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79caefe574e9bb89c7e0"
+      },
+      "tagname": "ED_I1_4_A"
+    },
+    "assetId": {
+      "$oid": "699835201f773e845dc854d8"
+    },
+    "deviationType": "low",
+    "value": 0.07500004768371582,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.241Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.242Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.242Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35daaa"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79cfefe574e9bb8c6ae2"
+      },
+      "tagname": "P001_ECC_181.AnalogScaled"
+    },
+    "assetId": {
+      "$oid": "6995729ed67b1b79cf7df516"
+    },
+    "deviationType": "low",
+    "value": 0.6720073223114014,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.246Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.247Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.247Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35daad"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79d9efe574e9bb91b0e6"
+      },
+      "tagname": "ED_I4_4"
+    },
+    "assetId": {
+      "$oid": "699837431f773e845dc8627e"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.250Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.250Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.250Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dab0"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79dcefe574e9bb930267"
+      },
+      "tagname": "ED_I4_5"
+    },
+    "assetId": {
+      "$oid": "699837431f773e845dc8627e"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.254Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.254Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.254Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dab3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79e2efe574e9bb95a569"
+      },
+      "tagname": "ED_I2_6_A"
+    },
+    "assetId": {
+      "$oid": "6995729ed67b1b79cf7df516"
+    },
+    "deviationType": "high",
+    "value": 3.7950000762939453,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.258Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.259Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.259Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dab6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79eaefe574e9bb9999ec"
+      },
+      "tagname": "ED_I3_2"
+    },
+    "assetId": {
+      "$oid": "69984bc51f773e845dc8dc41"
+    },
+    "deviationType": "low",
+    "value": 0.4300000071525574,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.261Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.262Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.262Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dab9"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79edefe574e9bb9aeb6d"
+      },
+      "tagname": "ED_I3_3"
+    },
+    "assetId": {
+      "$oid": "69984bc51f773e845dc8dc41"
+    },
+    "deviationType": "low",
+    "value": 0.4050000011920929,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.265Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.265Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.265Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dabc"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79f0efe574e9bb9c3cee"
+      },
+      "tagname": "ED_I3_4"
+    },
+    "assetId": {
+      "$oid": "69984bc51f773e845dc8dc41"
+    },
+    "deviationType": "low",
+    "value": 0.42500001192092896,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.269Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.269Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.269Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dabf"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79f2efe574e9bb9d8e6f"
+      },
+      "tagname": "ED_I3_5"
+    },
+    "assetId": {
+      "$oid": "69984bc51f773e845dc8dc41"
+    },
+    "deviationType": "low",
+    "value": 0.42500001192092896,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.273Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.273Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.273Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dac2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79f5efe574e9bb9edff0"
+      },
+      "tagname": "ED_I3_6"
+    },
+    "assetId": {
+      "$oid": "69984bc51f773e845dc8dc41"
+    },
+    "deviationType": "high",
+    "value": 32.763999938964844,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.275Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.276Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.276Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dac5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79f7efe574e9bba03171"
+      },
+      "tagname": "ED_I3_0_A"
+    },
+    "assetId": {
+      "$oid": "699ef55843857e0244274b3a"
+    },
+    "deviationType": "low",
+    "value": -0.029999971389770508,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.279Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.279Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.279Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dac8"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79ffefe574e9bba425f4"
+      },
+      "tagname": "ED_I3_7"
+    },
+    "assetId": {
+      "$oid": "69984c7b1f773e845dc8e1c0"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.282Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.283Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.283Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dacb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a01efe574e9bba57775"
+      },
+      "tagname": "ED_I4_0"
+    },
+    "assetId": {
+      "$oid": "69984c7b1f773e845dc8e1c0"
+    },
+    "deviationType": "low",
+    "value": 1.2549999952316284,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.286Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.287Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.287Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dace"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a04efe574e9bba6c8f6"
+      },
+      "tagname": "ED_I4_1"
+    },
+    "assetId": {
+      "$oid": "69984c7b1f773e845dc8e1c0"
+    },
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.289Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.290Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.290Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d787759881eebb35dad1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a09efe574e9bba96bf8"
+      },
+      "tagname": "ED_I4_3_A"
+    },
+    "assetId": {
+      "$oid": "69984f591f773e845dc8f706"
+    },
+    "deviationType": "low",
+    "value": -1.2999999523162842,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:13:59.292Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:13:59.292Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:13:59.292Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71d79b759881eebb35db50"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0570"
+      },
+      "tagname": "PT_I2_5"
+    },
+    "assetId": {
+      "$oid": "69945a5fbfb07d6db09b4d20"
+    },
+    "deviationType": "low",
+    "value": 1.7350000143051147,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T12:14:19.222Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T12:14:19.223Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T12:14:19.223Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ead8759881eebb366545"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052b"
+      },
+      "tagname": "P001_TDC_221_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69944f54bfb07d6db09b01fb"
+    },
+    "deviationType": "low",
+    "value": 51.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:36:24.888Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:36:24.890Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:36:24.890Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ec28759881eebb366eec"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05b8"
+      },
+      "tagname": "PT_I1_1"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "low",
+    "value": 0.41999998688697815,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:42:00.006Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:42:00.008Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:42:00.008Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ec28759881eebb366eef"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05bb"
+      },
+      "tagname": "PT_I1_0"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "low",
+    "value": 0.42500001192092896,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:42:00.018Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:42:00.018Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:42:00.018Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ed8e759881eebb36795a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5249999761581421,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:47:58.150Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:47:58.151Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:47:58.151Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ed8e759881eebb36795d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5149999856948853,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:47:58.156Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:47:58.156Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:47:58.156Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ed8e759881eebb367960"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.4650000035762787,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:47:58.159Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:47:58.159Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:47:58.159Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ed98759881eebb3679b2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0585"
+      },
+      "tagname": "PT_I1_7"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "low",
+    "value": 0.7250000238418579,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:48:08.162Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:48:08.163Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:48:08.163Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ed98759881eebb3679b5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0588"
+      },
+      "tagname": "PT_I2_0"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "low",
+    "value": 1.0149999856948853,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:48:08.167Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:48:08.167Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:48:08.167Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71ed98759881eebb3679b9"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a059a"
+      },
+      "tagname": "PT_I2_2"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "low",
+    "value": 1.1100000143051147,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:48:08.171Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:48:08.171Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:48:08.171Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71edb6759881eebb367aba"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a057f"
+      },
+      "tagname": "PT_I1_6"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "low",
+    "value": 0.6549999713897705,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:48:38.177Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:48:38.178Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:48:38.178Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a71edb6759881eebb367abd"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0582"
+      },
+      "tagname": "PT_I1_5"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "low",
+    "value": 0.6499999761581421,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-04T13:48:38.182Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-04T13:48:38.182Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-04T13:48:38.182Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a731a0bad24d4413d8e4ac1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.065000057220459,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-05T11:10:03.954Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-05T11:10:03.963Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-05T11:10:03.963Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a731a0cad24d4413d8e4adb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "69a0058ccc5780b526a03b75"
+      },
+      "tagname": "P101_ECC_311.AnalogScaled"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-05T11:10:04Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-05T11:10:04.001Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-05T11:10:04.001Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a731a0cad24d4413d8e4ade"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "69a0058fcc5780b526a18cf6"
+      },
+      "tagname": "P101_FM_701.AnalogScaled"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 77.1097183227539,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-05T11:10:04.006Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-05T11:10:04.007Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-05T11:10:04.007Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a731a0cad24d4413d8e4ae1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "69a18055be84d052e4e1eb46"
+      },
+      "tagname": "PT_I5_5"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 0,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-05T11:10:04.014Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-05T11:10:04.014Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-05T11:10:04.014Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a73402ca774a8ba500fd25d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.23048400878906,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-05T13:52:44.209Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-05T13:52:44.217Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-05T13:52:44.217Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a742085e626f921ebbbb3f9"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.4650000035762787,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T05:49:57.048Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T05:49:57.056Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T05:49:57.056Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a742235e626f921ebbbc48d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a0fefe574e9bbac0efa"
+      },
+      "tagname": "P101_TDC_911_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 111.28404998779297,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T05:57:09.431Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T05:57:09.437Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T05:57:09.437Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a74223fe626f921ebbbc4f4"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 181.87228393554688,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T05:57:19.433Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T05:57:19.434Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T05:57:19.434Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a742267e626f921ebbbc68f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.3286895751953,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T05:57:59.455Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T05:57:59.456Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T05:57:59.456Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7426bce626f921ebbbf34f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a057c"
+      },
+      "tagname": "P001_TDC_511_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945c42bfb07d6db09b59eb"
+    },
+    "deviationType": "low",
+    "value": 39,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T06:16:28.449Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T06:16:28.453Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T06:16:28.453Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a74310da52a5a1cd509b342"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.119999885559082,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T07:00:29.397Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T07:00:29.403Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T07:00:29.403Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a74311ca52a5a1cd509b3e2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 74,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T07:00:44.402Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T07:00:44.403Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T07:00:44.403Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a74331fa52a5a1cd509c55a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.18356323242188,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T07:09:19.496Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T07:09:19.500Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T07:09:19.500Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a743324a52a5a1cd509c585"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.1007843017578,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T07:09:24.488Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T07:09:24.488Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T07:09:24.488Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a743522a52a5a1cd509d481"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T07:17:54.767Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T07:17:54.770Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T07:17:54.770Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a744599cba9cf45613045cd"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 67,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T08:28:09.722Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T08:28:09.727Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T08:28:09.727Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a747a5edbc13cef9549883b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T12:13:18.387Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T12:13:18.397Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T12:13:18.397Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a749903602ba84f30e5c258"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.4650000035762787,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-06T14:24:03.956Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-06T14:24:03.965Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-06T14:24:03.965Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7572758557d16fb1ee1f0d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.60472106933594,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T05:51:49.952Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T05:51:49.963Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T05:51:49.963Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7572ad8557d16fb1ee2138"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.27528381347656,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T05:52:45.003Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T05:52:45.005Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T05:52:45.005Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7573f08557d16fb1ee2def"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79c0efe574e9bb8481dc"
+      },
+      "tagname": "ED_I1_6"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.7950000166893005,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T05:58:08.317Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T05:58:08.318Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T05:58:08.318Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7578158557d16fb1ee58bf"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79bbefe574e9bb81deda"
+      },
+      "tagname": "ED_I2_0"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.4950000047683716,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T06:15:49.248Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T06:15:49.253Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T06:15:49.253Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a75810d8557d16fb1eeb03f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.0999999046325684,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T06:54:05.019Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T06:54:05.022Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T06:54:05.022Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a75811c8557d16fb1eeb0df"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 84,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T06:54:20.031Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T06:54:20.032Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T06:54:20.032Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a758626034e00507e13881f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.74166870117188,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T07:15:50.937Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T07:15:50.946Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T07:15:50.946Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7586e9034e00507e138e17"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.2827606201172,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T07:19:05.945Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T07:19:05.947Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T07:19:05.947Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a75897b4a3c2e0986649884"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T07:30:03.343Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T07:30:03.352Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T07:30:03.352Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a758c674a3c2e098664b4d4"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 72,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T07:42:31.547Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T07:42:31.551Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T07:42:31.551Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a75b5ff6f37992ee4cb25c6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T10:39:59.807Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T10:39:59.813Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T10:39:59.813Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a75e4c16f37992ee4ccbc0b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.41999998688697815,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T13:59:29.638Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T13:59:29.642Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T13:59:29.642Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a75fd17c8bc6b2e370200fd"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.81834411621094,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T15:43:19.964Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T15:43:19.973Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T15:43:19.973Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a75feb6c8bc6b2e37021153"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.91616821289062,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-07T15:50:14.558Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-07T15:50:14.559Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-07T15:50:14.559Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7964600f544f6d9251bdec"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b1efe574e9bb7c98d6"
+      },
+      "tagname": "ED_I2_4"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.009999990463257,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:40:48.600Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:40:48.611Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:40:48.611Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7964600f544f6d9251bdf1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b6efe574e9bb7f3bd8"
+      },
+      "tagname": "ED_I2_2"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.0399999618530273,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:40:48.622Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:40:48.623Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:40:48.623Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7964650f544f6d9251be2c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79afefe574e9bb7b4755"
+      },
+      "tagname": "ED_I2_5"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.0199999809265137,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:40:53.609Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:40:53.610Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:40:53.610Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7964650f544f6d9251be32"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b4efe574e9bb7dea57"
+      },
+      "tagname": "ED_I2_3"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.075000047683716,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:40:53.617Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:40:53.618Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:40:53.618Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7964650f544f6d9251be39"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79c5efe574e9bb8724de"
+      },
+      "tagname": "ED_I1_0_A"
+    },
+    "assetId": {
+      "$oid": "699834981f773e845dc850b0"
+    },
+    "deviationType": "low",
+    "value": -0.03500008583068848,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:40:53.626Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:40:53.627Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:40:53.627Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7965dc0f544f6d9251cfb1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79afefe574e9bb7b4755"
+      },
+      "tagname": "ED_I2_5"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.5400000214576721,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:47:08.851Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:47:08.853Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:47:08.853Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7965dc0f544f6d9251cfb6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b1efe574e9bb7c98d6"
+      },
+      "tagname": "ED_I2_4"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.5199999809265137,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:47:08.860Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:47:08.860Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:47:08.860Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7965dc0f544f6d9251cfbb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b4efe574e9bb7dea57"
+      },
+      "tagname": "ED_I2_3"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.5199999809265137,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:47:08.866Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:47:08.866Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:47:08.866Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7965dc0f544f6d9251cfc0"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b6efe574e9bb7f3bd8"
+      },
+      "tagname": "ED_I2_2"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.5149999856948853,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:47:08.874Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:47:08.875Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:47:08.875Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7965dc0f544f6d9251cfc5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b9efe574e9bb808d59"
+      },
+      "tagname": "ED_I2_1"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.5450000166893005,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:47:08.882Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:47:08.883Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:47:08.883Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7965dc0f544f6d9251cfca"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79beefe574e9bb83305b"
+      },
+      "tagname": "ED_I1_7"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.5400000214576721,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:47:08.888Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:47:08.888Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:47:08.888Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7965e10f544f6d9251d007"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79beefe574e9bb83305b"
+      },
+      "tagname": "ED_I1_7"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 1.2050000429153442,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T05:47:13.846Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T05:47:13.847Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T05:47:13.847Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7969ab0f544f6d9251fab3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79beefe574e9bb83305b"
+      },
+      "tagname": "ED_I1_7"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.5649999976158142,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:03:23.217Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:03:23.219Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:03:23.219Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7969b00f544f6d9251faf0"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b1efe574e9bb7c98d6"
+      },
+      "tagname": "ED_I2_4"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.0399999618530273,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:03:28.215Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:03:28.216Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:03:28.216Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7969b00f544f6d9251faf5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b4efe574e9bb7dea57"
+      },
+      "tagname": "ED_I2_3"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.0299999713897705,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:03:28.222Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:03:28.222Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:03:28.222Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7969b00f544f6d9251fafa"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79b6efe574e9bb7f3bd8"
+      },
+      "tagname": "ED_I2_2"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.059999942779541,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:03:28.229Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:03:28.229Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:03:28.229Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7969b00f544f6d9251faff"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79beefe574e9bb83305b"
+      },
+      "tagname": "ED_I1_7"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 1.315000057220459,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:03:28.235Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:03:28.235Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:03:28.235Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7969d80f544f6d9251fcd5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79afefe574e9bb7b4755"
+      },
+      "tagname": "ED_I2_5"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "high",
+    "value": 2.005000114440918,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:04:08.261Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:04:08.261Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:04:08.261Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79741f0f544f6d92527816"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 2.9749999046325684,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:47:59.916Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:47:59.918Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:47:59.918Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79750e0f544f6d92528073"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.23048400878906,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:51:58.302Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:51:58.303Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:51:58.303Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7975180f544f6d925280b4"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 74,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T06:52:08.280Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T06:52:08.281Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T06:52:08.281Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a799878c8799750e7eb941f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054c"
+      },
+      "tagname": "PT_I3_6_A"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": -0.009999990463256836,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T09:23:04.222Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T09:23:04.224Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T09:23:04.224Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a79a0d8c8799750e7ebe0a0"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-10T09:58:48.863Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-10T09:58:48.866Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-10T09:58:48.866Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7abc390fd8f9258198d1a3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.5055389404297,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T06:07:53.886Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T06:07:53.897Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T06:07:53.897Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7abc5c0fd8f9258198d2eb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.4300000071525574,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T06:08:28.907Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T06:08:28.908Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T06:08:28.908Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7abd2c0fd8f9258198dcef"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.05386352539062,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T06:11:56.263Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T06:11:56.264Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T06:11:56.264Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7abd310fd8f9258198dd02"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052b"
+      },
+      "tagname": "P001_TDC_221_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69944f54bfb07d6db09b01fb"
+    },
+    "deviationType": "high",
+    "value": 58.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T06:12:01.232Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T06:12:01.233Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T06:12:01.233Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ac0490fd8f9258199010c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.97720336914062,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T06:25:13.680Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T06:25:13.682Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T06:25:13.682Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7acc5b0fd8f9258199944e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052b"
+      },
+      "tagname": "P001_TDC_221_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69944f54bfb07d6db09b01fb"
+    },
+    "deviationType": "low",
+    "value": 51.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T07:16:43.340Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T07:16:43.342Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T07:16:43.342Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ad26bde08339c2aa83e17"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.0250000953674316,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T07:42:35.058Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T07:42:35.067Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T07:42:35.067Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ad27ade08339c2aa83eb8"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 77,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T07:42:50.058Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T07:42:50.059Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T07:42:50.059Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ad4d5de08339c2aa85684"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 206.99942016601562,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T07:52:53.461Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T07:52:53.462Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T07:52:53.462Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ad4eede08339c2aa85772"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.4975128173828,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T07:53:18.471Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T07:53:18.472Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T07:53:18.472Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ad96cde08339c2aa88066"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T08:12:28.585Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T08:12:28.589Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T08:12:28.589Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7add69de08339c2aa8a599"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 69,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T08:29:29.488Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T08:29:29.492Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T08:29:29.492Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b07aade08339c2aaa3aaf"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T11:29:46.574Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T11:29:46.577Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T11:29:46.577Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b0b15de08339c2aaa6024"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.46000000834465027,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T11:44:21.211Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T11:44:21.213Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T11:44:21.213Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b32e0de08339c2aac0fd5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.0350000858306885,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T14:34:08.314Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T14:34:08.317Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T14:34:08.317Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b335dde08339c2aac14cc"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 67,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T14:36:13.426Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T14:36:13.427Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T14:36:13.427Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b4ee4de08339c2aad1623"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.46000000834465027,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T16:33:40.005Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T16:33:40.007Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T16:33:40.007Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b67acde08339c2aae1c83"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.80308532714844,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T18:19:24.703Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T18:19:24.707Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T18:19:24.707Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b69abde08339c2aae3270"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.88565063476562,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T18:27:55.020Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T18:27:55.022Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T18:27:55.022Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7b6e73de08339c2aae6829"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-11T18:48:19.220Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-11T18:48:19.223Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-11T18:48:19.223Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7bbdc9de08339c2ab21808"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.049999952316284,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T00:26:49.509Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T00:26:49.511Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T00:26:49.511Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7bbe32de08339c2ab21ceb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 70,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T00:28:34.530Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T00:28:34.531Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T00:28:34.531Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7bd43ade08339c2ab2fcb0"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.4658660888672,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T02:02:34.656Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T02:02:34.659Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T02:02:34.659Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7bd494de08339c2ab30019"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.1007843017578,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T02:04:04.791Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T02:04:04.792Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T02:04:04.792Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7bf90cde08339c2ab45870"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T04:39:40.102Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T04:39:40.104Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T04:39:40.104Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c2623de08339c2ab60ce3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 67,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T07:52:03.604Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T07:52:03.607Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T07:52:03.607Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c3a46de08339c2ab6cbe6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0516"
+      },
+      "tagname": "PT_I4_4_A"
+    },
+    "assetId": {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    "deviationType": "high",
+    "value": 0.8050000667572021,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T09:17:58.025Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T09:17:58.028Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T09:17:58.028Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c58f2380c0f76d81b0f78"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T11:28:50.190Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T11:28:50.196Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T11:28:50.196Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c5e479a9c416dd9aeeac5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0516"
+      },
+      "tagname": "PT_I4_4_A"
+    },
+    "assetId": {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    "deviationType": "low",
+    "value": -0.05500000715255737,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T11:51:35.269Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T11:51:35.281Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T11:51:35.281Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c5e479a9c416dd9aeeacc"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.4749999940395355,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T11:51:35.296Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T11:51:35.297Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T11:51:35.297Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c80c49a9c416dd9b067b2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.005000114440918,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T14:18:44.760Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T14:18:44.764Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T14:18:44.764Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c812d9a9c416dd9b06c29"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 66,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T14:20:29.873Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T14:20:29.874Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T14:20:29.874Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7c9c3a9a9c416dd9b16d2b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.9480438232422,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T16:15:54.960Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T16:15:54.963Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T16:15:54.963Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ca31f9a9c416dd9b1ae3f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.00160217285156,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T16:45:19.501Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T16:45:19.505Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T16:45:19.505Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ca6da9a9c416dd9b1d1be"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.46000000834465027,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T17:01:14.763Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T17:01:14.766Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T17:01:14.766Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7cb1e39a9c416dd9b246ce"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T17:48:19.655Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T17:48:19.658Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T17:48:19.658Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7cb8069a9c416dd9b28a0b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.9327850341797,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T18:14:30.215Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T18:14:30.218Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T18:14:30.218Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7cb98a9a9c416dd9b29b21"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.93142700195312,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-12T18:20:58.619Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-12T18:20:58.623Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-12T18:20:58.623Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7d580e9a9c416dd9b9dd33"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 2.7699999809265137,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T05:37:18.188Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T05:37:18.191Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T05:37:18.191Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7d65ae9a9c416dd9ba62e2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.23048400878906,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T06:35:26.923Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T06:35:26.934Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T06:35:26.934Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7d7e0b9a9c416dd9bb4af3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 66,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T08:19:23.728Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T08:19:23.732Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T08:19:23.732Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7dafd79a9c416dd9bd2742"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.4650000035762787,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T11:51:51.476Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T11:51:51.480Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T11:51:51.480Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7dc3079a9c416dd9bdf14e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T13:13:43.612Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T13:13:43.615Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T13:13:43.615Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7dc4f79a9c416dd9be0646"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.9785614013672,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T13:21:59.278Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T13:21:59.281Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T13:21:59.281Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ded7e9a9c416dd9bfe2a1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.0799999237060547,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T16:14:54.988Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T16:14:54.991Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T16:14:54.991Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7df1169a9c416dd9c00b6d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.409999966621399,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T16:30:14.771Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T16:30:14.772Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T16:30:14.772Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7df3d29a9c416dd9c02d6e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 66,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T16:41:54.924Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T16:41:54.926Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T16:41:54.926Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7dfd639a9c416dd9c08e52"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a0fefe574e9bbac0efa"
+      },
+      "tagname": "P101_TDC_911_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 127.87060546875,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T17:22:43.165Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T17:22:43.167Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T17:22:43.167Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7dfe359a9c416dd9c09657"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.2675018310547,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T17:26:13.310Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T17:26:13.313Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T17:26:13.313Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7dfedf9a9c416dd9c09cb7"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a0fefe574e9bbac0efa"
+      },
+      "tagname": "P101_TDC_911_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 112.62683868408203,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T17:29:03.386Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T17:29:03.387Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T17:29:03.387Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7dffc09a9c416dd9c0a589"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.0855255126953,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T17:32:48.526Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T17:32:48.529Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T17:32:48.529Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e00e29a9c416dd9c0b04b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a0fefe574e9bbac0efa"
+      },
+      "tagname": "P101_TDC_911_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 127.05424499511719,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T17:37:38.689Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T17:37:38.692Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T17:37:38.692Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e27899a9c416dd9c220b3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T20:22:33.267Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T20:22:33.270Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T20:22:33.270Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e2a319a9c416dd9c23e69"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T20:33:53.740Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T20:33:53.743Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T20:33:53.743Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e2a319a9c416dd9c23e6f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.46000000834465027,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T20:33:53.752Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T20:33:53.752Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T20:33:53.752Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e3aef9a9c416dd9c2f2e1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a0fefe574e9bbac0efa"
+      },
+      "tagname": "P101_TDC_911_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 112.62683868408203,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T21:45:19.188Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T21:45:19.191Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T21:45:19.191Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e3b499a9c416dd9c2f6d0"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.86412048339844,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T21:46:49.240Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T21:46:49.240Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T21:46:49.240Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e3d1a9a9c416dd9c30b6f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.86276245117188,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-13T21:54:34.558Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-13T21:54:34.561Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-13T21:54:34.561Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e64259a9c416dd9c4d58b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.065000057220459,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T00:41:09.604Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T00:41:09.608Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T00:41:09.608Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e64989a9c416dd9c4dad2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 71,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T00:43:04.673Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T00:43:04.674Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T00:43:04.674Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e64a29a9c416dd9c4db3f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.4500000476837158,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T00:43:14.688Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T00:43:14.689Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T00:43:14.689Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e77b29a9c416dd9c59f3a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.5269012451172,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T02:04:34.058Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T02:04:34.061Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T02:04:34.061Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e78ca9a9c416dd9c5a99a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.1007843017578,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T02:09:14.282Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T02:09:14.285Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T02:09:14.285Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e97289a9c416dd9c6d82b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05b8"
+      },
+      "tagname": "PT_I1_1"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "high",
+    "value": 1.409999966621399,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T04:18:48.620Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T04:18:48.624Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T04:18:48.624Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7e9e1d9a9c416dd9c71a1d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T04:48:29.864Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T04:48:29.867Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T04:48:29.867Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ebddf9a9c416dd9c85abc"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 67,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T07:03:59.874Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T07:03:59.877Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T07:03:59.877Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ee941d438ac3c28b68526"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05b8"
+      },
+      "tagname": "PT_I1_1"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T10:09:05.177Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T10:09:05.188Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T10:09:05.188Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7ef86d722958ba3d9e0280"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T11:13:49.598Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T11:13:49.601Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T11:13:49.601Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7efb6a722958ba3d9e22b3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5550000071525574,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T11:26:34.919Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T11:26:34.923Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T11:26:34.923Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7efb79722958ba3d9e2357"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T11:26:49.916Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T11:26:49.916Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T11:26:49.916Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f0138dab9bf8d3293923d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052b"
+      },
+      "tagname": "P001_TDC_221_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69944f54bfb07d6db09b01fb"
+    },
+    "deviationType": "high",
+    "value": 58.810638427734375,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T11:51:20.056Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T11:51:20.065Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T11:51:20.065Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f0f29dab9bf8d32943409"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.81834411621094,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T12:50:49.419Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T12:50:49.423Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T12:50:49.423Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f10c3dab9bf8d32944705"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.96194458007812,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T12:57:39.465Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T12:57:39.469Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T12:57:39.469Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f36e3dab9bf8d32960fd6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.4850000143051147,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T15:40:19.877Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T15:40:19.882Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T15:40:19.882Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f36e3dab9bf8d32960fdb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.0850000381469727,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T15:40:19.897Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T15:40:19.898Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T15:40:19.898Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f36eddab9bf8d3296104d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052b"
+      },
+      "tagname": "P001_TDC_221_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69944f54bfb07d6db09b01fb"
+    },
+    "deviationType": "low",
+    "value": 51.36383056640625,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T15:40:29.877Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T15:40:29.878Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T15:40:29.878Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f375bdab9bf8d329614ff"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 66,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T15:42:19.988Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T15:42:19.989Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T15:42:19.989Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f43b7dab9bf8d32969768"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.39720153808594,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T16:35:03.127Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T16:35:03.129Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T16:35:03.129Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f44a2dab9bf8d3296a02f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.0550079345703,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T16:38:58.296Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T16:38:58.299Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T16:38:58.299Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f4f75dab9bf8d329704d1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a0fefe574e9bbac0efa"
+      },
+      "tagname": "P101_TDC_911_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 127.05424499511719,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T17:25:09.920Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T17:25:09.922Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T17:25:09.922Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f6cd5dab9bf8d32981fee"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T19:30:29.719Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T19:30:29.721Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T19:30:29.721Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f7030dab9bf8d329840c2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T19:44:48.066Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T19:44:48.069Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T19:44:48.069Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f703adab9bf8d3298412a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T19:44:58.069Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T19:44:58.069Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T19:44:58.069Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f852fdab9bf8d329921be"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a0fefe574e9bbac0efa"
+      },
+      "tagname": "P101_TDC_911_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 112.77180480957031,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T21:14:23.807Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T21:14:23.810Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T21:14:23.810Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f8566dab9bf8d3299241d"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.80308532714844,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T21:15:18.856Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T21:15:18.857Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T21:15:18.857Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a7f8738dab9bf8d3299385a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.93142700195312,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-14T21:23:04.586Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-14T21:23:04.589Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-14T21:23:04.589Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a826babdab9bf8d32bb571c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.0799999237060547,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T02:02:19.180Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T02:02:19.183Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T02:02:19.183Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a826c05dab9bf8d32bb5a9b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 72,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T02:03:49.254Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T02:03:49.255Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T02:03:49.255Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a826e3fdab9bf8d32bb70d7"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 206.1143798828125,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T02:13:19.701Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T02:13:19.703Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T02:13:19.703Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a826e99dab9bf8d32bb742f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.0550079345703,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T02:14:49.779Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T02:14:49.780Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T02:14:49.780Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a827a0adab9bf8d32bbe589"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.9480438232422,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T03:03:38.260Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T03:03:38.263Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T03:03:38.263Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a828483dab9bf8d32bc4b7c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.00160217285156,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T03:48:19.033Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T03:48:19.036Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T03:48:19.036Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a829d33dab9bf8d32bd2a7c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T05:33:39.995Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T05:33:39.998Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T05:33:39.998Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a82a471dab9bf8d32bd6d66"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05b8"
+      },
+      "tagname": "PT_I1_1"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "high",
+    "value": 1.4299999475479126,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T06:04:33.019Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T06:04:33.022Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T06:04:33.022Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a82b13edab9bf8d32bdec0a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05b8"
+      },
+      "tagname": "PT_I1_1"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "low",
+    "value": 0.47999998927116394,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T06:59:10.409Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T06:59:10.414Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T06:59:10.414Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a82bc87dab9bf8d32be5748"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 68,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T07:47:19.887Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T07:47:19.890Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T07:47:19.890Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a82f3e3dab9bf8d32c05858"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.46000000834465027,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T11:43:31.862Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T11:43:31.867Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T11:43:31.867Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a830150dab9bf8d32c0dd89"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T12:40:48.050Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T12:40:48.053Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T12:40:48.053Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a831bc7dab9bf8d32c1e4b2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.125,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T14:33:43.224Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T14:33:43.227Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T14:33:43.227Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a831c03dab9bf8d32c1e6fc"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.5199999809265137,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T14:34:43.294Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T14:34:43.295Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T14:34:43.295Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a833828dab9bf8d32c2e6f6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T16:34:48.511Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T16:34:48.514Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T16:34:48.514Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a833828dab9bf8d32c2e6fb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.46000000834465027,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T16:34:48.524Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T16:34:48.524Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T16:34:48.524Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a834faddab9bf8d32c3d9fb"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.9480438232422,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T18:15:09.646Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T18:15:09.648Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T18:15:09.648Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a835110dab9bf8d32c3e8e2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.97720336914062,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-17T18:21:04.840Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-17T18:21:04.842Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-17T18:21:04.842Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a83a769dab9bf8d32c7a432"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.015000104904175,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T00:29:29.095Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T00:29:29.098Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T00:29:29.098Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a83a80edab9bf8d32c7afc0"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 74,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T00:32:14.799Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T00:32:14.800Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T00:32:14.800Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a83a86ddab9bf8d32c7b3d3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.524999976158142,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T00:33:49.908Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T00:33:49.908Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T00:33:49.908Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a83bc91dab9bf8d32c88b44"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.4658660888672,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T01:59:45.099Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T01:59:45.102Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T01:59:45.102Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a83bc9bdab9bf8d32c88b9e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.0855255126953,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T01:59:55.115Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T01:59:55.116Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T01:59:55.116Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a83f616dab9bf8d32ca8db2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T06:05:10.418Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T06:05:10.421Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T06:05:10.421Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a841744dab9bf8d32cbd234"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 68,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T08:26:44.690Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T08:26:44.693Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T08:26:44.693Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a845669dab9bf8d32ce0e05"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5450000166893005,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T12:56:09.812Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T12:56:09.815Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T12:56:09.815Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a845673dab9bf8d32ce0e62"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T12:56:19.812Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T12:56:19.813Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T12:56:19.813Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a846230dab9bf8d32ce86a3"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T13:46:24.715Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T13:46:24.718Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T13:46:24.718Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a84672fdab9bf8d32ceb827"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d79beefe574e9bb83305b"
+      },
+      "tagname": "ED_I1_7"
+    },
+    "assetId": {
+      "$oid": "699573c8d67b1b79cf7dfcf7"
+    },
+    "deviationType": "low",
+    "value": 0.7950000166893005,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T14:07:43.529Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T14:07:43.531Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T14:07:43.531Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a846befdab9bf8d32cee7a2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.9327850341797,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T14:27:59.454Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T14:27:59.456Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T14:27:59.456Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a846d43dab9bf8d32cef903"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.83224487304688,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-18T14:33:39.660Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-18T14:33:39.663Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-18T14:33:39.663Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8546ccdab9bf8d32d88646"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.109999895095825,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T06:01:48.094Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T06:01:48.097Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T06:01:48.097Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85472bdab9bf8d32d88a8e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 71,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T06:03:23.124Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T06:03:23.124Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T06:03:23.124Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a854875dab9bf8d32d89924"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.4850000143051147,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T06:08:53.206Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T06:08:53.208Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T06:08:53.208Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8556eadab9bf8d32d92d25"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05c1"
+      },
+      "tagname": "P001_ECC_651.AnalogScaled"
+    },
+    "assetId": {
+      "$oid": "6994643dbfb07d6db09b903f"
+    },
+    "deviationType": "high",
+    "value": 33.7510986328125,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T07:10:34.638Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T07:10:34.641Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T07:10:34.641Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85646955d7b6106ea3e334"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.00160217285156,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T08:08:09.513Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T08:08:09.518Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T08:08:09.518Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8567a755d7b6106ea3ffaf"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.13778686523438,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T08:21:59.599Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T08:21:59.603Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T08:21:59.603Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a858e43f977eb15d129691f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0525"
+      },
+      "tagname": "P101_HZ_TEMP_VALUE.AnalogScaled"
+    },
+    "assetId": {
+      "$oid": "69944c9dbfb07d6db09af041"
+    },
+    "deviationType": "low",
+    "value": 79.81535339355469,
+    "liveDataRefs": [
+      {
+        "$oid": "6a858e43baf75e5a43db9740"
+      },
+      {
+        "$oid": "6a858e43baf75e5a43db9742"
+      },
+      {
+        "$oid": "6a858e43baf75e5a43db9744"
+      },
+      {
+        "$oid": "6a858e43baf75e5a43db9881"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-19T11:06:43.664Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T11:06:43.715Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T11:06:43.715Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8591d2f977eb15d1298539"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05b8"
+      },
+      "tagname": "PT_I1_1"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "high",
+    "value": 1.409999966621399,
+    "liveDataRefs": [
+      {
+        "$oid": "6a8591d1ec350988d8b3f725"
+      },
+      {
+        "$oid": "6a8591d1ec350988d8b3f60b"
+      },
+      {
+        "$oid": "6a8591d1ec350988d8b3f609"
+      },
+      {
+        "$oid": "6a8591d1ec350988d8b3f60d"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-19T11:21:54.544Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T11:21:54.565Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T11:21:54.565Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85991df977eb15d129ceb6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [
+      {
+        "$oid": "6a859911ec350988d8b97a00"
+      },
+      {
+        "$oid": "6a859911ec350988d8b978e6"
+      },
+      {
+        "$oid": "6a859911ec350988d8b978e4"
+      },
+      {
+        "$oid": "6a859911ec350988d8b978e8"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-19T11:53:01.304Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T11:53:01.323Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T11:53:01.323Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a859b7cf977eb15d129e448"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a05b8"
+      },
+      "tagname": "PT_I1_1"
+    },
+    "assetId": {
+      "$oid": "699464abbfb07d6db09b9354"
+    },
+    "deviationType": "low",
+    "value": 0.9150000214576721,
+    "liveDataRefs": [
+      {
+        "$oid": "6a859b7bec350988d8bb5049"
+      },
+      {
+        "$oid": "6a859b7bec350988d8bb4f2f"
+      },
+      {
+        "$oid": "6a859b7bec350988d8bb4f2d"
+      },
+      {
+        "$oid": "6a859b7bec350988d8bb4f31"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-19T12:03:08.473Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T12:03:08.513Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T12:03:08.513Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85b14441b2b586d6bfadbd"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a050d"
+      },
+      "tagname": "P001_TDC_211_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "699442ffbfb07d6db09ab184"
+    },
+    "deviationType": "low",
+    "value": 49,
+    "liveDataRefs": [
+      {
+        "$oid": "6a85b13bec350988d8cbe67f"
+      },
+      {
+        "$oid": "6a85b13bec350988d8cbe681"
+      },
+      {
+        "$oid": "6a85b13bec350988d8cbe683"
+      },
+      {
+        "$oid": "6a85b13bec350988d8cbe7c0"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-19T13:36:04.422Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T13:36:04.473Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T13:36:04.473Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85b2b641b2b586d6bfbaaa"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.699999988079071,
+    "liveDataRefs": [
+      {
+        "$oid": "6a85b2b4ec350988d8cd036b"
+      },
+      {
+        "$oid": "6a85b2b4ec350988d8cd0235"
+      },
+      {
+        "$oid": "6a85b2b4ec350988d8cd0233"
+      },
+      {
+        "$oid": "6a85b2b4ec350988d8cd0237"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-19T13:42:14.469Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T13:42:14.487Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T13:42:14.487Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85b2c041b2b586d6bfbb0f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.5,
+    "liveDataRefs": [
+      {
+        "$oid": "6a85b2b4ec350988d8cd036b"
+      },
+      {
+        "$oid": "6a85b2b4ec350988d8cd0235"
+      },
+      {
+        "$oid": "6a85b2b4ec350988d8cd0233"
+      },
+      {
+        "$oid": "6a85b2b4ec350988d8cd0237"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-19T13:42:24.469Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T13:42:24.488Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T13:42:24.488Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85c76541b2b586d6c093b6"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.84886169433594,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T15:10:29.501Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T15:10:29.504Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T15:10:29.504Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a85c93641b2b586d6c0a73a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.88565063476562,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-19T15:18:14.558Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-19T15:18:14.562Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-19T15:18:14.562Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8657ab41b2b586d6c6df77"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.125,
+    "liveDataRefs": [
+      {
+        "$oid": "6a8657aaec350988d84a752e"
+      },
+      {
+        "$oid": "6a8657aaec350988d84a73f8"
+      },
+      {
+        "$oid": "6a8657aaec350988d84a73f6"
+      },
+      {
+        "$oid": "6a8657aaec350988d84a73fa"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T01:26:03.478Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T01:26:03.528Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T01:26:03.528Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86581e41b2b586d6c6e483"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 69,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86581bec350988d84ac752"
+      },
+      {
+        "$oid": "6a86581bec350988d84ac638"
+      },
+      {
+        "$oid": "6a86581bec350988d84ac636"
+      },
+      {
+        "$oid": "6a86581bec350988d84ac63a"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T01:27:58.568Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T01:27:58.594Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T01:27:58.594Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86593c41b2b586d6c6f0a2"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.4049999713897705,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86593cec350988d84ba73d"
+      },
+      {
+        "$oid": "6a86593cec350988d84ba607"
+      },
+      {
+        "$oid": "6a86593cec350988d84ba605"
+      },
+      {
+        "$oid": "6a86593cec350988d84ba609"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T01:32:44.525Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T01:32:44.550Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T01:32:44.550Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86593c41b2b586d6c6f0a9"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 1.4600000381469727,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86593cec350988d84ba73d"
+      },
+      {
+        "$oid": "6a86593cec350988d84ba607"
+      },
+      {
+        "$oid": "6a86593cec350988d84ba605"
+      },
+      {
+        "$oid": "6a86593cec350988d84ba609"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T01:32:44.560Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T01:32:44.578Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T01:32:44.578Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a866f3a41b2b586d6c7c38c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.00808715820312,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-20T03:06:34.026Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T03:06:34.031Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T03:06:34.031Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a866fa341b2b586d6c7c711"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.13893127441406,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-20T03:08:19.089Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T03:08:19.090Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T03:08:19.090Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86b1c541b2b586d6c9f04c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86b1bbec350988d88ef420"
+      },
+      {
+        "$oid": "6a86b1bbec350988d88ef306"
+      },
+      {
+        "$oid": "6a86b1bbec350988d88ef304"
+      },
+      {
+        "$oid": "6a86b1bbec350988d88ef308"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T07:50:29.676Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T07:50:29.707Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T07:50:29.707Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86b8ff41b2b586d6ca2b01"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a057f"
+      },
+      "tagname": "PT_I1_6"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "high",
+    "value": 1.5399999618530273,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86b8feec350988d89476fb"
+      },
+      {
+        "$oid": "6a86b8feec350988d89475e1"
+      },
+      {
+        "$oid": "6a86b8feec350988d89475df"
+      },
+      {
+        "$oid": "6a86b8feec350988d89475e3"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T08:21:19.751Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T08:21:19.781Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T08:21:19.781Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86b8ff41b2b586d6ca2b08"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0582"
+      },
+      "tagname": "PT_I1_5"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "high",
+    "value": 1.524999976158142,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86b8feec350988d89476fb"
+      },
+      {
+        "$oid": "6a86b8feec350988d89475e1"
+      },
+      {
+        "$oid": "6a86b8feec350988d89475df"
+      },
+      {
+        "$oid": "6a86b8feec350988d89475e3"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T08:21:19.792Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T08:21:19.814Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T08:21:19.814Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86bad541b2b586d6ca39e9"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 67,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86bad5ec350988d895dd4b"
+      },
+      {
+        "$oid": "6a86bad5ec350988d895dc31"
+      },
+      {
+        "$oid": "6a86bad5ec350988d895dc2f"
+      },
+      {
+        "$oid": "6a86bad5ec350988d895dc33"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T08:29:09.975Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T08:29:09.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T08:29:09.996Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86e4e7aa39334793ee8470"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86e4e5ec350988d8b5da3a"
+      },
+      {
+        "$oid": "6a86e4e5ec350988d8b5d920"
+      },
+      {
+        "$oid": "6a86e4e5ec350988d8b5d91e"
+      },
+      {
+        "$oid": "6a86e4e5ec350988d8b5d922"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T11:28:39.416Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T11:28:39.439Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T11:28:39.439Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a86fa7b9fb9f22d9a5bc8c1"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0516"
+      },
+      "tagname": "PT_I4_4_A"
+    },
+    "assetId": {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    "deviationType": "high",
+    "value": 0.8000000715255737,
+    "liveDataRefs": [
+      {
+        "$oid": "6a86fa7bec350988d8c643a6"
+      },
+      {
+        "$oid": "6a86fa7bec350988d8c643a8"
+      },
+      {
+        "$oid": "6a86fa7bec350988d8c643aa"
+      },
+      {
+        "$oid": "6a86fa7bec350988d8c644e7"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T13:00:43.724Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T13:00:43.764Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T13:00:43.764Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87059ab37ba8b4b359c73e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0516"
+      },
+      "tagname": "PT_I4_4_A"
+    },
+    "assetId": {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    "deviationType": "low",
+    "value": -0.04499998688697815,
+    "liveDataRefs": [
+      {
+        "$oid": "6a870599ec350988d8ceb874"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb876"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb878"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb9b5"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T13:48:10.380Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T13:48:10.410Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T13:48:10.410Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87059ab37ba8b4b359c748"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a052e"
+      },
+      "tagname": "PT_I4_1"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.699999988079071,
+    "liveDataRefs": [
+      {
+        "$oid": "6a870599ec350988d8ceb9b6"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb880"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb87e"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb882"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T13:48:10.427Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T13:48:10.448Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T13:48:10.448Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87059ab37ba8b4b359c74f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0531"
+      },
+      "tagname": "PT_I4_0"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.7049999833106995,
+    "liveDataRefs": [
+      {
+        "$oid": "6a870599ec350988d8ceb9b6"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb880"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb87e"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb882"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T13:48:10.456Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T13:48:10.474Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T13:48:10.474Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87059ab37ba8b4b359c756"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "low",
+    "value": 0.4650000035762787,
+    "liveDataRefs": [
+      {
+        "$oid": "6a870599ec350988d8ceb9b6"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb880"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb87e"
+      },
+      {
+        "$oid": "6a870599ec350988d8ceb882"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T13:48:10.482Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T13:48:10.500Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T13:48:10.500Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8705bdb37ba8b4b359c8b5"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a057f"
+      },
+      "tagname": "PT_I1_6"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "low",
+    "value": 0.4950000047683716,
+    "liveDataRefs": [
+      {
+        "$oid": "6a8705bcec350988d8ced799"
+      },
+      {
+        "$oid": "6a8705bcec350988d8ced67f"
+      },
+      {
+        "$oid": "6a8705bcec350988d8ced67d"
+      },
+      {
+        "$oid": "6a8705bcec350988d8ced681"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T13:48:45.403Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T13:48:45.424Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T13:48:45.424Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8705bdb37ba8b4b359c8bc"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0582"
+      },
+      "tagname": "PT_I1_5"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "low",
+    "value": 0.4950000047683716,
+    "liveDataRefs": [
+      {
+        "$oid": "6a8705bcec350988d8ced799"
+      },
+      {
+        "$oid": "6a8705bcec350988d8ced67f"
+      },
+      {
+        "$oid": "6a8705bcec350988d8ced67d"
+      },
+      {
+        "$oid": "6a8705bcec350988d8ced681"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-20T13:48:45.433Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T13:48:45.461Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T13:48:45.461Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a871ed032a1b6f592131185"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 182.81834411621094,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-20T15:35:44.141Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T15:35:44.149Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T15:35:44.149Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87203832a1b6f59213211c"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "low",
+    "value": 190.91616821289062,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-20T15:41:44.357Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-20T15:41:44.361Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-20T15:41:44.361Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a879bd632a1b6f59218c303"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a057f"
+      },
+      "tagname": "PT_I1_6"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "high",
+    "value": 1.5199999809265137,
+    "liveDataRefs": [
+      {
+        "$oid": "6a879bd5ec350988d8413c2f"
+      },
+      {
+        "$oid": "6a879bd5ec350988d8413b15"
+      },
+      {
+        "$oid": "6a879bd5ec350988d8413b13"
+      },
+      {
+        "$oid": "6a879bd5ec350988d8413b17"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T00:29:10.151Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T00:29:10.198Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T00:29:10.198Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a879bd632a1b6f59218c30a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0582"
+      },
+      "tagname": "PT_I1_5"
+    },
+    "assetId": {
+      "$oid": "69945df6bfb07d6db09b655a"
+    },
+    "deviationType": "high",
+    "value": 1.5049999952316284,
+    "liveDataRefs": [
+      {
+        "$oid": "6a879bd5ec350988d8413c2f"
+      },
+      {
+        "$oid": "6a879bd5ec350988d8413b15"
+      },
+      {
+        "$oid": "6a879bd5ec350988d8413b13"
+      },
+      {
+        "$oid": "6a879bd5ec350988d8413b17"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T00:29:10.209Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T00:29:10.243Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T00:29:10.243Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a879bf932a1b6f59218c48e"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a054f"
+      },
+      "tagname": "PT_I3_7"
+    },
+    "assetId": {
+      "$oid": "6994507abfb07d6db09b09d2"
+    },
+    "deviationType": "high",
+    "value": 3.125,
+    "liveDataRefs": [
+      {
+        "$oid": "6a879bf8ec350988d8415a04"
+      },
+      {
+        "$oid": "6a879bf8ec350988d84158ce"
+      },
+      {
+        "$oid": "6a879bf8ec350988d84158cc"
+      },
+      {
+        "$oid": "6a879bf8ec350988d84158d0"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T00:29:45.187Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T00:29:45.237Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T00:29:45.237Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a879c5632a1b6f59218ca2b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 67,
+    "liveDataRefs": [
+      {
+        "$oid": "6a879c55ec350988d8419d3a"
+      },
+      {
+        "$oid": "6a879c55ec350988d8419c20"
+      },
+      {
+        "$oid": "6a879c55ec350988d8419c1e"
+      },
+      {
+        "$oid": "6a879c55ec350988d8419c22"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T00:31:18.399Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T00:31:18.445Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T00:31:18.445Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a879d2832a1b6f59218d29f"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0516"
+      },
+      "tagname": "PT_I4_4_A"
+    },
+    "assetId": {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    "deviationType": "high",
+    "value": 0.8200000524520874,
+    "liveDataRefs": [
+      {
+        "$oid": "6a879d27ec350988d842402b"
+      },
+      {
+        "$oid": "6a879d27ec350988d842402d"
+      },
+      {
+        "$oid": "6a879d27ec350988d842402f"
+      },
+      {
+        "$oid": "6a879d27ec350988d842416c"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T00:34:48.490Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T00:34:48.523Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T00:34:48.523Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87b3cc32a1b6f59219b1a4"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a11efe574e9bbad607b"
+      },
+      "tagname": "P201_TDC_111_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 197.0855255126953,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-21T02:11:24.389Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T02:11:24.390Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T02:11:24.390Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87b4cb32a1b6f59219ba1b"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0516"
+      },
+      "tagname": "PT_I4_4_A"
+    },
+    "assetId": {
+      "$oid": "69944be7bfb07d6db09aeab8"
+    },
+    "deviationType": "low",
+    "value": -0.039999961853027344,
+    "liveDataRefs": [
+      {
+        "$oid": "6a87b4caec350988d8544571"
+      },
+      {
+        "$oid": "6a87b4caec350988d8544573"
+      },
+      {
+        "$oid": "6a87b4caec350988d8544575"
+      },
+      {
+        "$oid": "6a87b4caec350988d85446b2"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T02:15:39.509Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T02:15:39.529Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T02:15:39.529Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87b6ec32a1b6f59219cb8a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699d7a14efe574e9bbaeb1fc"
+      },
+      "tagname": "P301_TDC_211_CMP.Actual_Value"
+    },
+    "assetId": null,
+    "deviationType": "high",
+    "value": 205.39720153808594,
+    "liveDataRefs": [],
+    "triggeredAt": {
+      "$date": "2026-08-21T02:24:44.914Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T02:24:44.915Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T02:24:44.915Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87e1e932a1b6f5921b3fdf"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [
+      {
+        "$oid": "6a87e1e7ec350988d876af3e"
+      },
+      {
+        "$oid": "6a87e1e7ec350988d876ae24"
+      },
+      {
+        "$oid": "6a87e1e7ec350988d876ae22"
+      },
+      {
+        "$oid": "6a87e1e7ec350988d876ae26"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T05:28:09.634Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T05:28:09.659Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T05:28:09.659Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a87f888f65c61c5b054062a"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "high",
+    "value": 66,
+    "liveDataRefs": [
+      {
+        "$oid": "6a87f885ec350988d887eaf7"
+      },
+      {
+        "$oid": "6a87f885ec350988d887e9dd"
+      },
+      {
+        "$oid": "6a87f885ec350988d887e9db"
+      },
+      {
+        "$oid": "6a87f885ec350988d887e9df"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T07:04:40.160Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T07:04:40.192Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T07:04:40.192Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a8835fe922eea608e4ca9ba"
+    },
+    "sourceDetails": {
+      "sourceType": "plcLiveData",
+      "tagId": {
+        "$oid": "699426acbfb07d6db09a0594"
+      },
+      "tagname": "P001_TDC_551_ACTUAL_VALUE"
+    },
+    "assetId": {
+      "$oid": "69945d3cbfb07d6db09b6079"
+    },
+    "deviationType": "low",
+    "value": 44,
+    "liveDataRefs": [
+      {
+        "$oid": "6a8835fbec350988d8b6bf81"
+      },
+      {
+        "$oid": "6a8835fbec350988d8b6be67"
+      },
+      {
+        "$oid": "6a8835fbec350988d8b6be65"
+      },
+      {
+        "$oid": "6a8835fbec350988d8b6be69"
+      }
+    ],
+    "triggeredAt": {
+      "$date": "2026-08-21T11:26:54.564Z"
+    },
+    "createdAt": {
+      "$date": "2026-08-21T11:26:54.588Z"
+    },
+    "updatedAt": {
+      "$date": "2026-08-21T11:26:54.588Z"
+    },
+    "__v": 0
+  }
+]
