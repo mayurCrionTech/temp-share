@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            width: 700px;
+            margin: 0 auto;
+            background-color: #fff;
+            border: 2px solid #ddd;
+            box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            border-radius: 12px;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #06337e, #0575e6);
+            color: #fff;
+            text-align: center;
+            font-size: 32px;
+            font-family: 'Orbitron', sans-serif;
+            border-radius: 12px;
+        }
+
+        .content {
+            padding: 32px;
+        }
+
+        .warning-section {
+            border-left: 4px solid #dc2626;
+            background-color: #fef2f2;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 24px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 16px 0;
+        }
+
+        th, td {
+            border: 1px solid #e2e8f0;
+            padding: 12px 16px;
+            text-align: left;
+            font-size: 14px;
+        }
+
+        th {
+            background-color: #f1b5b5;
+            font-weight: 600;
+        }
+
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e2e8f0;
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        .signature {
+            margin: 24px 0;
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                width: 100%;
+                padding: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>CLONOS</h1>
+        </div>
+        <div class="content">
+            <p>Dear {{receiverName}},</p>
+            <p>The following spare parts have fallen below their threshold quantity. Immediate action may be required to restock them.</p>
+            <div class="warning-section">
+                <div class="section-header">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round"
+                         stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="10"/>
+                        <line x1="12" y1="8" x2="12" y2="12"/>
+                        <line x1="12" y1="16" x2="12.01" y2="16"/>
+                    </svg>
+                    <h2>Low Spare Quantity Alert</h2>
+                </div>
+                <table>
+                    <tr>
+                        <th>Spare Name</th>
+                        <th>Current Quantity</th>
+                        <th>Threshold Quantity</th>
+                        <th>Last Updated</th>
+                    </tr>
+                    {{#each lowStockSpares}}
+                    <tr>
+                        <td>{{spareName}}</td>
+                        <td style="color: #dc2626; font-weight: bold;">{{currentQuantity}}</td>
+                        <td>{{thresholdQuantity}}</td>
+                        <td>{{formatDate lastUpdated}}</td>
+                    </tr>
+                    {{/each}}
+                </table>
+            </div>
+            <p>Please take the necessary actions to prevent stock-out situations.</p>
+
+            <div class="footer">
+                <p>For detailed stock information, please check the inventory system.</p>
+                <div class="signature">
+                    <p>Sincerely,<br>Team Clonos</p>
+                </div>
+                <p align="center">This is an auto-generated alert. Please do not reply.</p>
+            </div>
+        
+    </div>
+</body>
+</html>
+
+
+
+

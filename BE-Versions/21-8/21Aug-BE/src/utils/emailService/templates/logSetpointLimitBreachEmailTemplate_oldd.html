@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
+        <style>
+
+            body {
+                font-family: 'Open Sans', sans-serif;
+                color: #333;
+                font-size: 12px;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                width: 600px;
+                margin: 0 auto;
+                background-color: #fff;
+                border: 1px solid #ddd;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                padding: 20px;
+                border-radius: 12px;
+            }
+            .header {
+                background: linear-gradient(90deg, #06337e, #0575e6);
+                color: #fff;
+                padding: 20px;
+                text-align: center;
+                font-size: 32px;
+                font-family: 'Orbitron', sans-serif;
+                font-weight: 700;
+                border-radius: 12px;
+            }
+            .content {
+                padding: 20px;
+            }
+            .alert {
+                background-color: #fff3f3;
+                border-left: 5px solid #d24b5a;
+                padding: 15px;
+                margin: 20px 0;
+            }
+            .alert-title {
+                color: #d24b5a;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 10px;
+            }
+            .footer {
+                margin-top: 40px;
+                font-size: 12px;
+                color: #999;
+                text-align: center;
+            }
+            .section-details {
+                margin-top: 5px;
+                color: #333;
+            }
+            .limit-info {
+                font-size: 14px;
+                font-weight: bold;
+                color: #06337e;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">CLONOS</div>
+            <div class="content">
+                <p>Dear {{receiverOrGroupName}},</p>
+                
+                <p>This is to notify you of a critical setpoint limit breach in our monitoring system.</p>
+
+                <div class="alert">
+                    <div class="alert-title">SETPOINT LIMIT BREACH DETECTED</div>
+                    
+                    <div class="section-details">
+                        <p>Log: <span class="limit-info">{{logName}}</span></p>
+                        <p>Field Name: <span class="limit-info">{{fieldName}}</span></p>
+                        <p>Limit Type: <span class="limit-info">{{limitType}} Setpoint</span></p>
+                        <p>Current Value: <span class="limit-info">{{currentValue}}</span></p>
+                        <p>Setpoint Limit: <span class="limit-info">{{setpointLimit}}</span></p>
+                    </div>
+                </div>
+
+                <p><strong>Immediate Action Required:</strong> The {{fieldName}} in {{logName}} has breached the {{limitType}} setpoint limit. Please investigate and take corrective measures immediately.</p>
+
+                <p>Details of Breach:</p>
+                <ul>
+                    <li>Logged at: {{formatDate breachTime}}</li>
+                    <li>Detected by: {{detectedBy}}</li>
+                </ul>
+
+                <p>Please review the process parameters and take necessary corrective actions.</p>
+
+                <p>Sincerely,<br>Team CLONOS</p>
+
+                <p class="footer">This is an auto-generated alert. Please do not reply.</p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,17 @@
+if (process.env.NODE_ENV !== "production") {
+  require("dotenv").config();
+}
+
+module.exports = {
+  ASSET_MODULE: process.env.ASSET_MODULE,
+  ASSET_DOCUMENT_MODULE: process.env.ASSET_DOCUMENT_MODULE,
+  ASSET_PARAMETER_MODULE: process.env.ASSET_PARAMETER_MODULE,
+  PLANT3D_MODULE: process.env.PLANT3D_MODULE,
+  REFERENCE_MANUAL_MODULE: process.env.REFERENCE_MANUAL_MODULE,
+  SPARE_MODULE: process.env.SPARE_MODULE,
+  USER_MODULE: process.env.USER_MODULE,
+  NOTIFICATION_MODULE: process.env.NOTIFICATION_MODULE,
+  CHECKLIST_MODULE: process.env.CHECKLIST_MODULE,
+  LOG_MODULE: process.env.LOG_MODULE,
+  WORKORDER_MODULE: process.env.WORKORDER_MODULE,
+};

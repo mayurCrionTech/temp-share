@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f5f5f5;
+      padding: 10px;
+    }
+
+    .container {
+      width: 700px;
+      background-color: #fff;
+      border: 2px solid #ddd;
+      box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      border-radius: 12px;
+      margin: auto;
+    }
+
+    .header {
+      background: linear-gradient(90deg, #06337e, #0575e6);
+      color: #fff;
+      text-align: center;
+      font-size: 32px;
+      font-family: 'Orbitron', sans-serif;
+      border-radius: 12px;
+      padding: 10px 0;
+    }
+
+    .content {
+      padding: 32px;
+    }
+
+    .warning-section {
+      border-left: 4px solid #dc2626;
+      background-color: #fef2f2;
+      border-radius: 8px;
+      padding: 16px;
+      margin: 24px 0;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .section-header svg {
+      width: 24px;
+      height: 24px;
+    }
+
+    .section-header h2 {
+      font-size: 18px;
+      color: #1e293b;
+      margin: 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 16px;
+      font-size: 13px;
+    }
+
+    thead {
+      background-color: #fee2e2;
+    }
+
+    th, td {
+      padding: 8px 12px;
+      border: 1px solid #fca5a5;
+      text-align: left;
+    }
+
+    th {
+      color: #b91c1c;
+    }
+
+    .footer {
+      border-top: 1px solid #e2e8f0;
+      color: #64748b;
+      font-size: 14px;
+      text-align: center;
+      margin-top: 32px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>CLONOS</h1>
+  </div>
+  <div class="content">
+    <p>Dear {{receiverName}},</p>
+
+    <p>This is to notify you that one or more set-point limits have been breached in our monitoring system.</p>
+
+    <div class="warning-section">
+      <div class="section-header">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <line x1="12" y1="8" x2="12" y2="12"/>
+          <line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+        <h2>Critical Set-point Breach Summary</h2>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th>LOG</th>
+            <th>FIELD NAME</th>
+            <th>LIMIT TYPE</th>
+            <th>CURRENT VALUE</th>
+            <th>SET POINT LIMIT</th>
+            <th>LOGGED AT</th>
+            <th>DETECTED BY</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each setPointBreachedEntries}}
+          <tr>
+            <td>{{logName}}</td>
+            <td>{{fieldName}}</td>
+            <td>{{severity}} {{limitType}}</td>
+            <td>{{currentValue}}</td>
+            <td>{{setpointLimit}}</td>
+            <td>{{formatDate breachTime}}</td>
+            <td>{{detectedBy}}</td>
+          </tr>
+          {{/each}}
+        </tbody>
+      </table>
+
+      <p><strong>Immediate Action Required:</strong> One or more fields have breached critical set-point limits. Please investigate and take corrective measures immediately.</p>
+    </div>
+
+    <p>Please review the process parameters and take necessary corrective actions.</p>
+
+    <div class="footer">
+      <p align="left">Sincerely,<br>Team Clonos</p>
+      <p>This is an auto-generated alert. Please do not reply.</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
