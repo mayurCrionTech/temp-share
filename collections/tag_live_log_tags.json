@@ -1,0 +1,774 @@
+[{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0519"
+  },
+  "tagname": "Free Alkali DS",
+  "datatype": "REAL",
+  "latestValue": 17.6298,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699442ffbfb07d6db09ab184"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 16,
+    "maxValue": 19
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.649Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0528"
+  },
+  "tagname": "Oil Separator Flow DS",
+  "datatype": "REAL",
+  "latestValue": 12.8012,
+  "unit": "LPM",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69944c9dbfb07d6db09af041"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 10,
+    "maxValue": 15
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.657Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0543"
+  },
+  "tagname": "Free Alkali DD",
+  "datatype": "REAL",
+  "latestValue": 17.7784,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69944f54bfb07d6db09b01fb"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 16,
+    "maxValue": 19
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.669Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0561"
+  },
+  "tagname": "DI Water Spray Flow WR12",
+  "datatype": "REAL",
+  "latestValue": 62.3423,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699457cfbfb07d6db09b3bbd"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 60,
+    "maxValue": 65
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a056a"
+  },
+  "tagname": "Free Alkali WR2",
+  "datatype": "REAL",
+  "latestValue": 0.7365,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699456b7bfb07d6db09b33ce"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.686Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0573"
+  },
+  "tagname": "Total Concentration Activation",
+  "datatype": "REAL",
+  "latestValue": 3.4051,
+  "unit": "Bar",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69945999bfb07d6db09b4779"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 3,
+    "maxValue": 3.9
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.689Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0576"
+  },
+  "tagname": "PH Activation",
+  "datatype": "REAL",
+  "latestValue": 10.1605,
+  "unit": "Bar",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699459e7bfb07d6db09b49d3"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 9,
+    "maxValue": 11
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.690Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0579"
+  },
+  "tagname": "Exit Spray Flow Activation",
+  "datatype": "REAL",
+  "latestValue": 177.2545,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69945adfbfb07d6db09b50c1"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 160,
+    "maxValue": 200
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-02-17T08:28:28.692Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699d79ccefe574e9bb8b1961"
+  },
+  "asset_id": [],
+  "tagname": "DI Water Spray Flow After DI Spray",
+  "latestValue": 94.0949,
+  "unit": "LPM",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 80,
+    "maxValue": 120
+  },
+  "createdAt": {
+    "$date": "2026-02-24T15:42:43.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-28T18:29:59.000Z"
+  },
+  "assetId": [
+    {
+      "$oid": "6995729ed67b1b79cf7df516"
+    }
+  ],
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27c8a553da24f123e689f"
+  },
+  "asset_id": [],
+  "tagname": "Solids content ED Bath",
+  "latestValue": 22.6363,
+  "unit": "%",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 22,
+    "maxValue": 24
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27c8d553da24f123fba20"
+  },
+  "asset_id": [],
+  "tagname": "Ash Content ED Bath",
+  "latestValue": 25.5,
+  "unit": "-",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 20,
+    "maxValue": 24
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-26T08:54:56.916Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27c8f553da24f12410ba1"
+  },
+  "asset_id": [],
+  "tagname": "PH ED Bath",
+  "latestValue": 5.7754,
+  "unit": "-",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 5.5,
+    "maxValue": 6.1
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27c92553da24f12425d22"
+  },
+  "asset_id": [],
+  "tagname": "Conductivity ED Bath",
+  "latestValue": 1618.6475,
+  "unit": "µS/cm",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1200,
+    "maxValue": 2400
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27c94553da24f1243aea3"
+  },
+  "asset_id": [],
+  "tagname": "MEQ ED Bath",
+  "latestValue": 30.0188,
+  "unit": "mmol",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 23,
+    "maxValue": 31
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cb0553da24f12522f2e"
+  },
+  "asset_id": [],
+  "tagname": "Exit Spray Flow ED Bath",
+  "latestValue": 130.1031,
+  "unit": "LPM",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 120,
+    "maxValue": 140
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cc0553da24f125a1834"
+  },
+  "asset_id": [],
+  "tagname": "Flow Total Anolyte",
+  "latestValue": 73.9557,
+  "unit": "LPM",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 60,
+    "maxValue": 90
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cc3553da24f125b69b5"
+  },
+  "asset_id": [],
+  "tagname": "Flow Individual Cell Anolyte",
+  "latestValue": 2.3307,
+  "unit": "LPM",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 2,
+    "maxValue": 3
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cc6553da24f125cbb36"
+  },
+  "asset_id": [],
+  "tagname": "PH UF System",
+  "latestValue": 5.6338,
+  "unit": "-",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 5.2,
+    "maxValue": 5.9
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cd0553da24f1260afb9"
+  },
+  "asset_id": [],
+  "tagname": "Permeate Transfer Flow UF System",
+  "latestValue": 7416.4296,
+  "unit": "LPH",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 7300,
+    "maxValue": 7500
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cd4553da24f126352bb"
+  },
+  "asset_id": [],
+  "tagname": "Solids Content UF Rinse 1",
+  "latestValue": 0.1454,
+  "unit": "%",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 0.1,
+    "maxValue": 0.2
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cd8553da24f1264a43c"
+  },
+  "asset_id": [],
+  "tagname": "PH UF Rinse 1",
+  "latestValue": 5.5459,
+  "unit": "-",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 5.2,
+    "maxValue": 5.9
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27ce9553da24f126ddec3"
+  },
+  "asset_id": [],
+  "tagname": "Solids Content UF Rinse 2",
+  "latestValue": 1.3746,
+  "unit": "%",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 1,
+    "maxValue": 2
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27ceb553da24f126f3044"
+  },
+  "asset_id": [],
+  "tagname": "PH UF Rinse 2",
+  "latestValue": 5.6093,
+  "unit": "-",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 5.2,
+    "maxValue": 5.9
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cf5553da24f12747648"
+  },
+  "asset_id": [],
+  "tagname": "Exit Spray Flow UF Rinse 2",
+  "latestValue": 126.8415,
+  "unit": "LPM",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 120,
+    "maxValue": 140
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27cfa553da24f1277194a"
+  },
+  "asset_id": [],
+  "tagname": "RCDI Water Spray Flow",
+  "latestValue": 175.1816,
+  "unit": "LPM",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 150,
+    "maxValue": 220
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "69c27d02553da24f127b0dcd"
+  },
+  "asset_id": [],
+  "tagname": "Flux Rate Module Any 4 out of 5 UF System",
+  "latestValue": 509.7525,
+  "unit": "LPH",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 500,
+    "maxValue": 520
+  },
+  "createdAt": {
+    "$date": "2026-03-24T17:29:06.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "6a8ed4d56a2948fd77de1660"
+  },
+  "asset_id": [],
+  "tagname": "Exit Spray Flow",
+  "latestValue": 170,
+  "unit": "LPM",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 160,
+    "maxValue": 200
+  },
+  "createdAt": {
+    "$date": "2026-08-26T11:58:13.212Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-26T11:58:13.212Z"
+  },
+  "source": "LOG"
+}]
