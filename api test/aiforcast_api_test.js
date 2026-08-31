@@ -51,9 +51,22 @@ async function main() {
   const startedAt = Date.now();
   let res, body;
 
+  let rawText;
   try {
     res = await fetch(url);
-    body = await res.json();
+    rawText = await res.text();
+    try {
+      body = JSON.parse(rawText);
+    } catch (parseErr) {
+      console.error("Request failed: response was not valid JSON.");
+      console.error("HTTP status:", res.status);
+      console.error("This usually means you're hitting the wrong URL/port/route");
+      console.error("(e.g. a frontend dev server, a 404 page, or an auth redirect).");
+      console.error("");
+      console.error("Raw response body (first 500 chars):");
+      console.error(rawText.slice(0, 500));
+      process.exit(1);
+    }
   } catch (err) {
     console.error("Request failed:", err.message);
     process.exit(1);
