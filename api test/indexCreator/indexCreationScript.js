@@ -16,11 +16,16 @@ const { MongoClient } = require("mongodb");
 const MONGO_URI = "mongodb://localhost:27017/your-db-name";
 // -------------------------------------------------
 
-// Same shape as rollingWindowCleanupConfig — keep in sync manually since
-// this script is standalone and doesn't import your app's config.
+// Keep this in sync with src/configs/dataCleanupConfig.js manually,
+// since this script is standalone and doesn't import your app's config.
+//
+// NOTE: "aiforecasts" is intentionally NOT listed here. Its cleanup filters
+// on _id (ObjectId embeds creation time) instead of a date field, because
+// its `timestamp` field holds a *future predicted* time, not insertion time.
+// _id already has a default unique index in every MongoDB collection, so no
+// extra index is needed for it.
 const collectionsToIndex = [
-  { collection: "aiforecasts", field: "timestamp" },
-  { collection: "setpoint_deviation_events", field: "triggeredAt" },
+  { collection: "setpoint_deviation_events", field: "createdAt" },
   { collection: "forecastDefects", field: "lastUpdatedAt" }, // confirm exact name/case
 ];
 
