@@ -12,7 +12,12 @@ const COLLECTION_NAME = "liveData_test";
 const OUTPUT_FILE = "liveData_export.txt";
 
 // Tag ID to export
-const TAG_ID = new ObjectId("69a00014028f2974fee4ab9e");
+const TAG_ID = new ObjectId("699426acbfb07d6db09a052b");
+//const TAG_ID = new ObjectId("699426acbfb07d6db09a052e");
+//const TAG_ID = new ObjectId("699426acbfb07d6db09a0531");
+
+
+
 
 // Start date: 24 August 2026 00:00:00 UTC
 const START_DATE = new Date("2026-08-24T00:00:00.000Z");
