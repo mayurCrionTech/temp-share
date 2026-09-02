@@ -1,9 +1,9 @@
 const { MongoClient, ObjectId } = require("mongodb");
 const fs = require("fs");
 
-// ==============================
+// =====================================================
 // CONFIGURATION
-// ==============================
+// =====================================================
 
 const MONGO_URI = "mongodb://localhost:27017";
 const DB_NAME = "YOUR_DATABASE_NAME";
@@ -11,48 +11,60 @@ const COLLECTION_NAME = "liveData_test";
 
 const OUTPUT_FILE = "liveData_export.txt";
 
+// Tag ID to export
+const TAG_ID = new ObjectId("69a00014028f2974fee4ab9e");
+
 // Start date: 24 August 2026 00:00:00 UTC
 const START_DATE = new Date("2026-08-24T00:00:00.000Z");
 
-// Sampling interval: 10 minutes
+// End date: Current date/time when script runs
+const END_DATE = new Date();
+
+// Fetch one record every 10 minutes
 const INTERVAL_MINUTES = 10;
 
-// ==============================
-// MAIN
-// ==============================
+
+// =====================================================
+// EXPORT FUNCTION
+// =====================================================
 
 async function exportLiveData() {
+
     const client = new MongoClient(MONGO_URI);
 
     try {
+
+        console.log("========================================");
         console.log("Connecting to MongoDB...");
+        console.log("========================================");
 
         await client.connect();
 
         const db = client.db(DB_NAME);
         const collection = db.collection(COLLECTION_NAME);
 
-        const END_DATE = new Date();
-
+        console.log(`Database   : ${DB_NAME}`);
         console.log(`Collection : ${COLLECTION_NAME}`);
-        console.log(`From       : ${START_DATE.toISOString()}`);
-        console.log(`To         : ${END_DATE.toISOString()}`);
+        console.log(`Tag ID     : ${TAG_ID}`);
+        console.log(`From UTC   : ${START_DATE.toISOString()}`);
+        console.log(`To UTC     : ${END_DATE.toISOString()}`);
         console.log(`Interval   : ${INTERVAL_MINUTES} minutes`);
         console.log("");
 
-        /*
-         * MongoDB performs the sampling.
-         *
-         * For every tag:
-         *   - group records into 10-minute buckets
-         *   - take the first record in each bucket
-         *
-         * This means Node.js does NOT download every 10-second record.
-         */
+        // =====================================================
+        // MONGODB AGGREGATION
+        // =====================================================
 
         const pipeline = [
+
+            // -------------------------------------------------
+            // 1. Filter only required tag and date range
+            // -------------------------------------------------
+
             {
                 $match: {
+                    tag_id: TAG_ID,
+
                     timestamp: {
                         $gte: START_DATE,
                         $lte: END_DATE
@@ -60,16 +72,20 @@ async function exportLiveData() {
                 }
             },
 
-            // Sort so that $first gives us the earliest record
-            // inside each 10-minute bucket.
+            // -------------------------------------------------
+            // 2. Sort by timestamp
+            // -------------------------------------------------
+
             {
                 $sort: {
-                    tag_id: 1,
                     timestamp: 1
                 }
             },
 
-            // Create a 10-minute bucket based on timestamp.
+            // -------------------------------------------------
+            // 3. Create 10-minute UTC bucket
+            // -------------------------------------------------
+
             {
                 $set: {
                     timeBucket: {
@@ -82,46 +98,69 @@ async function exportLiveData() {
                 }
             },
 
-            // One record per tag per 10-minute bucket.
+            // -------------------------------------------------
+            // 4. Pick first actual record from every
+            //    10-minute bucket
+            // -------------------------------------------------
+
             {
                 $group: {
-                    _id: {
-                        tag_id: "$tag_id",
-                        timeBucket: "$timeBucket"
+                    _id: "$timeBucket",
+
+                    tag_id: {
+                        $first: "$tag_id"
                     },
+
                     timestamp: {
                         $first: "$timestamp"
                     },
+
                     value: {
                         $first: "$value"
                     }
                 }
             },
 
-            // Sort final result
+            // -------------------------------------------------
+            // 5. Sort final result
+            // -------------------------------------------------
+
             {
                 $sort: {
-                    "_id.tag_id": 1,
                     timestamp: 1
                 }
             },
 
-            // Keep only required fields
+            // -------------------------------------------------
+            // 6. Return only required fields
+            // -------------------------------------------------
+
             {
                 $project: {
                     _id: 0,
-                    tag_id: "$_id.tag_id",
+                    tag_id: 1,
                     timestamp: 1,
                     value: 1
                 }
             }
         ];
 
-        console.log("Running MongoDB aggregation...");
+
+        // =====================================================
+        // RUN AGGREGATION
+        // =====================================================
+
+        console.log("Fetching data from MongoDB...");
+        console.log("");
 
         const cursor = collection.aggregate(pipeline, {
             allowDiskUse: true
         });
+
+
+        // =====================================================
+        // CREATE OUTPUT FILE
+        // =====================================================
 
         const outputStream = fs.createWriteStream(OUTPUT_FILE);
 
@@ -130,56 +169,122 @@ async function exportLiveData() {
             "TAG_ID\tVALUE\tUTC_TIMESTAMP\tIST_TIMESTAMP\n"
         );
 
+
         let recordCount = 0;
 
+
+        // =====================================================
+        // WRITE DATA
+        // =====================================================
+
         for await (const doc of cursor) {
+
             const tagId = doc.tag_id
                 ? doc.tag_id.toString()
                 : "";
 
             const value = doc.value;
 
+            // Original MongoDB timestamp
             const utcTimestamp = doc.timestamp.toISOString();
 
-            // IST = UTC + 5 hours 30 minutes
-            const istTimestamp = new Date(
+
+            // -------------------------------------------------
+            // Convert UTC -> IST
+            // IST = UTC + 05:30
+            // -------------------------------------------------
+
+            const istDate = new Date(
                 doc.timestamp.getTime() + (5.5 * 60 * 60 * 1000)
-            )
+            );
+
+            const istTimestamp = istDate
                 .toISOString()
                 .replace("Z", "+05:30");
+
+
+            // -------------------------------------------------
+            // Write to TXT
+            // -------------------------------------------------
 
             outputStream.write(
                 `${tagId}\t${value}\t${utcTimestamp}\t${istTimestamp}\n`
             );
 
+
             recordCount++;
 
+
+            // Progress
             if (recordCount % 10000 === 0) {
+
                 console.log(
-                    `Processed ${recordCount.toLocaleString()} records...`
+                    `Exported ${recordCount.toLocaleString()} records...`
                 );
+
             }
         }
 
+
+        // =====================================================
+        // CLOSE FILE
+        // =====================================================
+
         await new Promise((resolve, reject) => {
+
             outputStream.end(resolve);
+
             outputStream.on("error", reject);
+
         });
 
+
+        // =====================================================
+        // COMPLETED
+        // =====================================================
+
         console.log("");
-        console.log("====================================");
-        console.log("Export completed successfully");
-        console.log("====================================");
-        console.log(`Records exported : ${recordCount.toLocaleString()}`);
-        console.log(`Output file      : ${OUTPUT_FILE}`);
-        console.log("");
+        console.log("========================================");
+        console.log("EXPORT COMPLETED SUCCESSFULLY");
+        console.log("========================================");
+
+        console.log(
+            `Tag ID           : ${TAG_ID}`
+        );
+
+        console.log(
+            `Records exported : ${recordCount.toLocaleString()}`
+        );
+
+        console.log(
+            `Output file      : ${OUTPUT_FILE}`
+        );
+
+        console.log("========================================");
+
+
     } catch (error) {
-        console.error("Export failed:");
+
+        console.error("");
+        console.error("========================================");
+        console.error("EXPORT FAILED");
+        console.error("========================================");
+
         console.error(error);
+
     } finally {
+
         await client.close();
+
+        console.log("");
         console.log("MongoDB connection closed.");
+
     }
 }
+
+
+// =====================================================
+// START
+// =====================================================
 
 exportLiveData();
