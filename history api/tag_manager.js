@@ -463,11 +463,10 @@ async function getTagHistory(
   tagId,
   startTime,
   endTime,
-  interval,       // now optional — omit or pass "auto"
+  interval,
   aggregation,
   limit = 100
 ) {
-  // interval removed from this required check
   if (!tagId || !startTime || !endTime || !aggregation) {
     throw new Error("Missing required query parameters");
   }
@@ -481,7 +480,7 @@ async function getTagHistory(
   }
 
   const start = parseUserDate(startTime);
-  const end = parseUserDate(endTime);
+  let end = parseUserDate(endTime);
 
   if (isNaN(start) || isNaN(end)) {
     throw new Error("Invalid date format");
@@ -491,21 +490,26 @@ async function getTagHistory(
     throw new Error("startTime must be less than endTime");
   }
 
-  // ── Resolve interval: explicit value wins, otherwise auto-pick ──
+  // ── If the requested end is close to "now", trust server time instead ──
+  // Prevents the current/in-progress interval from being silently cut off
+  // due to client clock lag or request latency.
+  const now = new Date();
+  const CURRENT_WINDOW_BUFFER_MS = 5 * 60 * 1000; // 5 min tolerance
+  if (now.getTime() - end.getTime() < CURRENT_WINDOW_BUFFER_MS) {
+    end = now;
+  }
+
+  // ── Resolve interval ──
   let resolvedIntervalIso;
   let intervalMs;
 
-  // if (!interval || interval === "auto") {
   if (!interval || interval === "auto") {
     const auto = pickAutoInterval(end.getTime() - start.getTime());
     resolvedIntervalIso = auto.iso;
     intervalMs = auto.ms;
   } else {
-    // resolvedIntervalIso = interval;
-    // intervalMs = parseISODuration(interval);
-    const auto = pickAutoInterval(end.getTime() - start.getTime());
-    resolvedIntervalIso = auto.iso;
-    intervalMs = auto.ms;
+    resolvedIntervalIso = interval;
+    intervalMs = parseISODuration(interval);
   }
 
   const tagObjectId = new mongoose.Types.ObjectId(tagId);
@@ -516,7 +520,7 @@ async function getTagHistory(
     {
       $match: {
         tag_id: tagObjectId,
-        timestamp: { $gte: start, $lt: end },
+        timestamp: { $gte: start, $lte: end }, // ← inclusive now
         value: { $type: "number" }
       }
     },
@@ -558,7 +562,7 @@ async function getTagHistory(
 
   return {
     tagId,
-    interval: resolvedIntervalIso,   // echoes back what was actually used
+    interval: resolvedIntervalIso,
     aggregation,
     points
   };
@@ -2534,14 +2538,15 @@ const forecastDefects = await forecastDefectCollection.aggregate([
           as: "defect",
           in: {
             defectName: "$$defect.defectName",
-            confidenceScore: "$$defect.confidenceScore",
+            probabilityScore: "$$defect.probabilityScore",
             riskLevel: "$$defect.riskLevel",
             triggeredRules: {
               $map: {
                 input: "$$defect.triggeredRules",
                 as: "rule",
                 in: {
-                  tagId: "$$rule.tagId",
+                  tag_id: "$$rule.tag_id",
+                  tagName: "$$rule.tagName",
                   forecastedValue: "$$rule.forecastedValue",
                 },
               },
@@ -2563,7 +2568,6 @@ const forecastDefects = await forecastDefectCollection.aggregate([
     $limit: pageSize,
   },
 ]).toArray();
-
 return forecastDefects; 
 
 // await sendForeCastDefects("forecastdefects", forecastDefects)
