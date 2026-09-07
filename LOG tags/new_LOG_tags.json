@@ -1,0 +1,550 @@
+[{
+  "_id": {
+    "$oid": "6a9e9e7fa4169be4f0f3df42"
+  },
+  "tagname": "Total Acidity WR4",
+  "datatype": "REAL",
+  "latestValue": 1.0728,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699461c1bfb07d6db09b7f34"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "source": "LOG",
+  "createdAt": {
+    "$date": "2026-09-07T11:22:39.564Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-07T11:22:39.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9e9e7fa4169be4f0f3df41"
+  },
+  "tagname": "Total Acidity WR3",
+  "datatype": "REAL",
+  "latestValue": 1.0728,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699461c1bfb07d6db09b7f34"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "source": "LOG",
+  "createdAt": {
+    "$date": "2026-09-07T11:22:39.564Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-07T11:22:39.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a9e9dfea4169be4f0f3df40"
+  },
+  "asset_id": [],
+  "tagname": "Flux Rate Module_5_UF_System",
+  "latestValue": 0,
+  "unit": "LPH",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 500,
+    "maxValue": 520
+  },
+  "source": "LOG",
+  "createdAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e9dfea4169be4f0f3df3f"
+  },
+  "asset_id": [],
+  "tagname": "Flux Rate Module_4_UF_System",
+  "latestValue": 0,
+  "unit": "LPH",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 500,
+    "maxValue": 520
+  },
+  "source": "LOG",
+  "createdAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e9dfea4169be4f0f3df3e"
+  },
+  "asset_id": [],
+  "tagname": "Flux Rate Module_3_UF_System",
+  "latestValue": 0,
+  "unit": "LPH",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 500,
+    "maxValue": 520
+  },
+  "source": "LOG",
+  "createdAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e9dfea4169be4f0f3df3d"
+  },
+  "asset_id": [],
+  "tagname": "Flux Rate Module_2_UF_System",
+  "latestValue": 0,
+  "unit": "LPH",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 500,
+    "maxValue": 520
+  },
+  "source": "LOG",
+  "createdAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e9dfea4169be4f0f3df3c"
+  },
+  "asset_id": [],
+  "tagname": "Flux Rate Module_1_UF_System",
+  "latestValue": 0,
+  "unit": "LPH",
+  "datatype": "REAL",
+  "plcName": "DEFAULT_PLC",
+  "isActive": true,
+  "health": true,
+  "plcMeta": {
+    "dbaddress": 1
+  },
+  "ranges": {
+    "minValue": 500,
+    "maxValue": 520
+  },
+  "source": "LOG",
+  "createdAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-07T11:20:30.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05cd"
+  },
+  "tagname": "DI Water Spray Flow DI Water",
+  "datatype": "REAL",
+  "latestValue": 144.5938,
+  "unit": "Bar",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69946641bfb07d6db09b9ee0"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 110,
+    "maxValue": 180
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.725Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05ca"
+  },
+  "tagname": "Conductivity DI Water",
+  "datatype": "REAL",
+  "latestValue": 3.4264,
+  "unit": "Âµs/cm",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699465fcbfb07d6db09b9cb4"
+    },
+    {
+      "$oid": "69957309d67b1b79cf7df80f"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 10
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.724Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05c7"
+  },
+  "tagname": "PH DI Water",
+  "datatype": "REAL",
+  "latestValue": 6.774,
+  "unit": "-",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [],
+  "isActive": true,
+  "ranges": {
+    "minValue": 6,
+    "maxValue": 7.5
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.722Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a05be"
+  },
+  "tagname": "Exit Spray Flow WR5",
+  "datatype": "REAL",
+  "latestValue": 173.626,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "6994655abfb07d6db09b9823"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 160,
+    "maxValue": 200
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a059d"
+  },
+  "tagname": "Exit Spray Flow Phosphating",
+  "datatype": "REAL",
+  "latestValue": 180.5446,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69946031bfb07d6db09b73f5"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 160,
+    "maxValue": 200
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.706Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0591"
+  },
+  "tagname": "Accelerator Content Phosphating",
+  "datatype": "REAL",
+  "latestValue": 3.431,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69945fbcbfb07d6db09b709c"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 3,
+    "maxValue": 4
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.701Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a058e"
+  },
+  "tagname": "Free Acidity Phosphating",
+  "datatype": "REAL",
+  "latestValue": 1.0883,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69945c42bfb07d6db09b59eb"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0.7,
+    "maxValue": 1.2
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.700Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a058b"
+  },
+  "tagname": "Total Acidity Phosphating",
+  "datatype": "REAL",
+  "latestValue": 23.0105,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69945c42bfb07d6db09b59eb"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 22,
+    "maxValue": 24
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.699Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0567"
+  },
+  "tagname": "Water Transfer To Degrease",
+  "datatype": "REAL",
+  "latestValue": 16.4798,
+  "unit": "LPM",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "69945604bfb07d6db09b2f26"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 14,
+    "maxValue": 18
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0564"
+  },
+  "tagname": "Free Alkali WR1",
+  "datatype": "REAL",
+  "latestValue": 4.0274,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699453adbfb07d6db09b1fa9"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 0,
+    "maxValue": 5
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+},
+{
+  "_id": {
+    "$oid": "699426acbfb07d6db09a0549"
+  },
+  "tagname": "Exit Spray Flow DD",
+  "datatype": "REAL",
+  "latestValue": 182.1465,
+  "unit": "Points",
+  "plcName": "DEFAULT_PLC",
+  "assetId": [
+    {
+      "$oid": "699451ffbfb07d6db09b13a2"
+    }
+  ],
+  "isActive": true,
+  "ranges": {
+    "minValue": 160,
+    "maxValue": 200
+  },
+  "health": true,
+  "plcMetadata": {
+    "dbAddress": "01"
+  },
+  "createdAt": {
+    "$date": "2026-09-07T08:28:28.671Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T18:29:59.000Z"
+  },
+  "__v": 0,
+  "source": "LOG"
+}]
