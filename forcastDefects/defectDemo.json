@@ -1,0 +1,255 @@
+[
+  {
+    "_id": {
+      "$oid": "6aa0f1414e910dc7722972db"
+    },
+    "forecastTimestamp": {
+      "$date": "2026-09-09T05:40:12.143Z"
+    },
+    "detectedDefects": [
+      {
+        "defectName": "RUSTING",
+        "triggeredRules": [
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a05a6"
+            },
+            "tagName": "Spray Top Pressure_Water Rinse 3",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.0000010394489891041303
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a05a9"
+            },
+            "tagName": "Spray Bottom Pressure_Water Rinse 3",
+            "operator": "<",
+            "threshold": 0.8,
+            "forecastedValue": 0.0000010394489891041303
+          }
+        ],
+        "probabilityScore": 100,
+        "riskLevel": "CRITICAL"
+      },
+      {
+        "defectName": "PERMEATE OOZEOUT DUST",
+        "triggeredRules": [
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a055b"
+            },
+            "tagName": "Spray Top Pressure_Water Rinse 1 and 2",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a055e"
+            },
+            "tagName": "Spray Bottom Pressure_Water Rinse 1 and 2",
+            "operator": "<",
+            "threshold": 0.8,
+            "forecastedValue": 0
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a055b"
+            },
+            "tagName": "Spray Top Pressure_Water Rinse 1 and 2",
+            "operator": "<",
+            "threshold": 0.8,
+            "forecastedValue": 0
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a055e"
+            },
+            "tagName": "Spray Bottom Pressure_Water Rinse 1 and 2",
+            "operator": "<",
+            "threshold": 0.7,
+            "forecastedValue": 0
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a05a6"
+            },
+            "tagName": "Spray Top Pressure_Water Rinse 3 and 4",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.0000010394489891041303
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a05a9"
+            },
+            "tagName": "Spray Bottom Pressure_Water Rinse 3 and 4",
+            "operator": "<",
+            "threshold": 0.8,
+            "forecastedValue": 0.0000010394489891041303
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a05a6"
+            },
+            "tagName": "Spray Top Pressure_Water Rinse 3 and 4",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.0000010394489891041303
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a05a9"
+            },
+            "tagName": "Spray Bottom Pressure_Water Rinse 3 and 4",
+            "operator": "<",
+            "threshold": 0.8,
+            "forecastedValue": 0.0000010394489891041303
+          },
+          {
+            "tag_id": {
+              "$oid": "699d79eaefe574e9bb9999ec"
+            },
+            "tagName": "Spray Pressure Bottom_UF Rinse 1",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.7978215217590332
+          },
+          {
+            "tag_id": {
+              "$oid": "699d79edefe574e9bb9aeb6d"
+            },
+            "tagName": "Spray Pressure Side 1_UF Rinse 1",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.882842481136322
+          },
+          {
+            "tag_id": {
+              "$oid": "699d79f0efe574e9bb9c3cee"
+            },
+            "tagName": "Spray Pressure Side 2_UF Rinse 1",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.6941448450088501
+          },
+          {
+            "tag_id": {
+              "$oid": "699d79f2efe574e9bb9d8e6f"
+            },
+            "tagName": "Spray Pressure Side 3_UF Rinse 1",
+            "operator": "<",
+            "threshold": 1.4,
+            "forecastedValue": 1.0809451341629028
+          }
+        ],
+        "probabilityScore": 92,
+        "riskLevel": "CRITICAL"
+      },
+      {
+        "defectName": "OIL MARK",
+        "triggeredRules": [
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a0507"
+            },
+            "tagName": "Spray Pressure Top_SprayDegrease",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.5207092761993408
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a050a"
+            },
+            "tagName": "Spray Pressure Bottom_SprayDegrease",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.49570178985595703
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a055b"
+            },
+            "tagName": "Spray Top Pressure_Water Rinse 1 and 2",
+            "operator": "<",
+            "threshold": 0.8,
+            "forecastedValue": 0
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a055e"
+            },
+            "tagName": "Spray Bottom Pressure_Water Rinse 1 and 2",
+            "operator": "<",
+            "threshold": 0.7,
+            "forecastedValue": 0
+          }
+        ],
+        "probabilityScore": 40,
+        "riskLevel": "MEDIUM"
+      },
+      {
+        "defectName": "CRATER",
+        "triggeredRules": [
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a0507"
+            },
+            "tagName": "Spray Pressure Top_SprayDegrease",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.5207092761993408
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a050a"
+            },
+            "tagName": "Spray Pressure Bottom_SprayDegrease",
+            "operator": "<",
+            "threshold": 0.9,
+            "forecastedValue": 0.49570178985595703
+          },
+          {
+            "tag_id": {
+              "$oid": "699426acbfb07d6db09a051f"
+            },
+            "tagName": "Cyclone Inlet Pressure_SprayDegrease",
+            "operator": "<",
+            "threshold": 2,
+            "forecastedValue": 0
+          }
+        ],
+        "probabilityScore": 38,
+        "riskLevel": "MEDIUM"
+      },
+      {
+        "defectName": "ED COAGULATION",
+        "triggeredRules": [
+          {
+            "tag_id": {
+              "$oid": "699d79f5efe574e9bb9edff0"
+            },
+            "tagName": "Spray Pressure Side 4_UF Rinse 1",
+            "operator": ">",
+            "threshold": 1.1,
+            "forecastedValue": 32.76322555541992
+          }
+        ],
+        "probabilityScore": 8,
+        "riskLevel": "LOW"
+      }
+    ],
+    "firstDetectedAt": {
+      "$date": "2026-09-09T05:40:17.123Z"
+    },
+    "lastStatusChangeAt": {
+      "$date": "2026-09-09T05:40:17.123Z"
+    },
+    "lastUpdatedAt": {
+      "$date": "2026-09-09T05:40:20.876Z"
+    },
+    "status": "ACTIVE"
+  }
+]
