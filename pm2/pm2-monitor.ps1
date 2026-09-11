@@ -5,38 +5,31 @@ $expectedApps = @(
 )
 
 $pm2 = "C:\Users\A365_A_RPMAYUR\AppData\Roaming\npm\pm2.cmd"
+$logFile = "C:\PM2\pm2-monitor.log"
 
-try {
-    $output = & $pm2 jlist 2>$null | Out-String
-    $processes = $output | ConvertFrom-Json
+foreach ($app in $expectedApps) {
 
-    $runningNames = @($processes | ForEach-Object { $_.name })
+    $result = & $pm2 pid $app 2>$null
+    $pid = $result | Select-Object -First 1
 
-    $missingApps = @(
-        $expectedApps | Where-Object {
-            $runningNames -notcontains $_
-        }
-    )
-
-    if ($missingApps.Count -gt 0) {
+    if ([string]::IsNullOrWhiteSpace($pid) -or $pid -eq "0") {
 
         $time = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
-        Add-Content "C:\PM2\pm2-monitor.log" `
-            "$time - Missing: $($missingApps -join ', '). Running pm2 resurrect..."
+        Add-Content $logFile "$time - $app is missing. Running pm2 resurrect."
 
         & $pm2 resurrect
 
         Start-Sleep -Seconds 10
 
-        Add-Content "C:\PM2\pm2-monitor.log" `
-            "$time - pm2 resurrect completed."
+        $check = & $pm2 pid $app 2>$null
+        $checkPid = $check | Select-Object -First 1
+
+        if ([string]::IsNullOrWhiteSpace($checkPid) -or $checkPid -eq "0") {
+            Add-Content $logFile "$time - FAILED: $app was not restored."
+        }
+        else {
+            Add-Content $logFile "$time - SUCCESS: $app restored. PID: $checkPid"
+        }
     }
-}
-catch {
-
-    $time = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-
-    Add-Content "C:\PM2\pm2-monitor.log" `
-        "$time - ERROR: $($_.Exception.Message)"
 }
