@@ -1,0 +1,144 @@
+@ -0,0 +1,143 @@
+Great. Now that the script works manually, the next step is to make **Windows run it automatically**.
+
+We can do this using **Windows Task Scheduler**, so no NSSM or other external tool is needed.
+
+### Step 1 — Make sure the folder exists
+
+In Administrator CMD:
+
+```cmd
+mkdir C:\PM2
+```
+
+You already have the script there, so this should simply say the directory already exists.
+
+### Step 2 — Test the script one more time
+
+Make sure all 3 PM2 apps are online:
+
+```cmd
+pm2 list
+```
+
+Then run:
+
+```cmd
+powershell -ExecutionPolicy Bypass -File C:\PM2\pm2-monitor.ps1
+```
+
+No error should appear.
+
+---
+
+### Step 3 — Create the Scheduled Task
+
+Run **Administrator CMD**:
+
+```cmd
+schtasks /create /tn "PM2 Process Monitor" /tr "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\PM2\pm2-monitor.ps1" /sc minute /mo 1 /ru SYSTEM
+```
+
+You should get:
+
+```text
+SUCCESS: The scheduled task "PM2 Process Monitor" has successfully been created.
+```
+
+This means Windows will execute your monitor **every 1 minute**.
+
+---
+
+### Step 4 — Verify the task
+
+Run:
+
+```cmd
+schtasks /query /tn "PM2 Process Monitor" /v /fo list
+```
+
+Look for:
+
+```text
+TaskName: \PM2 Process Monitor
+Status:    Ready
+```
+
+---
+
+### Step 5 — Test the automatic recovery
+
+Don't wait for your application to stop naturally.
+
+Run:
+
+```cmd
+pm2 delete Receiver
+```
+
+Confirm:
+
+```cmd
+pm2 list
+```
+
+`Receiver` should be missing.
+
+Now **wait up to 1 minute**.
+
+The scheduled task should run the PowerShell script and execute:
+
+```text
+pm2 resurrect
+```
+
+Then check:
+
+```cmd
+pm2 list
+```
+
+You should see:
+
+```text
+BE-Clonos    online
+ML-Clonos    online
+Receiver     online
+```
+
+### Check the monitor log
+
+```cmd
+type C:\PM2\pm2-monitor.log
+```
+
+You should see:
+
+```text
+Receiver is missing. Running pm2 resurrect.
+SUCCESS: Receiver restored. PID: XXXXX
+```
+
+---
+
+### One important concern
+
+There is one thing I want to verify **before we consider this production-ready**.
+
+Your PM2 is running under:
+
+```text
+A365_A_RPMAYUR
+```
+
+but the scheduled task above runs under:
+
+```text
+SYSTEM
+```
+
+PM2 is **user-specific on Windows**, so SYSTEM may have a completely different PM2 environment/process list.
+
+Therefore, if the scheduled task doesn't recover `Receiver`, **don't worry** — we'll change the task to run under your `A365_A_RPMAYUR` account instead.
+
+For now, do **Steps 3–5** and tell me what happens after you delete `Receiver`.
