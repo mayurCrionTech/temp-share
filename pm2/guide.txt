@@ -1,0 +1,176 @@
+Yes. I can see your 3 PM2 applications clearly:
+
+* `BE-Clonos`
+* `ML-Clonos`
+* `Receiver`
+
+All three are currently **online** in your screenshot.
+
+For your exact requirement:
+
+> **If any of these 3 becomes completely unlisted from `pm2 list`, automatically resurrect it.**
+
+We can do this **without NSSM, Chocolatey, or any third-party tool**. Windows already has PowerShell + Task Scheduler.
+
+### Recommended setup
+
+We'll make a small PowerShell monitor that checks these 3 names:
+
+```text
+BE-Clonos
+ML-Clonos
+Receiver
+```
+
+Every 1 minute it checks PM2. If even **one is missing**, it runs:
+
+```cmd
+pm2 resurrect
+```
+
+Your saved PM2 configuration will bring all 3 back.
+
+First, **very important**, run this while all 3 are online:
+
+```cmd
+pm2 save
+```
+
+You should get:
+
+```text
+[PM2] Saving current process list...
+```
+
+Then check:
+
+```cmd
+pm2 list
+```
+
+### Monitor script
+
+Create:
+
+```text
+C:\PM2\pm2-monitor.ps1
+```
+
+Put this inside:
+
+```powershell
+$expectedApps = @(
+    "BE-Clonos",
+    "ML-Clonos",
+    "Receiver"
+)
+
+$pm2 = "C:\Users\A365_A_RPMAYUR\AppData\Roaming\npm\pm2.cmd"
+
+try {
+    $output = & $pm2 jlist 2>$null | Out-String
+    $processes = $output | ConvertFrom-Json
+
+    $runningNames = @($processes | ForEach-Object { $_.name })
+
+    $missingApps = @(
+        $expectedApps | Where-Object {
+            $runningNames -notcontains $_
+        }
+    )
+
+    if ($missingApps.Count -gt 0) {
+
+        $time = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+
+        Add-Content "C:\PM2\pm2-monitor.log" `
+            "$time - Missing: $($missingApps -join ', '). Running pm2 resurrect..."
+
+        & $pm2 resurrect
+
+        Start-Sleep -Seconds 10
+
+        Add-Content "C:\PM2\pm2-monitor.log" `
+            "$time - pm2 resurrect completed."
+    }
+}
+catch {
+
+    $time = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+
+    Add-Content "C:\PM2\pm2-monitor.log" `
+        "$time - ERROR: $($_.Exception.Message)"
+}
+```
+
+Before using it, verify your PM2 path:
+
+```cmd
+where pm2
+```
+
+If it shows something different from:
+
+```text
+C:\Users\A365_A_RPMAYUR\AppData\Roaming\npm\pm2.cmd
+```
+
+change the `$pm2` line accordingly.
+
+### Then test it manually
+
+Stop one application **only for testing**:
+
+```cmd
+pm2 delete Receiver
+```
+
+Now:
+
+```cmd
+pm2 list
+```
+
+`Receiver` should be unlisted.
+
+Run the monitor:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File C:\PM2\pm2-monitor.ps1
+```
+
+Then:
+
+```cmd
+pm2 list
+```
+
+`Receiver` should come back.
+
+---
+
+### Then make Windows run it automatically
+
+We can create a Windows Scheduled Task that runs this every minute.
+
+This is **not an external tool** — Task Scheduler is built into Windows.
+
+Once this is configured, the flow becomes:
+
+```text
+BE-Clonos ─┐
+ML-Clonos ─┼── PM2
+Receiver ──┘
+     ↓
+One disappears from PM2
+     ↓
+PowerShell monitor detects it
+     ↓
+pm2 resurrect
+     ↓
+All saved PM2 apps restored
+```
+
+One important point: **don't use `pm2 save` after one of the apps has disappeared**, because you could overwrite the saved list without that application.
+
+If you want, I can give you the **exact commands to create the `C:\PM2` folder, create the script, and create the 1-minute Windows Scheduled Task**, step-by-step for your `A365_A_RPMAYUR` server.
