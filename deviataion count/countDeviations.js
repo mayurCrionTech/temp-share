@@ -1,7 +1,7 @@
 const { MongoClient } = require("mongodb");
 
 // MongoDB connection URI
-const MONGO_URI = "mongodb://localhost:27017";
+const MONGO_URI = "mongodb://appadmindtd:4BhJJq4TH%2F%2AYinZk%21EkQ@sascpche0159.che.dc.tbintra.net:12001/paintddt?authSource=admin";
 
 const DB_NAME = "paintddt";
 const COLLECTION_NAME = "setpointDeviationEvents";
