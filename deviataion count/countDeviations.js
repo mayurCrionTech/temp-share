@@ -1,7 +1,8 @@
 const { MongoClient } = require("mongodb");
 
 // MongoDB connection URI
-const MONGO_URI = "mongodb://appadmindtd:4BhJJq4TH%2F%2AYinZk%21EkQ@sascpche0159.che.dc.tbintra.net:12001/paintddt?authSource=admin";
+const MONGO_URI =
+  "mongodb://appadmindtd:4BhJJq4TH%2F%2AYinZk%21EkQ@sascpche0159.che.dc.tbintra.net:12001/paintddt?authSource=admin";
 
 const DB_NAME = "paintddt";
 const COLLECTION_NAME = "setpointDeviationEvents";
@@ -22,15 +23,21 @@ async function countSeptemberDeviations() {
     // Exclusive end date
     const endDate = new Date("2026-10-01T00:00:00.000Z");
 
-    // -----------------------------------------
-    // 1. Total deviation count
-    // -----------------------------------------
-    const totalCount = await collection.countDocuments({
+    // Common filter
+    const filter = {
       triggeredAt: {
         $gte: startDate,
         $lt: endDate,
       },
-    });
+      "sourceDetails.sourceType": {
+        $ne: "LOG",
+      },
+    };
+
+    // -----------------------------------------
+    // 1. Total deviation count
+    // -----------------------------------------
+    const totalCount = await collection.countDocuments(filter);
 
     // -----------------------------------------
     // 2. Tag-wise deviation count
@@ -38,12 +45,7 @@ async function countSeptemberDeviations() {
     const tagWiseCount = await collection
       .aggregate([
         {
-          $match: {
-            triggeredAt: {
-              $gte: startDate,
-              $lt: endDate,
-            },
-          },
+          $match: filter,
         },
         {
           $group: {
@@ -65,8 +67,9 @@ async function countSeptemberDeviations() {
     console.log("\n=================================");
     console.log("Setpoint Deviation Count");
     console.log("=================================");
-    console.log("Month          : September 2026");
-    console.log("Collection     :", COLLECTION_NAME);
+    console.log("Month           : September 2026");
+    console.log("Collection      :", COLLECTION_NAME);
+    console.log("Excluded Source : LOG");
     console.log("Total Deviations:", totalCount);
 
     console.log("\n=================================");
