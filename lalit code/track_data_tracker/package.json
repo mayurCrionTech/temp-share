@@ -1,0 +1,23 @@
+{
+  "name": "dicv-plc-data-exporter",
+  "version": "1.0.0",
+  "description": "Node.js utility to extract Cabin, Skid, Hanger, and Stage Entry/Exit tracking data from MongoDB time-series collection into CSV",
+  "main": "export.js",
+  "scripts": {
+    "start": "node export.js",
+    "test": "node --check export.js && node --check stage_config.js"
+  },
+  "keywords": [
+    "dicv",
+    "mongodb",
+    "digital-twin",
+    "plc-timeseries",
+    "csv-exporter"
+  ],
+  "author": "Crion Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0"
+  }
+}
