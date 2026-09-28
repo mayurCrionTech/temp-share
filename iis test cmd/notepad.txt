@@ -1,1 +1,4 @@
 curl.exe -i -X POST "http://localhost:2011/api/v1/auth/signin" -H "Content-Type: application/json" --data-raw "{\"email\":\"admin@criontech.com\",\"password\":\"123456\"}"
+
+
+curl.exe -i "http://localhost:2011/api/v1/tags/anomaly?tagId=YOUR_TAG_ID"
