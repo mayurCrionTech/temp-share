@@ -1,0 +1,17 @@
+[
+  {
+    "_id": {
+      "$oid": "6abe39ad4e910dc7723c60c7"
+    },
+    "jobName": "analyticsOccurrence",
+    "createdAt": {
+      "$date": "2026-10-01T10:45:01.544Z"
+    },
+    "lastProcessedAt": {
+      "$date": "2026-10-06T07:10:01.631Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-06T07:15:02.546Z"
+    }
+  }
+]
