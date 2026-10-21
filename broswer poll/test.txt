@@ -1,0 +1,29 @@
+pm2 list
+
+Get-CimInstance Win32_Process -Filter "Name = 'node.exe'" |
+ForEach-Object {
+    $owner = Invoke-CimMethod -InputObject $_ -MethodName GetOwner
+    [PSCustomObject]@{
+        PID  = $_.ProcessId
+        User = "$($owner.Domain)\$($owner.User)"
+    }
+} | Format-Table -AutoSize
+
+
+Test-Path "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+
+
+
+
+const browser = await puppeteer.launch({
+  headless: true,
+  executablePath:
+    "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+  userDataDir: "D:/Digitaltwin/clonosbe/BE-PROD/temp/puppeteer-profile",
+  dumpio: true,
+  args: [
+    "--no-first-run",
+    "--no-default-browser-check",
+    "--disable-gpu",
+  ],
+});
