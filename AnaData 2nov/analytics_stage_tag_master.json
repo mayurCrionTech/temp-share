@@ -1,0 +1,1217 @@
+[
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc7723961ef"
+    },
+    "stageId": "PT-1",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.356Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Degreasing Spray",
+    "order": 1,
+    "tags": [
+      {
+        "name": "Bath Temperature",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a050d"
+        },
+        "rangeRaw": "50-60 ºC",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure Bottom",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a050a"
+        },
+        "rangeRaw": "0.9 - 1.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure Top",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0507"
+        },
+        "rangeRaw": "0.9 - 1.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Heat Exchanger ∆P",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0510"
+        },
+        "rangeRaw": "< 0.7 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Cyclone Inlet Pressure",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a051f"
+        },
+        "rangeRaw": "2.0 - 2.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Cyclone ∆P",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0522"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Bag Filter 1 ∆P",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0516"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Bag Filter 2 ∆P",
+        "tagId": {
+          "$oid": "6a7c688863f1464aebae7645"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Oil Separator Temperature",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0525"
+        },
+        "rangeRaw": "80 - 85 °C",
+        "source": "Live"
+      },
+      {
+        "name": "Oil Separator Flow",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0528"
+        },
+        "rangeRaw": "10-15 LPM",
+        "source": "Log"
+      },
+      {
+        "name": "Free Alkali",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0519"
+        },
+        "rangeRaw": "16-19 Points",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.356Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc7723961f4"
+    },
+    "stageId": "PT-2",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.415Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Degreasing Dip",
+    "order": 2,
+    "tags": [
+      {
+        "name": "Bath Temperature",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a052b"
+        },
+        "rangeRaw": "52 - 58 ºC",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - LH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a052e"
+        },
+        "rangeRaw": "1.0 - 1.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - RH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0531"
+        },
+        "rangeRaw": "1.0 - 1.5 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - LH Side",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0552"
+        },
+        "rangeRaw": "2.6 - 3.0 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom",
+        "tagId": {
+          "$oid": "69a18055be84d052e4e1eb46"
+        },
+        "rangeRaw": "2.6 - 3.0 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Cyclone Inlet Pressure",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a054f"
+        },
+        "rangeRaw": "3.0 - 3.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Cyclone ∆P",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a054c"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Bag Filter ∆P",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0540"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Heat Exchanger ∆P",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a053a"
+        },
+        "rangeRaw": "< 0.7 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Exit Spray Flow",
+        "tagId": {
+          "$oid": "6a8ed4d56a2948fd77de1660"
+        },
+        "rangeRaw": "160 - 200 LPM",
+        "source": "Log"
+      },
+      {
+        "name": "Free Alkali",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0543"
+        },
+        "rangeRaw": "16-19 Points",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.415Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc7723961f6"
+    },
+    "stageId": "PT-3",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.421Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Water Rinse 1",
+    "order": 3,
+    "tags": [
+      {
+        "name": "Spray Pressure - Top",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a055b"
+        },
+        "rangeRaw": "0.7 - 0.9 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure - Bottom",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a055e"
+        },
+        "rangeRaw": "0.8 - 1.0 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Free Alkali WR1",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0564"
+        },
+        "rangeRaw": "< 5 Points",
+        "source": "Log"
+      },
+      {
+        "name": "Water Transfer To Degrease",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0567"
+        },
+        "rangeRaw": "14-19 LPM",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.421Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc7723961f9"
+    },
+    "stageId": "PT-4",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.434Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Water Rinse 2",
+    "order": 4,
+    "tags": [
+      {
+        "name": "Spray Pressure - Top",
+        "tagId": null,
+        "rangeRaw": "0.8-1.0 Bar",
+        "source": "Not mapped"
+      },
+      {
+        "name": "Spray Pressure - Bottom",
+        "tagId": null,
+        "rangeRaw": "0.7-0.9 Bar",
+        "source": "Not mapped"
+      },
+      {
+        "name": "Free Alkali WR2",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a056a"
+        },
+        "rangeRaw": "< 2 Points",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.434Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc7723961ff"
+    },
+    "stageId": "PT-5",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.443Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Activation",
+    "order": 5,
+    "tags": [
+      {
+        "name": "Circulation Pressure - RH",
+        "tagId": {
+          "$oid": "69a1805abe84d052e4e48e48"
+        },
+        "rangeRaw": "0.8 - 1.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - LH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a056d"
+        },
+        "rangeRaw": "0.8 - 1.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0570"
+        },
+        "rangeRaw": "1.8 - 2.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Exit Spray Flow",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0579"
+        },
+        "rangeRaw": "160-200 LPM",
+        "source": "Log"
+      },
+      {
+        "name": "Total Concentration Activation",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0573"
+        },
+        "rangeRaw": "3.0-3.9 Points",
+        "source": "Log"
+      },
+      {
+        "name": "PH Activation",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0576"
+        },
+        "rangeRaw": "9.0-11.0",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.443Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396201"
+    },
+    "stageId": "PT-6",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.448Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Phosphating",
+    "order": 6,
+    "tags": [
+      {
+        "name": "Bath Temp.",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a057c"
+        },
+        "rangeRaw": "40-45 ºC",
+        "source": "Live"
+      },
+      {
+        "name": "Hot Water Circuit Temperature",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0594"
+        },
+        "rangeRaw": "< 65 ºC",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - LH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a057f"
+        },
+        "rangeRaw": "1.0-1.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - RH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0582"
+        },
+        "rangeRaw": "1.0-1.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - LH Side",
+        "tagId": {
+          "$oid": "6a7c688863f1464aebae7796"
+        },
+        "rangeRaw": "1.0-1.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 1",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0585"
+        },
+        "rangeRaw": "1.2-1.6 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 2",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0588"
+        },
+        "rangeRaw": "1.2-1.6 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Hopper",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a059a"
+        },
+        "rangeRaw": "1.2-1.6 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Heat Exchanger Pressure Loss",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05a0"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Exit Spray Flow",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a059d"
+        },
+        "rangeRaw": "160 - 200 LPM",
+        "source": "Log"
+      },
+      {
+        "name": "Total Acidity",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a058b"
+        },
+        "rangeRaw": "22-24 Points",
+        "source": "Log"
+      },
+      {
+        "name": "Free Acidity",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a058e"
+        },
+        "rangeRaw": "0.7-1.2 Points",
+        "source": "Log"
+      },
+      {
+        "name": "Accelerator Content",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a0591"
+        },
+        "rangeRaw": "3.0-4.0 Points",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.448Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396208"
+    },
+    "stageId": "PT-7",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.457Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Water Rinse 3",
+    "order": 7,
+    "tags": [
+      {
+        "name": "Spray Pressure - Top",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05a6"
+        },
+        "rangeRaw": "0.9 - 1.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure - Bottom",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05a9"
+        },
+        "rangeRaw": "0.8 - 1.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Total Acid",
+        "tagId": {
+          "$oid": "6a9e9e7fa4169be4f0f3df41"
+        },
+        "rangeRaw": "< 5 Points",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.457Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc77239620b"
+    },
+    "stageId": "PT-8",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.463Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Water Rinse 4",
+    "order": 8,
+    "tags": [
+      {
+        "name": "Spray Pressure - Top",
+        "tagId": null,
+        "rangeRaw": "0.9 - 1.2 Bar",
+        "source": "Not mapped"
+      },
+      {
+        "name": "Spray Pressure - Bottom",
+        "tagId": null,
+        "rangeRaw": "0.8 - 1.1 Bar",
+        "source": "Not mapped"
+      },
+      {
+        "name": "Total Acid",
+        "tagId": {
+          "$oid": "6a9e9e7fa4169be4f0f3df42"
+        },
+        "rangeRaw": "< 2 Points",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.463Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc77239620d"
+    },
+    "stageId": "PT-9",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.467Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "Water Rinse 5",
+    "order": 9,
+    "tags": [
+      {
+        "name": "Conductivity",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05c1"
+        },
+        "rangeRaw": "< 30 µs/cm",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - LH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05b8"
+        },
+        "rangeRaw": "1.0-1.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - RH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05bb"
+        },
+        "rangeRaw": "1.0-1.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom",
+        "tagId": {
+          "$oid": "6a7c688963f1464aebae7820"
+        },
+        "rangeRaw": "1.0-1.4 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Exit Spray Flow",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05be"
+        },
+        "rangeRaw": "160-200 LPM",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.467Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc77239620f"
+    },
+    "stageId": "PT-10",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.472Z"
+    },
+    "isManualInspection": false,
+    "line": "PT",
+    "name": "DI Water Spray",
+    "order": 10,
+    "tags": [
+      {
+        "name": "PH",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05c4"
+        },
+        "rangeRaw": "6.0-7.5",
+        "source": "Log"
+      },
+      {
+        "name": "Conductivity DI Water",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05ca"
+        },
+        "rangeRaw": "<= 10 µs/cm",
+        "source": "Log"
+      },
+      {
+        "name": "DI Water Spray Flow",
+        "tagId": {
+          "$oid": "699426acbfb07d6db09a05cd"
+        },
+        "rangeRaw": "110-180 LPM",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.472Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396212"
+    },
+    "stageId": "PT-11",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.476Z"
+    },
+    "isManualInspection": true,
+    "line": "PT",
+    "name": "PT Wet Inspection",
+    "order": 11,
+    "tags": [],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.476Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396214"
+    },
+    "stageId": "ED-1",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.480Z"
+    },
+    "isManualInspection": false,
+    "line": "ED",
+    "name": "E-Coat",
+    "order": 1,
+    "tags": [
+      {
+        "name": "Bath Level",
+        "tagId": {
+          "$oid": "6a7c688963f1464aebae7898"
+        },
+        "rangeRaw": "270 ± 30 mm",
+        "source": "Live"
+      },
+      {
+        "name": "Bath Temperature",
+        "tagId": {
+          "$oid": "699d79acefe574e9bb79f5d4"
+        },
+        "rangeRaw": "30 - 32 ˚C",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 1",
+        "tagId": {
+          "$oid": "699d79afefe574e9bb7b4755"
+        },
+        "rangeRaw": "1.6-2.0 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 2",
+        "tagId": {
+          "$oid": "699d79b1efe574e9bb7c98d6"
+        },
+        "rangeRaw": "1.6-2.0 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 3",
+        "tagId": {
+          "$oid": "699d79b4efe574e9bb7dea57"
+        },
+        "rangeRaw": "1.6-2.0 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 4",
+        "tagId": {
+          "$oid": "699d79b6efe574e9bb7f3bd8"
+        },
+        "rangeRaw": "1.6-2.0 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Inlet Wall",
+        "tagId": {
+          "$oid": "699d79b9efe574e9bb808d59"
+        },
+        "rangeRaw": "1.8-2.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Sub Tank",
+        "tagId": {
+          "$oid": "699d79bbefe574e9bb81deda"
+        },
+        "rangeRaw": "0.5-0.9 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - RH",
+        "tagId": {
+          "$oid": "699d79beefe574e9bb83305b"
+        },
+        "rangeRaw": "0.8-1.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - LH",
+        "tagId": {
+          "$oid": "699d79c0efe574e9bb8481dc"
+        },
+        "rangeRaw": "0.8-1.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Paint filter 1 ∆P",
+        "tagId": {
+          "$oid": "699d79c5efe574e9bb8724de"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Paint filter 2 ∆P",
+        "tagId": {
+          "$oid": "699d79c7efe574e9bb88765f"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "HEAT EXCHANGER ∆P",
+        "tagId": {
+          "$oid": "699d79caefe574e9bb89c7e0"
+        },
+        "rangeRaw": "< 0.2 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Exit Spray Flow",
+        "tagId": {
+          "$oid": "69c27cb0553da24f12522f2e"
+        },
+        "rangeRaw": "120-140 LPM",
+        "source": "Log"
+      },
+      {
+        "name": "Solids Content",
+        "tagId": {
+          "$oid": "69c27c8a553da24f123e689f"
+        },
+        "rangeRaw": "22-24",
+        "source": "Log"
+      },
+      {
+        "name": "Ash Content",
+        "tagId": {
+          "$oid": "69c27c8d553da24f123fba20"
+        },
+        "rangeRaw": "20-24",
+        "source": "Log"
+      },
+      {
+        "name": "PH",
+        "tagId": {
+          "$oid": "69c27c8f553da24f12410ba1"
+        },
+        "rangeRaw": "5.5-6.1",
+        "source": "Log"
+      },
+      {
+        "name": "Conductivity",
+        "tagId": {
+          "$oid": "69c27c92553da24f12425d22"
+        },
+        "rangeRaw": "1200-2400 µs/cm",
+        "source": "Log"
+      },
+      {
+        "name": "MEQ",
+        "tagId": {
+          "$oid": "69c27c94553da24f1243aea3"
+        },
+        "rangeRaw": "23-31 Mmol",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.480Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396216"
+    },
+    "stageId": "ED-2",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.485Z"
+    },
+    "isManualInspection": false,
+    "line": "ED",
+    "name": "Anolyte",
+    "order": 2,
+    "tags": [
+      {
+        "name": "Conductivity",
+        "tagId": {
+          "$oid": "699d79cfefe574e9bb8c6ae2"
+        },
+        "rangeRaw": "500 - 1000 µs/cm",
+        "source": "Live"
+      },
+      {
+        "name": "Flow Total",
+        "tagId": {
+          "$oid": "69c27cc0553da24f125a1834"
+        },
+        "rangeRaw": "60 - 90 LPM",
+        "source": "Log"
+      },
+      {
+        "name": "Flow Individual Cell",
+        "tagId": {
+          "$oid": "69c27cc3553da24f125b69b5"
+        },
+        "rangeRaw": "2.0 - 3.0 LPM",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.485Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396218"
+    },
+    "stageId": "ED-3",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.489Z"
+    },
+    "isManualInspection": false,
+    "line": "ED",
+    "name": "UF System",
+    "order": 3,
+    "tags": [
+      {
+        "name": "Flux Rate",
+        "tagId": {
+          "$oid": "69a0058fcc5780b526a18cf6"
+        },
+        "rangeRaw": "> 1950 LPH",
+        "source": "Live"
+      },
+      {
+        "name": "Inlet Pressure",
+        "tagId": {
+          "$oid": "699d79d9efe574e9bb91b0e6"
+        },
+        "rangeRaw": "3.3 - 4.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Back Pressure",
+        "tagId": {
+          "$oid": "699d79dcefe574e9bb930267"
+        },
+        "rangeRaw": "1.5 -1.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "BAG FILTER ∆P",
+        "tagId": {
+          "$oid": "699d79e2efe574e9bb95a569"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Flux Rate Module (any 4 of 5)",
+        "tagId": {
+          "$oid": "69c27d02553da24f127b0dcd"
+        },
+        "rangeRaw": "> 500 LPH",
+        "source": "Log"
+      },
+      {
+        "name": "Permeate Transfer Flow",
+        "tagId": {
+          "$oid": "69c27cd0553da24f1260afb9"
+        },
+        "rangeRaw": "7300 -7500 LPH",
+        "source": "Log"
+      },
+      {
+        "name": "PH",
+        "tagId": {
+          "$oid": "69c27cc6553da24f125cbb36"
+        },
+        "rangeRaw": "5.2-5.9",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.489Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc77239621a"
+    },
+    "stageId": "ED-4",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.493Z"
+    },
+    "isManualInspection": false,
+    "line": "ED",
+    "name": "After DI Rinse",
+    "order": 4,
+    "tags": [
+      {
+        "name": "DI Water Spray Flow",
+        "tagId": {
+          "$oid": "699d79ccefe574e9bb8b1961"
+        },
+        "rangeRaw": "80-120 LPH",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.493Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc77239621d"
+    },
+    "stageId": "ED-5",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.496Z"
+    },
+    "isManualInspection": false,
+    "line": "ED",
+    "name": "RCDI Spray",
+    "order": 5,
+    "tags": [
+      {
+        "name": "Conductivity",
+        "tagId": {
+          "$oid": "69a0058ccc5780b526a03b75"
+        },
+        "rangeRaw": "< 100 µs/Cm",
+        "source": "Live"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.496Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc77239621f"
+    },
+    "stageId": "ED-6",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.499Z"
+    },
+    "isManualInspection": false,
+    "line": "ED",
+    "name": "UF Rinse-1 (Spray)",
+    "order": 6,
+    "tags": [
+      {
+        "name": "Spray Pressure - Bottom",
+        "tagId": {
+          "$oid": "699d79eaefe574e9bb9999ec"
+        },
+        "rangeRaw": "0.9 to 1.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure - Side 1",
+        "tagId": {
+          "$oid": "699d79edefe574e9bb9aeb6d"
+        },
+        "rangeRaw": "0.9 to 1.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure - Side 2",
+        "tagId": {
+          "$oid": "699d79f0efe574e9bb9c3cee"
+        },
+        "rangeRaw": "0.9 to 1.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure - Side 3",
+        "tagId": {
+          "$oid": "699d79f2efe574e9bb9d8e6f"
+        },
+        "rangeRaw": "1.4 to 1.6 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Spray Pressure - Side 4",
+        "tagId": {
+          "$oid": "699d79f5efe574e9bb9edff0"
+        },
+        "rangeRaw": "0.9 to 1.1 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Bag filter ∆P",
+        "tagId": {
+          "$oid": "699d79f7efe574e9bba03171"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Solids Content",
+        "tagId": {
+          "$oid": "69c27cd4553da24f126352bb"
+        },
+        "rangeRaw": "< 2.0 %",
+        "source": "Log"
+      },
+      {
+        "name": "PH",
+        "tagId": {
+          "$oid": "69c27cd8553da24f1264a43c"
+        },
+        "rangeRaw": "5.2-5.9",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.499Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396221"
+    },
+    "stageId": "ED-7",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.502Z"
+    },
+    "isManualInspection": false,
+    "line": "ED",
+    "name": "UF Rinse-2 (Dip)",
+    "order": 7,
+    "tags": [
+      {
+        "name": "Circulation Pressure - Bottom 1",
+        "tagId": {
+          "$oid": "699d79ffefe574e9bba425f4"
+        },
+        "rangeRaw": "1.3 - 1.7 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 2",
+        "tagId": {
+          "$oid": "699d7a01efe574e9bba57775"
+        },
+        "rangeRaw": "1.3 - 1.7 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Circulation Pressure - Bottom 3",
+        "tagId": {
+          "$oid": "699d7a04efe574e9bba6c8f6"
+        },
+        "rangeRaw": "1.3 - 1.7 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Bag filter ∆P",
+        "tagId": {
+          "$oid": "699d7a09efe574e9bba96bf8"
+        },
+        "rangeRaw": "< 0.8 Bar",
+        "source": "Live"
+      },
+      {
+        "name": "Solids Content",
+        "tagId": {
+          "$oid": "69c27ce9553da24f126ddec3"
+        },
+        "rangeRaw": "< 2.0 %",
+        "source": "Log"
+      },
+      {
+        "name": "PH",
+        "tagId": {
+          "$oid": "69c27ceb553da24f126f3044"
+        },
+        "rangeRaw": "5.2-5.9",
+        "source": "Log"
+      },
+      {
+        "name": "Exit Spray Flow",
+        "tagId": {
+          "$oid": "69c27cf5553da24f12747648"
+        },
+        "rangeRaw": "120 -140 LPM",
+        "source": "Log"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.502Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6abe36574e910dc772396223"
+    },
+    "stageId": "ED-8",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-01T10:30:47.506Z"
+    },
+    "isManualInspection": true,
+    "line": "ED",
+    "name": "EC Wet Inspection",
+    "order": 8,
+    "tags": [],
+    "updatedAt": {
+      "$date": "2026-10-01T10:30:47.506Z"
+    }
+  }
+]
