@@ -100,3 +100,6 @@ node exportLiveData.js --date 2026-08-04 --from 00:00 --to 24:00
 node exportLiveData.js --date 2026-11-02 --from 07:30 --to 16:00
 
 */
+
+// how to restore
+// mongoimport --uri "mongodb://localhost:27017" --db paintddt --collection liveData_test --file liveData_2026-11-02_1300-1500IST.ndjson
